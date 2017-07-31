@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DebugConsole
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/DebuggingScripts/DebugConsole.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/DebuggingScripts/DebugConsole.cs
 // File based on original modification date of: 1 December 2015, at 03:38. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

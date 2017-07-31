@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CameraRelativeScale
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/CameraRelativeScale.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/CameraRelativeScale.cs
 // File based on original modification date of: 19 October 2012, at 13:43. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/NotificationCenter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MessagingSystems/NotificationCenter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MessagingSystems/NotificationCenter.cs
 // File based on original modification date of: 8 June 2012, at 17:48. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

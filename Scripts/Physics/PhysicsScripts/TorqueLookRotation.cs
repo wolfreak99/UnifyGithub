@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TorqueLookRotation
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/PhysicsScripts/TorqueLookRotation.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/PhysicsScripts/TorqueLookRotation.cs
 // File based on original modification date of: 27 January 2012, at 22:26. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

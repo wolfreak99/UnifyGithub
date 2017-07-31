@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ObjectLabel
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/ObjectLabel.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/ObjectLabel.cs
 // File based on original modification date of: 23 November 2014, at 15:23. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

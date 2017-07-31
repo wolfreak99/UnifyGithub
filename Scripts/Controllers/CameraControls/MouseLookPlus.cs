@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MouseLookPlus
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/MouseLookPlus.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/MouseLookPlus.cs
 // File based on original modification date of: 10 January 2012, at 20:52. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

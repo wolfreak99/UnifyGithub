@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Camera_Shake
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Camera_Shake.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Camera_Shake.cs
 // File based on original modification date of: 29 September 2016, at 16:32. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

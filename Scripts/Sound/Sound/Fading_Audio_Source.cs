@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Fading_Audio_Source
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Sound/Sound/Fading_Audio_Source.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Sound/Sound/Fading_Audio_Source.cs
 // File based on original modification date of: 23 May 2014, at 15:40. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

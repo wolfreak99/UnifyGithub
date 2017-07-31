@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ModularConstruction
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/ModularConstruction.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/ModularConstruction.cs
 // File based on original modification date of: 13 July 2016, at 03:18. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

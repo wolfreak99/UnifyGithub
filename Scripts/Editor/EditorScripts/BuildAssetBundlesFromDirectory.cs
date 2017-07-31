@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/BuildAssetBundlesFromDirectory
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/BuildAssetBundlesFromDirectory.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/BuildAssetBundlesFromDirectory.cs
 // File based on original modification date of: 27 March 2014, at 00:09. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

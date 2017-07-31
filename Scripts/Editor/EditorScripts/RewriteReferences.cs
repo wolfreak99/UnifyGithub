@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/RewriteReferences
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/RewriteReferences.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/RewriteReferences.cs
 // File based on original modification date of: 16 August 2016, at 10:27. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

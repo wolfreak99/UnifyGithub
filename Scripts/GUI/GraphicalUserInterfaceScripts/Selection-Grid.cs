@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Selection-Grid
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/Selection-Grid.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/Selection-Grid.cs
 // File based on original modification date of: 9 June 2014, at 10:26. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

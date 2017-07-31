@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Floating_Origin
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/Floating_Origin.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/Floating_Origin.cs
 // File based on original modification date of: 8 September 2016, at 16:19. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

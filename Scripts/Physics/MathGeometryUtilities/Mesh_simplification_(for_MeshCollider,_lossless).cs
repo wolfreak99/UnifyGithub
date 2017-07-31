@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Mesh_simplification_(for_MeshCollider,_lossless)
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/MathGeometryUtilities/Mesh_simplification_(for_MeshCollider,_lossless).cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/MathGeometryUtilities/Mesh_simplification_(for_MeshCollider,_lossless).cs
 // File based on original modification date of: 16 November 2016, at 15:34. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

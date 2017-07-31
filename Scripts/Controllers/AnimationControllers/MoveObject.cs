@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MoveObject
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/AnimationControllers/MoveObject.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/AnimationControllers/MoveObject.cs
 // File based on original modification date of: 27 June 2016, at 02:08. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

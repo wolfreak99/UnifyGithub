@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Teleporter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/Teleporter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/Teleporter.cs
 // File based on original modification date of: 10 January 2012, at 20:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

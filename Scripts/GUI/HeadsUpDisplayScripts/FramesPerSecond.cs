@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/FramesPerSecond
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/HeadsUpDisplayScripts/FramesPerSecond.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/HeadsUpDisplayScripts/FramesPerSecond.cs
 // File based on original modification date of: 8 May 2015, at 20:50. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Blender_Camera_Controls_Window
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Blender_Camera_Controls_Window.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Blender_Camera_Controls_Window.cs
 // File based on original modification date of: 8 December 2013, at 16:41. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SmoothLookAt_CS
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/SmoothLookAt_CS.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/SmoothLookAt_CS.cs
 // File based on original modification date of: 9 December 2012, at 14:54. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

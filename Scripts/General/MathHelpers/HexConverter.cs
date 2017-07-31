@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/HexConverter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MathHelpers/HexConverter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MathHelpers/HexConverter.cs
 // File based on original modification date of: 17 November 2014, at 08:34. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

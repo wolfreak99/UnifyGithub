@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ModelImporterPresetManager
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/ModelImporterPresetManager.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/ModelImporterPresetManager.cs
 // File based on original modification date of: 11 July 2012, at 19:23. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DetectLeaks
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/DebuggingScripts/DetectLeaks.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/DebuggingScripts/DetectLeaks.cs
 // File based on original modification date of: 15 March 2014, at 21:34. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

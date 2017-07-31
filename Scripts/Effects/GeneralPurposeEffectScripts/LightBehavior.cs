@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/LightBehavior
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/LightBehavior.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/LightBehavior.cs
 // File based on original modification date of: 24 June 2012, at 17:17. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

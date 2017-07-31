@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TextureFilter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/TextureFilter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/TextureFilter.cs
 // File based on original modification date of: 29 September 2014, at 09:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

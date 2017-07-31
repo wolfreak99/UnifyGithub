@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/XKCDColorsByIndex
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/TextureColor/XKCDColorsByIndex.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/XKCDColorsByIndex.cs
 // File based on original modification date of: 14 July 2016, at 22:49. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

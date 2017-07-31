@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/StaticPerformanceOptimization
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/PerformanceScripts/StaticPerformanceOptimization.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/PerformanceScripts/StaticPerformanceOptimization.cs
 // File based on original modification date of: 11 April 2008, at 12:17. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MazeGenerator
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/MazeGenerator.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/MazeGenerator.cs
 // File based on original modification date of: 6 November 2012, at 13:31. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

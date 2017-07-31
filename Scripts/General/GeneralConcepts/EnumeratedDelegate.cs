@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/EnumeratedDelegate
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/EnumeratedDelegate.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/EnumeratedDelegate.cs
 // File based on original modification date of: 6 April 2012, at 23:50. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

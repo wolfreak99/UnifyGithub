@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/OpenScenesFromMenu
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/OpenScenesFromMenu.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/OpenScenesFromMenu.cs
 // File based on original modification date of: 4 March 2015, at 15:26. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

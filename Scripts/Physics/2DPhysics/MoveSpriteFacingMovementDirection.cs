@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MoveSpriteFacingMovementDirection
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/2DPhysics/MoveSpriteFacingMovementDirection.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/2DPhysics/MoveSpriteFacingMovementDirection.cs
 // File based on original modification date of: 22 May 2015, at 05:30. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

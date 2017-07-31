@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TextureFloodFill
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/TextureColor/TextureFloodFill.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/TextureFloodFill.cs
 // File based on original modification date of: 28 October 2014, at 13:24. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

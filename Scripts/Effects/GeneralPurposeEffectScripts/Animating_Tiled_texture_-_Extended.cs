@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Animating_Tiled_texture_-_Extended
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Animating_Tiled_texture_-_Extended.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Animating_Tiled_texture_-_Extended.cs
 // File based on original modification date of: 23 March 2013, at 17:45. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

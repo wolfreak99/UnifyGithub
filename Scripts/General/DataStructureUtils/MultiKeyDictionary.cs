@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MultiKeyDictionary
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/DataStructureUtils/MultiKeyDictionary.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/DataStructureUtils/MultiKeyDictionary.cs
 // File based on original modification date of: 26 March 2012, at 15:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

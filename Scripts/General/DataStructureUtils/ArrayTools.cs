@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ArrayTools
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/DataStructureUtils/ArrayTools.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/DataStructureUtils/ArrayTools.cs
 // File based on original modification date of: 20 February 2012, at 17:08. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

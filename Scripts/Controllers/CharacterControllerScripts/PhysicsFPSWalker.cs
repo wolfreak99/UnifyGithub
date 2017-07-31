@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/PhysicsFPSWalker
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/PhysicsFPSWalker.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/PhysicsFPSWalker.cs
 // File based on original modification date of: 24 October 2012, at 21:48. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

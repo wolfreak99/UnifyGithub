@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AnimationShortcuts
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/AnimationShortcuts.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/AnimationShortcuts.cs
 // File based on original modification date of: 25 April 2012, at 00:07. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

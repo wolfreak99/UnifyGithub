@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Spline_Controller
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Spline_Controller.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Spline_Controller.cs
 // File based on original modification date of: 7 September 2013, at 07:59. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

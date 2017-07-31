@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SceneViewWindow
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/SceneViewWindow.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/SceneViewWindow.cs
 // File based on original modification date of: 1 July 2013, at 23:00. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

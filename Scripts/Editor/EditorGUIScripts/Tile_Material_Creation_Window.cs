@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Tile_Material_Creation_Window
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/Tile_Material_Creation_Window.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/Tile_Material_Creation_Window.cs
 // File based on original modification date of: 15 December 2012, at 20:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

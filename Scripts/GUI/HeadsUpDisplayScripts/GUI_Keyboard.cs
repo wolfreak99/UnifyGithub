@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/GUI_Keyboard
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/HeadsUpDisplayScripts/GUI_Keyboard.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/HeadsUpDisplayScripts/GUI_Keyboard.cs
 // File based on original modification date of: 11 December 2012, at 22:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

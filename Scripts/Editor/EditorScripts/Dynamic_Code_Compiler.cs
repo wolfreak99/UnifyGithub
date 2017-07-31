@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Dynamic_Code_Compiler
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Dynamic_Code_Compiler.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Dynamic_Code_Compiler.cs
 // File based on original modification date of: 19 November 2013, at 21:13. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

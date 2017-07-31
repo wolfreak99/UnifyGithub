@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Averaging_Quaternions_and_Vectors
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Averaging_Quaternions_and_Vectors.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Averaging_Quaternions_and_Vectors.cs
 // File based on original modification date of: 4 May 2013, at 09:52. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

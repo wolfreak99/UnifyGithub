@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/PolyLineEditor
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/PolyLineEditor.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/PolyLineEditor.cs
 // File based on original modification date of: 6 September 2012, at 10:33. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

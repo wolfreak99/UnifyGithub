@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TrackballCamera
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/TrackballCamera.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/TrackballCamera.cs
 // File based on original modification date of: 23 February 2016, at 20:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

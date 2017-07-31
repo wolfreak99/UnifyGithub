@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AutoType
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/AutoType.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/AutoType.cs
 // File based on original modification date of: 11 March 2015, at 13:37. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

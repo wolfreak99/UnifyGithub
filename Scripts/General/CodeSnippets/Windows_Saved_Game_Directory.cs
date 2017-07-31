@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Windows_Saved_Game_Directory
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Windows_Saved_Game_Directory.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Windows_Saved_Game_Directory.cs
 // File based on original modification date of: 4 April 2013, at 21:18. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Load_Data_from_Excel_2003
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Load_Data_from_Excel_2003.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Load_Data_from_Excel_2003.cs
 // File based on original modification date of: 9 January 2013, at 18:05. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

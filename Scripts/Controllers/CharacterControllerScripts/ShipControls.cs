@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ShipControls
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/ShipControls.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/ShipControls.cs
 // File based on original modification date of: 10 January 2012, at 20:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Config_loading
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Config_loading.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Config_loading.cs
 // File based on original modification date of: 2 April 2017, at 12:23. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

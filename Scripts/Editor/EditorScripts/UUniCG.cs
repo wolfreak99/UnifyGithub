@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/UUniCG
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/UUniCG.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/UUniCG.cs
 // File based on original modification date of: 19 June 2014, at 20:25. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TerrainObjExporter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/TerrainObjExporter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/TerrainObjExporter.cs
 // File based on original modification date of: 17 August 2014, at 04:32. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

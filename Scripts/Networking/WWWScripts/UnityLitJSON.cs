@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/UnityLitJSON
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Networking/WWWScripts/UnityLitJSON.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Networking/WWWScripts/UnityLitJSON.cs
 // File based on original modification date of: 19 January 2013, at 23:23. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

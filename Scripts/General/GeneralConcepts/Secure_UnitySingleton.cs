@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Secure_UnitySingleton
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/Secure_UnitySingleton.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/Secure_UnitySingleton.cs
 // File based on original modification date of: 11 February 2016, at 16:46. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DelayedMessage
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MessagingSystems/DelayedMessage.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MessagingSystems/DelayedMessage.cs
 // File based on original modification date of: 7 March 2013, at 12:11. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/BatchActiveToggle
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/BatchActiveToggle.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/BatchActiveToggle.cs
 // File based on original modification date of: 27 January 2014, at 10:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

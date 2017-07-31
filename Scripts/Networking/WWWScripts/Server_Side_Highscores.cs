@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Server_Side_Highscores
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Networking/WWWScripts/Server_Side_Highscores.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Networking/WWWScripts/Server_Side_Highscores.cs
 // File based on original modification date of: 1 March 2013, at 03:13. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

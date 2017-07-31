@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/GUIHelpers
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/GUIHelpers.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/GUIHelpers.cs
 // File based on original modification date of: 24 November 2013, at 03:08. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

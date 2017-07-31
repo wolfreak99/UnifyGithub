@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CoroutineHelper
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/CoroutineHelper.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/CoroutineHelper.cs
 // File based on original modification date of: 13 February 2014, at 16:46. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

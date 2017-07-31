@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CombineSkinnedMeshes
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/PerformanceScripts/CombineSkinnedMeshes.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/PerformanceScripts/CombineSkinnedMeshes.cs
 // File based on original modification date of: 10 January 2012, at 20:45. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

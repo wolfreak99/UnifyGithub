@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Mesh2Collider
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Mesh2Collider.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Mesh2Collider.cs
 // File based on original modification date of: 18 October 2013, at 18:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

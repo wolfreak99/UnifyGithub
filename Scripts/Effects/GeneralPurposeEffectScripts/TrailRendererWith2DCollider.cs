@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TrailRendererWith2DCollider
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/TrailRendererWith2DCollider.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/TrailRendererWith2DCollider.cs
 // File based on original modification date of: 23 July 2015, at 21:29. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MetaMorph
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MeshHelpers/MetaMorph.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/MetaMorph.cs
 // File based on original modification date of: 1 February 2011, at 11:47. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

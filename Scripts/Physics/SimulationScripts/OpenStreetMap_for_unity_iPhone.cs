@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/OpenStreetMap_for_unity_iPhone
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/SimulationScripts/OpenStreetMap_for_unity_iPhone.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/SimulationScripts/OpenStreetMap_for_unity_iPhone.cs
 // File based on original modification date of: 28 November 2012, at 09:41. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

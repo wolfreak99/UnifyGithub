@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DMGInput
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/DMGInput.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/DMGInput.cs
 // File based on original modification date of: 30 January 2012, at 20:04. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

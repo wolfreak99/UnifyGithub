@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Triangulator
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MeshHelpers/Triangulator.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/Triangulator.cs
 // File based on original modification date of: 23 August 2016, at 12:17. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

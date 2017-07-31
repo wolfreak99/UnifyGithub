@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MobileSimulator
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/MobileSimulator.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/MobileSimulator.cs
 // File based on original modification date of: 12 March 2014, at 09:29. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

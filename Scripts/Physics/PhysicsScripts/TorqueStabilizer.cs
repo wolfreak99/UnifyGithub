@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TorqueStabilizer
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/PhysicsScripts/TorqueStabilizer.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/PhysicsScripts/TorqueStabilizer.cs
 // File based on original modification date of: 6 February 2012, at 22:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

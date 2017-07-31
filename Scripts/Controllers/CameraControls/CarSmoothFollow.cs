@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CarSmoothFollow
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/CarSmoothFollow.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/CarSmoothFollow.cs
 // File based on original modification date of: 13 February 2013, at 17:31. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Scrolling_UVs
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Scrolling_UVs.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Scrolling_UVs.cs
 // File based on original modification date of: 10 January 2012, at 20:45. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

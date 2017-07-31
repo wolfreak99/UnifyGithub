@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CameraFacingBillboard
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/CameraFacingBillboard.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/CameraFacingBillboard.cs
 // File based on original modification date of: 13 October 2015, at 17:00. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

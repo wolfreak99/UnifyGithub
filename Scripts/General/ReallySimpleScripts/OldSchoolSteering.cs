@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/OldSchoolSteering
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/OldSchoolSteering.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/OldSchoolSteering.cs
 // File based on original modification date of: 29 December 2012, at 17:50. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

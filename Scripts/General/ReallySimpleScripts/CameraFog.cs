@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CameraFog
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/CameraFog.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/CameraFog.cs
 // File based on original modification date of: 3 April 2015, at 09:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

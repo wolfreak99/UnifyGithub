@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/LevelUp
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/LevelUp.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/LevelUp.cs
 // File based on original modification date of: 23 July 2016, at 18:47. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Expose_properties_in_inspector
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Expose_properties_in_inspector.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Expose_properties_in_inspector.cs
 // File based on original modification date of: 22 February 2016, at 19:18. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

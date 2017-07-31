@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Perlin_Noise
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Perlin_Noise.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Perlin_Noise.cs
 // File based on original modification date of: 23 October 2012, at 04:01. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

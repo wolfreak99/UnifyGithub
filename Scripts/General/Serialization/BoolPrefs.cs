@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/BoolPrefs
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/Serialization/BoolPrefs.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/Serialization/BoolPrefs.cs
 // File based on original modification date of: 14 May 2014, at 17:39. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

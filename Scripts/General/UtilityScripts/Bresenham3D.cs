@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Bresenham3D
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/Bresenham3D.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/Bresenham3D.cs
 // File based on original modification date of: 19 May 2013, at 11:11. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

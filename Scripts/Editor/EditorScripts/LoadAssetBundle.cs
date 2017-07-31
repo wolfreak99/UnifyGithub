@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/LoadAssetBundle
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/LoadAssetBundle.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/LoadAssetBundle.cs
 // File based on original modification date of: 27 September 2012, at 21:56. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

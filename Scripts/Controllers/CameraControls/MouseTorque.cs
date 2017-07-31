@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MouseTorque
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/MouseTorque.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/MouseTorque.cs
 // File based on original modification date of: 5 December 2012, at 14:21. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/BoxColliderUtilities
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/BoxColliderUtilities.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/BoxColliderUtilities.cs
 // File based on original modification date of: 22 February 2013, at 15:41. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/WalkOnSphere
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/WalkOnSphere.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/WalkOnSphere.cs
 // File based on original modification date of: 7 March 2014, at 18:00. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

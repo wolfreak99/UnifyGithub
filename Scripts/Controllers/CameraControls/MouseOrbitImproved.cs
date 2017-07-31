@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MouseOrbitImproved
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/MouseOrbitImproved.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/MouseOrbitImproved.cs
 // File based on original modification date of: 14 April 2015, at 09:11. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

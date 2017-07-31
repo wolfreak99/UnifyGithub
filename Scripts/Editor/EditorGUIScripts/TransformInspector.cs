@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TransformInspector
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/TransformInspector.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/TransformInspector.cs
 // File based on original modification date of: 26 September 2015, at 21:25. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

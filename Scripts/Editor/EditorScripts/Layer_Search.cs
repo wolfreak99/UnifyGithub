@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Layer_Search
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Layer_Search.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Layer_Search.cs
 // File based on original modification date of: 29 March 2011, at 10:31. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

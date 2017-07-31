@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ProceduralPrimitives
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MeshHelpers/ProceduralPrimitives.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/ProceduralPrimitives.cs
 // File based on original modification date of: 26 October 2014, at 16:34. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

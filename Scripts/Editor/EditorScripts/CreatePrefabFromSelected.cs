@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CreatePrefabFromSelected
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/CreatePrefabFromSelected.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CreatePrefabFromSelected.cs
 // File based on original modification date of: 27 April 2015, at 13:03. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

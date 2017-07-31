@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Loudness
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Sound/Sound/Loudness.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Sound/Sound/Loudness.cs
 // File based on original modification date of: 29 October 2013, at 01:23. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

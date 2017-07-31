@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Underwater_Script
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Underwater_Script.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Underwater_Script.cs
 // File based on original modification date of: 7 November 2012, at 21:48. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

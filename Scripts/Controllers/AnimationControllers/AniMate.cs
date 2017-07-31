@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AniMate
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/AnimationControllers/AniMate.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/AnimationControllers/AniMate.cs
 // File based on original modification date of: 10 January 2012, at 20:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

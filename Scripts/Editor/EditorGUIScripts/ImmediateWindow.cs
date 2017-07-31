@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ImmediateWindow
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/ImmediateWindow.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/ImmediateWindow.cs
 // File based on original modification date of: 5 March 2012, at 05:43. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CreateTerrainBaseboards
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/CreateTerrainBaseboards.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CreateTerrainBaseboards.cs
 // File based on original modification date of: 24 January 2013, at 17:34. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

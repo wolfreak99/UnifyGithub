@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TubeRenderer
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/TubeRenderer.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/TubeRenderer.cs
 // File based on original modification date of: 8 November 2013, at 20:19. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

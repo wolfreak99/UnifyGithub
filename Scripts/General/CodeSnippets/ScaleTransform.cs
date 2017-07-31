@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ScaleTransform
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/ScaleTransform.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/ScaleTransform.cs
 // File based on original modification date of: 15 February 2013, at 09:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

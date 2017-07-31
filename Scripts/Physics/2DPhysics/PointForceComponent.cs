@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/PointForceComponent
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/2DPhysics/PointForceComponent.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/2DPhysics/PointForceComponent.cs
 // File based on original modification date of: 14 November 2013, at 16:38. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

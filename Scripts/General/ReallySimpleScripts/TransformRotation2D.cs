@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TransformRotation2D
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/TransformRotation2D.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/TransformRotation2D.cs
 // File based on original modification date of: 12 September 2013, at 02:27. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

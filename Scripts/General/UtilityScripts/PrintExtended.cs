@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/PrintExtended
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/PrintExtended.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/PrintExtended.cs
 // File based on original modification date of: 23 March 2013, at 20:10. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

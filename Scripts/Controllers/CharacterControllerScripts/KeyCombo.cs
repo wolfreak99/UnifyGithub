@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/KeyCombo
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/KeyCombo.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/KeyCombo.cs
 // File based on original modification date of: 15 January 2014, at 22:52. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

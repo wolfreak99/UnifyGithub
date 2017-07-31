@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Camera_Target_Swap
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/Camera_Target_Swap.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/Camera_Target_Swap.cs
 // File based on original modification date of: 13 February 2013, at 17:19. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

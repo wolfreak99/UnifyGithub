@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AddComponentRecursively
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/AddComponentRecursively.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/AddComponentRecursively.cs
 // File based on original modification date of: 11 December 2012, at 16:19. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

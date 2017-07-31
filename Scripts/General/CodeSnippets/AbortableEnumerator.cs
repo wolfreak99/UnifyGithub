@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AbortableEnumerator
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/AbortableEnumerator.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/AbortableEnumerator.cs
 // File based on original modification date of: 25 December 2013, at 23:03. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

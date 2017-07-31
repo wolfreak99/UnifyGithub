@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/PopupList
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/Unity20GUIScripts/PopupList.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/Unity20GUIScripts/PopupList.cs
 // File based on original modification date of: 8 January 2015, at 23:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

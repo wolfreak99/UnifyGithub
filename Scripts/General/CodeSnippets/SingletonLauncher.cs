@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SingletonLauncher
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/SingletonLauncher.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/SingletonLauncher.cs
 // File based on original modification date of: 10 January 2012, at 20:47. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

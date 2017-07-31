@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ArrayPrefs2
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/Serialization/ArrayPrefs2.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/Serialization/ArrayPrefs2.cs
 // File based on original modification date of: 20 June 2014, at 08:55. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

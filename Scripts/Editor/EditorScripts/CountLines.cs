@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CountLines
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/CountLines.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CountLines.cs
 // File based on original modification date of: 27 October 2012, at 19:28. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

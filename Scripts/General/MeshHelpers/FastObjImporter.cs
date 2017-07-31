@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/FastObjImporter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MeshHelpers/FastObjImporter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/FastObjImporter.cs
 // File based on original modification date of: 22 August 2015, at 14:13. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

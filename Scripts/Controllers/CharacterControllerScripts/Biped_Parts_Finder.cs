@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Biped_Parts_Finder
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/Biped_Parts_Finder.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/Biped_Parts_Finder.cs
 // File based on original modification date of: 10 January 2012, at 20:44. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

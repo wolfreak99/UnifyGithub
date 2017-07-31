@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SimpleJSON
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Networking/WWWScripts/SimpleJSON.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Networking/WWWScripts/SimpleJSON.cs
 // File based on original modification date of: 12 April 2017, at 03:26. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

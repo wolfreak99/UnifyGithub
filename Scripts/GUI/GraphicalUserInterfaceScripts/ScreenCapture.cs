@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ScreenCapture
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/ScreenCapture.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/ScreenCapture.cs
 // File based on original modification date of: 30 March 2013, at 04:10. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

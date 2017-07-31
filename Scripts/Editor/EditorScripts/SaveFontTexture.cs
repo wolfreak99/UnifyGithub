@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SaveFontTexture
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/SaveFontTexture.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/SaveFontTexture.cs
 // File based on original modification date of: 24 June 2013, at 19:08. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Mic_Input
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Sound/Sound/Mic_Input.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Sound/Sound/Mic_Input.cs
 // File based on original modification date of: 8 January 2016, at 23:04. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

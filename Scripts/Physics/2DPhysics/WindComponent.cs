@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/WindComponent
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/2DPhysics/WindComponent.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/2DPhysics/WindComponent.cs
 // File based on original modification date of: 14 November 2013, at 15:32. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

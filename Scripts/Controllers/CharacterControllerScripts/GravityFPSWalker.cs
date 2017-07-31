@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/GravityFPSWalker
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/GravityFPSWalker.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/GravityFPSWalker.cs
 // File based on original modification date of: 3 November 2013, at 13:59. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

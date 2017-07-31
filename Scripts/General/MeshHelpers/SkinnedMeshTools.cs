@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SkinnedMeshTools
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MeshHelpers/SkinnedMeshTools.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/SkinnedMeshTools.cs
 // File based on original modification date of: 3 April 2012, at 14:39. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

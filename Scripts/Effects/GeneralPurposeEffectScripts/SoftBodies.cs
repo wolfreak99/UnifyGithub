@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SoftBodies
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/SoftBodies.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/SoftBodies.cs
 // File based on original modification date of: 27 September 2007, at 22:34. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

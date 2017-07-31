@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ObjectCopier
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/DataStructureUtils/ObjectCopier.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/DataStructureUtils/ObjectCopier.cs
 // File based on original modification date of: 13 March 2012, at 23:41. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SkinnedMeshCombiner
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/PerformanceScripts/SkinnedMeshCombiner.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/PerformanceScripts/SkinnedMeshCombiner.cs
 // File based on original modification date of: 12 December 2012, at 21:26. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

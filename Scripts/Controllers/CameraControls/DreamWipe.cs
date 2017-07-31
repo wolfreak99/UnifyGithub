@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DreamWipe
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/DreamWipe.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/DreamWipe.cs
 // File based on original modification date of: 18 January 2013, at 01:56. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

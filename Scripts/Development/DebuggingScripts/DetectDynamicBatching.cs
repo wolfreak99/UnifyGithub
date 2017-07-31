@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DetectDynamicBatching
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/DebuggingScripts/DetectDynamicBatching.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/DebuggingScripts/DetectDynamicBatching.cs
 // File based on original modification date of: 9 October 2014, at 17:10. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SimpleTimer
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/SimpleTimer.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/SimpleTimer.cs
 // File based on original modification date of: 27 July 2016, at 10:24. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

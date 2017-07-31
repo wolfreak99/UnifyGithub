@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CreatePlane
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/CreatePlane.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CreatePlane.cs
 // File based on original modification date of: 21 June 2015, at 10:00. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

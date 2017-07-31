@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Get_Aspect_Ratio
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MathHelpers/Get_Aspect_Ratio.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MathHelpers/Get_Aspect_Ratio.cs
 // File based on original modification date of: 19 April 2014, at 15:22. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

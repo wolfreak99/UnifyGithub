@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MaterialReplacer
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/MaterialReplacer.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/MaterialReplacer.cs
 // File based on original modification date of: 30 September 2013, at 12:29. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

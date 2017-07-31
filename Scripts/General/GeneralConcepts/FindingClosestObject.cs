@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/FindingClosestObject
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/FindingClosestObject.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/FindingClosestObject.cs
 // File based on original modification date of: 28 December 2012, at 16:56. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Trajectory_Simulation
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/SimulationScripts/Trajectory_Simulation.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/SimulationScripts/Trajectory_Simulation.cs
 // File based on original modification date of: 10 January 2012, at 20:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

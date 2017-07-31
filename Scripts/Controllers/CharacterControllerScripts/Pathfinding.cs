@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Pathfinding
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/Pathfinding.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/Pathfinding.cs
 // File based on original modification date of: 25 January 2009, at 12:17. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

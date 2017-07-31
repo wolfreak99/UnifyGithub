@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Custom_Defines_Manager
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Custom_Defines_Manager.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Custom_Defines_Manager.cs
 // File based on original modification date of: 24 January 2016, at 20:43. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

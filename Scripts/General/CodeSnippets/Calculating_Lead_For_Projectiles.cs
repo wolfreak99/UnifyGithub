@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Calculating_Lead_For_Projectiles
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Calculating_Lead_For_Projectiles.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Calculating_Lead_For_Projectiles.cs
 // File based on original modification date of: 19 March 2014, at 20:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

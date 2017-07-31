@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ControlP5
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceSkins/ControlP5.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceSkins/ControlP5.cs
 // File based on original modification date of: 16 March 2010, at 14:38. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

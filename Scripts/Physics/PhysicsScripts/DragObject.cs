@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DragObject
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/PhysicsScripts/DragObject.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/PhysicsScripts/DragObject.cs
 // File based on original modification date of: 20 January 2013, at 00:47. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

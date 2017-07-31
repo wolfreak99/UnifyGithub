@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Startup_Manager
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/Startup_Manager.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/Startup_Manager.cs
 // File based on original modification date of: 15 October 2012, at 11:45. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ScrollingBG
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/ScrollingBG.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/ScrollingBG.cs
 // File based on original modification date of: 18 August 2014, at 14:48. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

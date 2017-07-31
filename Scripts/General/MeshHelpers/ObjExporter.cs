@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ObjExporter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MeshHelpers/ObjExporter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/ObjExporter.cs
 // File based on original modification date of: 7 January 2016, at 17:21. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

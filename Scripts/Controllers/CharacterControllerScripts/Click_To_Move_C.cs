@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Click_To_Move_C
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/Click_To_Move_C.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/Click_To_Move_C.cs
 // File based on original modification date of: 11 August 2012, at 18:32. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

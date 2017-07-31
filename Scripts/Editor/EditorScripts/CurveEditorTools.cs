@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CurveEditorTools
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/CurveEditorTools.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CurveEditorTools.cs
 // File based on original modification date of: 15 February 2013, at 01:39. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

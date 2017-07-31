@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Lipis_Runtime_Gizmo
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/Lipis_Runtime_Gizmo.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/Lipis_Runtime_Gizmo.cs
 // File based on original modification date of: 12 January 2011, at 20:22. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SCP5
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceSkins/SCP5.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceSkins/SCP5.cs
 // File based on original modification date of: 8 April 2010, at 08:39. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

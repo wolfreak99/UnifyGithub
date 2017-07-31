@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SmoothLookFrame
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/SmoothLookFrame.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/SmoothLookFrame.cs
 // File based on original modification date of: 21 February 2012, at 04:31. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

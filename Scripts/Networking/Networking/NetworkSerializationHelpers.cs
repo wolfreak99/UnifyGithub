@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/NetworkSerializationHelpers
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Networking/Networking/NetworkSerializationHelpers.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Networking/Networking/NetworkSerializationHelpers.cs
 // File based on original modification date of: 6 November 2014, at 08:17. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

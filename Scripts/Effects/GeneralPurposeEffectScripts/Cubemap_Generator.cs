@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Cubemap_Generator
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Cubemap_Generator.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Cubemap_Generator.cs
 // File based on original modification date of: 19 November 2014, at 13:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

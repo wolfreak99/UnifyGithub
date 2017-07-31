@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/IsoFrame
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/IsoFrame.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/IsoFrame.cs
 // File based on original modification date of: 2 November 2012, at 15:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

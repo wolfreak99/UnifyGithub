@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Noise_Library
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Noise_Library.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Noise_Library.cs
 // File based on original modification date of: 27 November 2010, at 19:22. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

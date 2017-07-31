@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SetRenderQueue
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/SetRenderQueue.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/SetRenderQueue.cs
 // File based on original modification date of: 26 March 2016, at 01:06. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

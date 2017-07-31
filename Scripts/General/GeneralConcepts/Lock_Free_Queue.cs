@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Lock_Free_Queue
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/Lock_Free_Queue.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/Lock_Free_Queue.cs
 // File based on original modification date of: 19 December 2016, at 11:30. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

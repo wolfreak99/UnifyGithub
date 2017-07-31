@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SQLite
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/SQLite.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/SQLite.cs
 // File based on original modification date of: 5 April 2014, at 01:21. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/KeyboardEventManager
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/KeyboardEventManager.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/KeyboardEventManager.cs
 // File based on original modification date of: 24 April 2012, at 17:38. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

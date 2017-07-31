@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/RigidbodyFPSWalker
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/RigidbodyFPSWalker.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/RigidbodyFPSWalker.cs
 // File based on original modification date of: 7 May 2012, at 10:25. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Accessing_number_of_drawcalls_from_script
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Accessing_number_of_drawcalls_from_script.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Accessing_number_of_drawcalls_from_script.cs
 // File based on original modification date of: 19 January 2013, at 22:35. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

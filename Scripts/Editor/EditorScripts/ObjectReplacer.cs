@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ObjectReplacer
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/ObjectReplacer.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/ObjectReplacer.cs
 // File based on original modification date of: 6 November 2012, at 22:40. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

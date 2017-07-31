@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Low_Pass_Filter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Low_Pass_Filter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Low_Pass_Filter.cs
 // File based on original modification date of: 7 March 2012, at 04:36. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

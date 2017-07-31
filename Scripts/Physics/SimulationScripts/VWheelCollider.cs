@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/VWheelCollider
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/SimulationScripts/VWheelCollider.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/SimulationScripts/VWheelCollider.cs
 // File based on original modification date of: 21 November 2014, at 16:33. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/REPL
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/REPL.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/REPL.cs
 // File based on original modification date of: 14 June 2010, at 01:58. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/FlyCam_Extended
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/FlyCam_Extended.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/FlyCam_Extended.cs
 // File based on original modification date of: 18 August 2012, at 01:41. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

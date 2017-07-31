@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Distance_from_a_point_to_a_rectangle
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/MathGeometryUtilities/Distance_from_a_point_to_a_rectangle.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/MathGeometryUtilities/Distance_from_a_point_to_a_rectangle.cs
 // File based on original modification date of: 30 March 2013, at 01:48. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

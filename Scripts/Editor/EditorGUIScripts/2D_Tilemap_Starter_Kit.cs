@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/2D_Tilemap_Starter_Kit
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/2D_Tilemap_Starter_Kit.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/2D_Tilemap_Starter_Kit.cs
 // File based on original modification date of: 11 December 2012, at 07:47. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

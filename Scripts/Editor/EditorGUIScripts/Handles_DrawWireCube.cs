@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Handles_DrawWireCube
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/Handles_DrawWireCube.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/Handles_DrawWireCube.cs
 // File based on original modification date of: 9 December 2012, at 21:49. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AStarHelper
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/AStarHelper.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/AStarHelper.cs
 // File based on original modification date of: 12 September 2012, at 15:52. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

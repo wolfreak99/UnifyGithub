@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Google_Analytics
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/Google_Analytics.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/Google_Analytics.cs
 // File based on original modification date of: 24 August 2012, at 12:47. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Skinned_Morph_Targets
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Skinned_Morph_Targets.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Skinned_Morph_Targets.cs
 // File based on original modification date of: 7 October 2010, at 14:47. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

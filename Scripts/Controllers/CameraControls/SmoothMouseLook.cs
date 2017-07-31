@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SmoothMouseLook
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/SmoothMouseLook.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/SmoothMouseLook.cs
 // File based on original modification date of: 4 February 2016, at 19:10. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

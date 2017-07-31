@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Lightmapping_Extended
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/Lightmapping_Extended.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/Lightmapping_Extended.cs
 // File based on original modification date of: 19 December 2012, at 20:35. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

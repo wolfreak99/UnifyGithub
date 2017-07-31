@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/PlayerPrefsX2
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/Serialization/PlayerPrefsX2.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/Serialization/PlayerPrefsX2.cs
 // File based on original modification date of: 9 January 2016, at 07:33. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

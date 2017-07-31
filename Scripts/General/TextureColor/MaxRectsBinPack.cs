@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MaxRectsBinPack
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/TextureColor/MaxRectsBinPack.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/MaxRectsBinPack.cs
 // File based on original modification date of: 8 May 2012, at 13:46. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

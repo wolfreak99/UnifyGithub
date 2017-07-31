@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Console_System
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/Console_System.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/Console_System.cs
 // File based on original modification date of: 30 June 2014, at 20:28. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

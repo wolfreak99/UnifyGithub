@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CopyVariables
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/CopyVariables.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CopyVariables.cs
 // File based on original modification date of: 21 October 2012, at 10:32. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

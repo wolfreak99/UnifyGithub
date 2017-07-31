@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ArcBall
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/ArcBall.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/ArcBall.cs
 // File based on original modification date of: 18 July 2013, at 09:45. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

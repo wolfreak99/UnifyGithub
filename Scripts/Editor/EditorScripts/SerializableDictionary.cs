@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SerializableDictionary
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/SerializableDictionary.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/SerializableDictionary.cs
 // File based on original modification date of: 20 September 2016, at 13:09. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Fade
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/Fade.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/Fade.cs
 // File based on original modification date of: 31 October 2013, at 03:59. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

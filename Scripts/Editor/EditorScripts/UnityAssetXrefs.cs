@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/UnityAssetXrefs
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/UnityAssetXrefs.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/UnityAssetXrefs.cs
 // File based on original modification date of: 28 April 2014, at 23:32. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

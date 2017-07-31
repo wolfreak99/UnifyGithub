@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/OpenInFileBrowser
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/OpenInFileBrowser.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/OpenInFileBrowser.cs
 // File based on original modification date of: 9 April 2014, at 15:12. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

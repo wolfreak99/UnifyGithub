@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/GameObjectLock
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/GameObjectLock.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/GameObjectLock.cs
 // File based on original modification date of: 22 June 2012, at 04:01. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

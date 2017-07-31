@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DontGoThroughThings
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/PhysicsScripts/DontGoThroughThings.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/PhysicsScripts/DontGoThroughThings.cs
 // File based on original modification date of: 17 May 2015, at 21:56. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

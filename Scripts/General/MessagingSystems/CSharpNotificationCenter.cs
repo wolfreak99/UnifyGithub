@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CSharpNotificationCenter
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MessagingSystems/CSharpNotificationCenter.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MessagingSystems/CSharpNotificationCenter.cs
 // File based on original modification date of: 3 June 2012, at 20:00. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

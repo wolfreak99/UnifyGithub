@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TimeBasedTrailRenderer
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/TimeBasedTrailRenderer.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/TimeBasedTrailRenderer.cs
 // File based on original modification date of: 23 April 2016, at 14:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Easy_MySQL_Submission
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Networking/WWWScripts/Easy_MySQL_Submission.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Networking/WWWScripts/Easy_MySQL_Submission.cs
 // File based on original modification date of: 20 July 2012, at 18:39. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

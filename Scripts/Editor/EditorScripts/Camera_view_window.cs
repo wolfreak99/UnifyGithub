@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Camera_view_window
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Camera_view_window.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Camera_view_window.cs
 // File based on original modification date of: 10 January 2012, at 20:52. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

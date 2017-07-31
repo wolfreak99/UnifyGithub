@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/JoystickButtonMenu
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/JoystickButtonMenu.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/JoystickButtonMenu.cs
 // File based on original modification date of: 21 July 2012, at 06:19. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

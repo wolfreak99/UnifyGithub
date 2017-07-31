@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SharpUnit
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/DebuggingScripts/SharpUnit.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/DebuggingScripts/SharpUnit.cs
 // File based on original modification date of: 15 April 2012, at 16:58. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

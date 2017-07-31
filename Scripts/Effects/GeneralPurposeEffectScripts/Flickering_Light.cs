@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Flickering_Light
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Flickering_Light.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Flickering_Light.cs
 // File based on original modification date of: 4 February 2010, at 10:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

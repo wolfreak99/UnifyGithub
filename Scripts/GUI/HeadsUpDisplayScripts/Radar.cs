@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Radar
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/HeadsUpDisplayScripts/Radar.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/HeadsUpDisplayScripts/Radar.cs
 // File based on original modification date of: 24 May 2013, at 20:31. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

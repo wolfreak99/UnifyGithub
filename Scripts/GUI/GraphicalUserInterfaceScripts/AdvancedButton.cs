@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AdvancedButton
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/AdvancedButton.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/AdvancedButton.cs
 // File based on original modification date of: 19 January 2013, at 23:05. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

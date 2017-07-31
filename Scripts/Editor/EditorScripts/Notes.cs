@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Notes
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Notes.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Notes.cs
 // File based on original modification date of: 15 November 2015, at 04:38. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

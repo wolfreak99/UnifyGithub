@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Interface_Finder
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/Interface_Finder.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/Interface_Finder.cs
 // File based on original modification date of: 15 January 2015, at 14:13. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

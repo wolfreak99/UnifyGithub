@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/IPhone_Build_Utility_Script
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/IPhone_Build_Utility_Script.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/IPhone_Build_Utility_Script.cs
 // File based on original modification date of: 19 October 2009, at 19:07. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

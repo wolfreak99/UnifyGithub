@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/RigidbodyPlayer
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/RigidbodyPlayer.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/RigidbodyPlayer.cs
 // File based on original modification date of: 11 January 2015, at 00:50. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

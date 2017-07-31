@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/OnMouseDown
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/ReallySimpleScripts/OnMouseDown.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/OnMouseDown.cs
 // File based on original modification date of: 18 November 2014, at 19:11. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

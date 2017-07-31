@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Tap_to_Move_Drag_to_Look_iPhone
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/Tap_to_Move_Drag_to_Look_iPhone.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/Tap_to_Move_Drag_to_Look_iPhone.cs
 // File based on original modification date of: 28 June 2012, at 05:28. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TextureDrawLine
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/TextureColor/TextureDrawLine.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/TextureDrawLine.cs
 // File based on original modification date of: 13 August 2013, at 04:17. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

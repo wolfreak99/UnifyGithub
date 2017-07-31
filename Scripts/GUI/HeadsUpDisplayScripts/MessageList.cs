@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MessageList
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/HeadsUpDisplayScripts/MessageList.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/HeadsUpDisplayScripts/MessageList.cs
 // File based on original modification date of: 24 January 2012, at 01:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

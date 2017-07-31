@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/PauseMenu
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/Unity20GUIScripts/PauseMenu.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/Unity20GUIScripts/PauseMenu.cs
 // File based on original modification date of: 21 November 2015, at 00:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

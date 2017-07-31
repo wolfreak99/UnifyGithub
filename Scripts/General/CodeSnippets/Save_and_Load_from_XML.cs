@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Save_and_Load_from_XML
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Save_and_Load_from_XML.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Save_and_Load_from_XML.cs
 // File based on original modification date of: 16 October 2012, at 02:01. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

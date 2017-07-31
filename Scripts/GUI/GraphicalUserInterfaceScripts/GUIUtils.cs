@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/GUIUtils
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/GUIUtils.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/GUIUtils.cs
 // File based on original modification date of: 20 January 2013, at 00:27. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

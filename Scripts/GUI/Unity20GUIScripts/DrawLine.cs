@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DrawLine
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/Unity20GUIScripts/DrawLine.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/Unity20GUIScripts/DrawLine.cs
 // File based on original modification date of: 20 August 2013, at 23:40. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

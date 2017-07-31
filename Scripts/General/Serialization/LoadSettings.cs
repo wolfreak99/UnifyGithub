@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/LoadSettings
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/Serialization/LoadSettings.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/Serialization/LoadSettings.cs
 // File based on original modification date of: 4 December 2014, at 12:26. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

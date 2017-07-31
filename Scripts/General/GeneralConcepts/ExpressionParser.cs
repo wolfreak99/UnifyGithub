@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ExpressionParser
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/ExpressionParser.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/ExpressionParser.cs
 // File based on original modification date of: 7 September 2016, at 00:36. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

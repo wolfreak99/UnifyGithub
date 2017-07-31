@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/BooMessenger
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MessagingSystems/BooMessenger.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MessagingSystems/BooMessenger.cs
 // File based on original modification date of: 1 March 2013, at 07:50. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

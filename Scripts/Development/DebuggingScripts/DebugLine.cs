@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/DebugLine
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/DebuggingScripts/DebugLine.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/DebuggingScripts/DebugLine.cs
 // File based on original modification date of: 7 November 2013, at 00:26. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

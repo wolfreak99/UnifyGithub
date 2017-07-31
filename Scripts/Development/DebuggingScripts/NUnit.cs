@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/NUnit
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/DebuggingScripts/NUnit.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/DebuggingScripts/NUnit.cs
 // File based on original modification date of: 25 April 2014, at 06:21. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

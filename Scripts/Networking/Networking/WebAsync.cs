@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/WebAsync
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Networking/Networking/WebAsync.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Networking/Networking/WebAsync.cs
 // File based on original modification date of: 27 May 2013, at 23:24. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

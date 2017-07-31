@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ToolbarWrapped
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/ToolbarWrapped.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/ToolbarWrapped.cs
 // File based on original modification date of: 10 January 2012, at 20:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

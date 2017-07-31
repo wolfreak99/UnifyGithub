@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/GLDraw
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/GLDraw.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/GLDraw.cs
 // File based on original modification date of: 14 April 2013, at 19:40. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

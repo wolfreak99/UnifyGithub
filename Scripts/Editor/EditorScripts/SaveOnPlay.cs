@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/SaveOnPlay
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/SaveOnPlay.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/SaveOnPlay.cs
 // File based on original modification date of: 9 December 2015, at 01:34. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Custom_terrain_lightmap_For_Windows_Based_Systems
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Custom_terrain_lightmap_For_Windows_Based_Systems.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Custom_terrain_lightmap_For_Windows_Based_Systems.cs
 // File based on original modification date of: 10 January 2012, at 20:48. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

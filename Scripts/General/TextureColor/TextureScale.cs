@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TextureScale
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/TextureColor/TextureScale.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/TextureScale.cs
 // File based on original modification date of: 14 October 2016, at 21:02. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

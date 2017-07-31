@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AManagerClass
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/AManagerClass.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/AManagerClass.cs
 // File based on original modification date of: 18 September 2013, at 19:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/FadeObjectInOut
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/FadeObjectInOut.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/FadeObjectInOut.cs
 // File based on original modification date of: 14 July 2015, at 10:31. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

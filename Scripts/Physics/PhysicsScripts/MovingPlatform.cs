@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MovingPlatform
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/PhysicsScripts/MovingPlatform.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/PhysicsScripts/MovingPlatform.cs
 // File based on original modification date of: 30 June 2013, at 19:16. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

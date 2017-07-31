@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Save_and_Load_from_XML_U3_Collections
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/CodeSnippets/Save_and_Load_from_XML_U3_Collections.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/Save_and_Load_from_XML_U3_Collections.cs
 // File based on original modification date of: 14 August 2012, at 00:38. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

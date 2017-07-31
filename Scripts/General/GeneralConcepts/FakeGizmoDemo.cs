@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/FakeGizmoDemo
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/GeneralConcepts/FakeGizmoDemo.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/FakeGizmoDemo.cs
 // File based on original modification date of: 14 March 2010, at 20:53. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

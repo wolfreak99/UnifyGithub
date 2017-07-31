@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/PolyOrderFixupOnImport
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MeshHelpers/PolyOrderFixupOnImport.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/PolyOrderFixupOnImport.cs
 // File based on original modification date of: 29 February 2012, at 00:19. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

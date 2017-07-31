@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Flocking
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Flocking.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Flocking.cs
 // File based on original modification date of: 21 October 2013, at 08:56. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

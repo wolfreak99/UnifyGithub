@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Mathfx
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MathHelpers/Mathfx.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MathHelpers/Mathfx.cs
 // File based on original modification date of: 18 June 2016, at 17:10. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/GridMove
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/GridMove.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/GridMove.cs
 // File based on original modification date of: 2 March 2012, at 17:14. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/WheelColliderSource
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/SimulationScripts/WheelColliderSource.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/SimulationScripts/WheelColliderSource.cs
 // File based on original modification date of: 28 October 2010, at 02:02. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

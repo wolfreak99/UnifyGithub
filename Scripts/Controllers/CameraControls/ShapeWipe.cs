@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ShapeWipe
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CameraControls/ShapeWipe.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/ShapeWipe.cs
 // File based on original modification date of: 17 February 2012, at 03:43. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

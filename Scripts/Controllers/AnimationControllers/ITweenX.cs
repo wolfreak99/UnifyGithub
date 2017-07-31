@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ITweenX
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/AnimationControllers/ITweenX.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/AnimationControllers/ITweenX.cs
 // File based on original modification date of: 19 November 2012, at 17:10. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

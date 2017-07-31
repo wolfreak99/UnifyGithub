@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CreateScriptableObjectAsset
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/CreateScriptableObjectAsset.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CreateScriptableObjectAsset.cs
 // File based on original modification date of: 13 October 2014, at 12:55. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

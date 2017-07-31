@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Tileable_Noise
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Tileable_Noise.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Tileable_Noise.cs
 // File based on original modification date of: 28 December 2012, at 09:55. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

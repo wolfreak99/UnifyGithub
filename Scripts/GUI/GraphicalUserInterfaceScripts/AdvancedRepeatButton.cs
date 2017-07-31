@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AdvancedRepeatButton
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/AdvancedRepeatButton.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/AdvancedRepeatButton.cs
 // File based on original modification date of: 19 January 2013, at 23:06. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Advanced_CSharp_Messenger
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MessagingSystems/Advanced_CSharp_Messenger.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MessagingSystems/Advanced_CSharp_Messenger.cs
 // File based on original modification date of: 25 January 2015, at 12:17. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

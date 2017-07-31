@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Mac_App_Store_PostProcessor
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/Mac_App_Store_PostProcessor.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Mac_App_Store_PostProcessor.cs
 // File based on original modification date of: 21 March 2014, at 12:29. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

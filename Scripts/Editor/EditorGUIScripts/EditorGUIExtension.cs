@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/EditorGUIExtension
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/EditorGUIExtension.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/EditorGUIExtension.cs
 // File based on original modification date of: 1 June 2013, at 14:51. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

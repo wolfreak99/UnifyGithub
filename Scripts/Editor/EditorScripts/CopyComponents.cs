@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/CopyComponents
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/CopyComponents.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CopyComponents.cs
 // File based on original modification date of: 6 February 2012, at 21:39. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

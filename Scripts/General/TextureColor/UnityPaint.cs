@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/UnityPaint
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/TextureColor/UnityPaint.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/UnityPaint.cs
 // File based on original modification date of: 12 May 2009, at 17:48. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

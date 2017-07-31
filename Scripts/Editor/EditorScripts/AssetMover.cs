@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/AssetMover
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/AssetMover.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/AssetMover.cs
 // File based on original modification date of: 9 September 2013, at 07:31. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

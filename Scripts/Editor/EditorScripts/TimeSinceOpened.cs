@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TimeSinceOpened
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/TimeSinceOpened.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/TimeSinceOpened.cs
 // File based on original modification date of: 2 September 2013, at 19:06. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

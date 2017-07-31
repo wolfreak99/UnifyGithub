@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/FixBlenderImportRotation
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/FixBlenderImportRotation.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/FixBlenderImportRotation.cs
 // File based on original modification date of: 4 March 2016, at 13:35. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

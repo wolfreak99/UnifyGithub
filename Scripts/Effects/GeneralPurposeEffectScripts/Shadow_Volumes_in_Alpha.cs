@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Shadow_Volumes_in_Alpha
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Shadow_Volumes_in_Alpha.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Shadow_Volumes_in_Alpha.cs
 // File based on original modification date of: 6 February 2013, at 09:18. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

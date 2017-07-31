@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Gravity
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/SimulationScripts/Gravity.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/SimulationScripts/Gravity.cs
 // File based on original modification date of: 4 December 2015, at 19:07. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

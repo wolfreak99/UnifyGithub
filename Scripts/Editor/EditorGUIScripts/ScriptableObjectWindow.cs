@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ScriptableObjectWindow
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorGUIScripts/ScriptableObjectWindow.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/ScriptableObjectWindow.cs
 // File based on original modification date of: 19 April 2017, at 12:49. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

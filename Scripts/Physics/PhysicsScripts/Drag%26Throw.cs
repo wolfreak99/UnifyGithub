@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Drag%26Throw
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Physics/PhysicsScripts/Drag%26Throw.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/PhysicsScripts/Drag%26Throw.cs
 // File based on original modification date of: 12 January 2013, at 00:19. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

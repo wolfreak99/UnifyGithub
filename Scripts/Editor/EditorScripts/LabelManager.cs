@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/LabelManager
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/LabelManager.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/LabelManager.cs
 // File based on original modification date of: 9 September 2013, at 07:32. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

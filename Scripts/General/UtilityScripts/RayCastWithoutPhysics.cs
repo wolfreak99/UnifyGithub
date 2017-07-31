@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/RayCastWithoutPhysics
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/RayCastWithoutPhysics.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/RayCastWithoutPhysics.cs
 // File based on original modification date of: 26 July 2014, at 07:54. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

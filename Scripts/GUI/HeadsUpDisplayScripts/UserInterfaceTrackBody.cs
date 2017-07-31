@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/UserInterfaceTrackBody
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/HeadsUpDisplayScripts/UserInterfaceTrackBody.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/HeadsUpDisplayScripts/UserInterfaceTrackBody.cs
 // File based on original modification date of: 7 March 2016, at 21:00. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

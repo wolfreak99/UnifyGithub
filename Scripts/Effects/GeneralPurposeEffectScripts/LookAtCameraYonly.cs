@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/LookAtCameraYonly
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/LookAtCameraYonly.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/LookAtCameraYonly.cs
 // File based on original modification date of: 2 February 2015, at 17:27. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

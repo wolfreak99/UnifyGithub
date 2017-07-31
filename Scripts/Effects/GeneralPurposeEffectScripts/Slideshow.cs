@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Slideshow
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Slideshow.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Slideshow.cs
 // File based on original modification date of: 10 December 2012, at 10:20. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

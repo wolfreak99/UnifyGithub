@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/JobQueue
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/JobQueue.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/JobQueue.cs
 // File based on original modification date of: 27 August 2016, at 17:52. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

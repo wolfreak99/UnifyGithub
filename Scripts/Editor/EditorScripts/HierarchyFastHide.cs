@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/HierarchyFastHide
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/HierarchyFastHide.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/HierarchyFastHide.cs
 // File based on original modification date of: 9 February 2010, at 22:34. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

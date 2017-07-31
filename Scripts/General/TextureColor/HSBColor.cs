@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/HSBColor
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/TextureColor/HSBColor.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/HSBColor.cs
 // File based on original modification date of: 3 September 2015, at 20:56. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

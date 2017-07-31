@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/TextureImportSettings
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Editor/EditorScripts/TextureImportSettings.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/TextureImportSettings.cs
 // File based on original modification date of: 20 February 2014, at 15:59. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

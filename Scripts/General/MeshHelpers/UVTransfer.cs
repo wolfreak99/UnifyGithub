@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/UVTransfer
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/MeshHelpers/UVTransfer.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/UVTransfer.cs
 // File based on original modification date of: 5 October 2008, at 21:07. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

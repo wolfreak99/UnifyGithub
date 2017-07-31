@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/ProgressBar
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/GraphicalUserInterfaceScripts/ProgressBar.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/ProgressBar.cs
 // File based on original modification date of: 17 February 2014, at 01:17. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

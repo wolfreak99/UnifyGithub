@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/IPhoneDeviceModel
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/UtilityScripts/IPhoneDeviceModel.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/IPhoneDeviceModel.cs
 // File based on original modification date of: 27 September 2013, at 11:46. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

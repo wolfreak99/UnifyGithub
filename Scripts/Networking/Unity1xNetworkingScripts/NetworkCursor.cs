@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/NetworkCursor
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Networking/Unity1xNetworkingScripts/NetworkCursor.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Networking/Unity1xNetworkingScripts/NetworkCursor.cs
 // File based on original modification date of: 19 January 2012, at 19:03. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

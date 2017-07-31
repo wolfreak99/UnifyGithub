@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Wander
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Controllers/CharacterControllerScripts/Wander.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/Wander.cs
 // File based on original modification date of: 8 June 2012, at 12:23. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

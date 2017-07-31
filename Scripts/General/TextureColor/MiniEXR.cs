@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/MiniEXR
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/General/TextureColor/MiniEXR.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/MiniEXR.cs
 // File based on original modification date of: 21 November 2013, at 17:28. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

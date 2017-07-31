@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/FindMissingScripts
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Development/DebuggingScripts/FindMissingScripts.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/DebuggingScripts/FindMissingScripts.cs
 // File based on original modification date of: 1 November 2013, at 00:00. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

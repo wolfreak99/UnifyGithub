@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/GUICam
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/GUI/Unity20GUIScripts/GUICam.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/Unity20GUIScripts/GUICam.cs
 // File based on original modification date of: 20 September 2011, at 18:16. 
 //
 // This file has not yet been properly formatted, feel free to contribute!

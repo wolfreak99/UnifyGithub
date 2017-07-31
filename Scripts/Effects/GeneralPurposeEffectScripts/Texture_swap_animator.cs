@@ -1,5 +1,5 @@
 // Original url: http://wiki.unity3d.com/index.php/Texture_swap_animator
-// Github url: https://github.com/wolfreak99/UnifyGithub/blob/Master/Scripts/Effects/GeneralPurposeEffectScripts/Texture_swap_animator.cs
+// Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Texture_swap_animator.cs
 // File based on original modification date of: 14 December 2014, at 21:57. 
 //
 // This file has not yet been properly formatted, feel free to contribute!
