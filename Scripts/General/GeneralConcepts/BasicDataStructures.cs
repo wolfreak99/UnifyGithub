@@ -1,3 +1,4 @@
+// NOT_CODE
 /*************************
  * Original url: http://wiki.unity3d.com/index.php/BasicDataStructures
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/BasicDataStructures.cs
