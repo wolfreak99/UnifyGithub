@@ -5,37 +5,24 @@
  *
  * Author: Rod Green 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * Description
+ *   A text book implementation of the A* network pathing routine. Based of the wikipedia detailing on the method. A* Wikipedia Article
+ * Usage
+ *   The code is broken into a class (AStarHelper) and the base interface (IPathNode) needed for the Helper class
+ *   See below for usage example (tester).
+ *   (Example inside "#if ASTARHELPER_EXAMPLE")
  *
  *************************/
 
 namespace UnifyGithub.General.GeneralConcepts
 {
-    
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 AStarHelper class 
-    4 IPathNode Interface 
-    5 Usage Example 
-    5.1 PathNode Class 
-    5.2 DrawHelper Class 
-    5.3 PathNodeTester Class 
-    
-    Description A text book implementation of the A* network pathing routine. Based of the wikipedia detailing on the method. A* Wikipedia Article 
-    Usage The code is broken into a class (AStarHelper) and the base interface (IPathNode) needed for the Helper class 
-    See below for usage example (tester). 
-    
-    
-    AStarHelper classusing UnityEngine;
+    using UnityEngine;
+    using System;
     using System.Collections;
     using System.Collections.Generic;
      
     public static class AStarHelper
     {
-     
-     
     	// Validator for path nodes
     	// Needed to cope with nodes that might be GameObjects and therefore
     	// not 'acutally' null when compared in generic methods
@@ -147,23 +134,23 @@ namespace UnifyGithub.General.GeneralConcepts
     		}
     		result.Add(current_node);
     	}
-    }IPathNode Interfaceusing UnityEngine;
-    using System.Collections;
-    using System.Collections.Generic;
-     
+    }
      
     public interface IPathNode<T>
     {
     	List<T> Connections { get; }
     	Vector3 Position { get; }
     	bool Invalid {get;}
-    }Usage ExampleThis is a very quick and dirty implementation of the AStartHelper class. It's really meant to allow fast debugging of the routine and not a 'true' implementation of the technique into a game library. 
+    }
+
+#if ASTARHELPER_EXAMPLE
+    /*
+    Usage Example
+    This is a very quick and dirty implementation of the AStartHelper class. It's really meant to allow fast debugging of the routine and not a 'true' implementation of the technique into a game library. 
     PathNode class (MonoBehaviour) is an implementation of the IPathNode interface 
     PathNodeTester (MonoBehaviour) is an object that's used to handle the globals and execution of the path calculations 
-    PathNode Classusing UnityEngine;
-    using System.Collections;
-    using System.Collections.Generic;
-     
+    */
+
     public class PathNode : MonoBehaviour, IPathNode<PathNode>
     {
     	public List<PathNode> connections;
@@ -306,11 +293,6 @@ namespace UnifyGithub.General.GeneralConcepts
      
     	}
     }
-    
-    DrawHelper Classusing System;
-    using System.Collections;
-    using System.Collections.Generic;
-    using UnityEngine;
      
     public class DrawHelper
     {
@@ -352,10 +334,7 @@ namespace UnifyGithub.General.GeneralConcepts
     			}
     		}
     	}
-    }PathNodeTester Classusing UnityEngine;
-    using System.Collections;
-    using System.Collections.Generic;
-     
+    }
      
     public class PathNodeTester : MonoBehaviour
     {
@@ -491,10 +470,7 @@ namespace UnifyGithub.General.GeneralConcepts
     			}
     			Debug.DrawLine(solvedPath[i].Position, solvedPath[i + 1].Position, Color.cyan * new Color(1.0f, 1.0f, 1.0f, 0.5f)); 
     		}
-     
-     
-     
     	}
-     
-}
+    }
+#endif
 }
