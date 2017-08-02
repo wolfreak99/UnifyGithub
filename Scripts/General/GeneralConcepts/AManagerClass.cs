@@ -52,7 +52,7 @@ namespace UnifyGithub.General.GeneralConcepts
                 if (s_Instance == null) {
                     GameObject obj = new GameObject("AManager");
                     s_Instance = obj.AddComponent(typeof (AManager)) as AManager;
-                    Debug.Log ("Could not locate an AManager object. \ AManager was Generated Automaticly.");
+                    Debug.Log ("Could not locate an AManager object.  AManager was Generated Automaticly.");
                 }
 
                 return s_Instance;
