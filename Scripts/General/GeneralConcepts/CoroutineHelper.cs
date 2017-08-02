@@ -3,80 +3,77 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/GeneralConcepts/CoroutineHelper.cs
  * File based on original modification date of: 13 February 2014, at 16:46. 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * Description
+ *     This is a set of helper classes which allows you to run a delegate at specific times. You can simply 
+ *     delay a call, call it repeatedly or even schedule it as OnGUI call. 
+ *   The supported methods are: 
+ *     Run.EachFrame(delegate)
+ *     Run.Every(initialDelay, repeatDelay, delegate)
+ *     Run.After(delay, delegate)
+ *     Run.Lerp(duration, float-delegate)
+ *     Run.OnDelegate(SimpleEvent, delegate)
+ *     Run.OnGUI(duration, delegate)
+ *     Run.Coroutine(someUnityIEnumerator)
+ *   Each of these calls retun a Run instance which can be used to abort the scheduled task or to wait for it to complete. 
+ *   To wait for a task you can use the "WaitFor" property inside a coroutine or use "ExecuteWhenDone(delegate)" to run a 
+ *   delegate when the task is finished. 
+ *     yield return someRunTask.WaitFor;
+ *     // [...]
+ *     someRunTask.ExecuteWhenDone(()=>{
+ *         // some code
+ *     });
+ *   Additionally there's another little helperclass to create a GUI window on-the-fly: 
+ *      Run.CreateGUIWindow(rect, title, CTempWindow-delegate)
  *
- *************************/
-
-namespace UnifyGithub.General.GeneralConcepts
-{
-    Contents [hide] 
-    1 Description 
-    2 Examples 
-    2.1 Run.EachFrame 
-    2.2 Run.Every 
-    2.3 Run.After 
-    2.4 Run.Lerp 
-    2.5 Run.OnDelegate 
-    2.6 Run.OnGUI 
-    2.7 Run.Coroutine 
-    2.8 Run.CreateGUIWindow 
-    3 Files 
-    3.1 CoroutineHelper.cs 
-    3.2 Run.cs 
-    3.3 MonoBehaviourSingleton.cs 
-    3.4 GUIHelper.cs 
-    3.5 SimpleEvent.cs 
-    4 Zip archive 
-    
-    Description This is a set of helper classes which allows you to run a delegate at specific times. You can simply delay a call, call it repeatedly or even schedule it as OnGUI call. 
-    The supported methods are: 
-    * Run.EachFrame(delegate)
-    * Run.Every(initialDelay, repeatDelay, delegate)
-    * Run.After(delay, delegate)
-    * Run.Lerp(duration, float-delegate)
-    * Run.OnDelegate(SimpleEvent, delegate)
-    * Run.OnGUI(duration, delegate)
-    * Run.Coroutine(someUnityIEnumerator)
-    Each of these calls retun a Run instance which can be used to abort the scheduled task or to wait for it to complete. 
-    To wait for a task you can use the "WaitFor" property inside a coroutine or use "ExecuteWhenDone(delegate)" to run a delegate when the task is finished. 
-        yield return someRunTask.WaitFor;
-        // [...]
-        someRunTask.ExecuteWhenDone(()=>{
-            // some code
-        });Additionally there's another little helperclass to create a GUI window on-the-fly: 
-    * Run.CreateGUIWindow(rect, title, CTempWindow-delegate)
-    Examples Run.EachFrame     Run.EachFrame(()=>{
+ * Examples
+ *   Run.EachFrame     
+        Run.EachFrame(()=>{
             Debug.Log("This is executed every frame like Update");
-        });Run.Every     Run.Every(10,2,()=>{
+        });
+ *   Run.Every
+        Run.Every(10,2,()=>{
             Debug.Log("Something");
-        });After running this code once after 10 seconds it will print "Something" every 2 seconds. 
-    Run.After     Run.After(4, ()=>{
+        });
+        // After running this code once after 10 seconds it will print "Something" every 2 seconds. 
+ *   Run.After
+        Run.After(4, ()=>{
             Debug.Log("4 Seconds later");
         });
-        Debug.Log("See you in 4 seconds");This will print "See you in 4 seconds" and 4 seconds later it prints "4 Seconds later" 
-    Run.Lerp     Run.Lerp(3,(t)=>{
+        Debug.Log("See you in 4 seconds");
+        // This will print "See you in 4 seconds" and 4 seconds later it prints "4 Seconds later" 
+ *  Run.Lerp
+        Run.Lerp(3,(t)=>{
             Debug.Log("lerp value: " + t);
-        });This will execute the Debug.Log every frame for 3 seconds. The value t is increasing linearly from 0.0f to 1.0f during this time. 
-    
-    
-    Run.OnDelegate     SimpleEvent someEvent = new SimpleEvent();
+        });
+        // This will execute the Debug.Log every frame for 3 seconds. The value t is 
+        // increasing linearly from 0.0f to 1.0f during this time. 
+ *  Run.OnDelegate
+        SimpleEvent someEvent = new SimpleEvent();
         Run.OnDelegate(someEvent, ()=>{
             Debug.Log("Hello World");
         });
-        someEvent.Run();when "someEvent.Run();" is executed it will print "Hello World" 
-    Run.OnGUI     Run.OnGUI(5, ()=>{
+        someEvent.Run();
+        // when "someEvent.Run();" is executed it will print "Hello World" 
+ *  Run.OnGUI
+        Run.OnGUI(5, ()=>{
             if (GUI.Button(new Rect(10,10,100,30),"Test"))
             {
                 Debug.Log("Test clicked");
             }
-        });If you execute this it will display the GUI button for 5 seconds. The passed delegate will be executed inside OnGUI. If you pass 0 as duration it will run "forever" or until you call Abort on the returned Run instance. 
+        });
+        // If you execute this it will display the GUI button for 5 seconds. The passed delegate
+        // will be executed inside OnGUI. If you pass 0 as duration it will run "forever" or until
+        // you call Abort on the returned Run instance. 
         Run instance = null;
         instance = Run.OnGUI(0, ()=>{
             if (GUI.Button(new Rect(10,10,100,30),"remove me"))
             {
                 instance.Abort();
             }
-        });This will display the button at the given coordinates until you click the button. Note: Since the delegate in this example is a closure the "instance" variable has to be declared before you create the closure. So this is not possible: 
+        });
+        // This will display the button at the given coordinates until you click the button. Note: Since the
+        // delegate in this example is a closure the "instance" variable has to be declared before you create the
+        // closure. So this is not possible: 
         // this doesn't work!!
         Run instance = Run.OnGUI(0, ()=>{
             if (GUI.Button(new Rect(10,10,100,30),"remove me"))
@@ -84,17 +81,28 @@ namespace UnifyGithub.General.GeneralConcepts
                 instance.Abort(); // you can't use "instance" inside the closure
             }
         });
-    
-    Run.Coroutine     Run.Coroutine(SomeCoroutine())This is basically a replacement for StartCoroutine. It can be used everywhere since it's static. It also returns a Run instance which can be used to wait for the coroutine even multiple times or let you execute something when it's finished. Note: The passed coroutine will be run on the CoroutineHelper gameobject. 
-    Run.CreateGUIWindow     Run.CreateGUIWindow(new Rect(10,10,200,100), "WindowTitle", (windowInstance)=>
+ *  Run.Coroutine
+        Run.Coroutine(SomeCoroutine())
+        // This is basically a replacement for StartCoroutine. It can be used everywhere since it's static. It also
+        // returns a Run instance which can be used to wait for the coroutine even multiple times or let you execute
+        // something when it's finished. Note: The passed coroutine will be run on the CoroutineHelper gameobject. 
+ *  Run.CreateGUIWindow
+        Run.CreateGUIWindow(new Rect(10,10,200,100), "WindowTitle", (windowInstance)=>
         {
             GUILayout.Label("some text");
             if (GUILayout.Button("close"))
                 windowInstance.Close();
-        });This creates an instance of the Run.CTempWindow class which just holds the basic information required for a GUI.Window like title, windowid, position and a Run instance which displays the window utilizing Run.OnGUI. The CTempWindow instance is passed to the delegate and also returned by the CreateGUIWindow function. 
+        });
+        // This creates an instance of the Run.CTempWindow class which just holds the basic information required for a 
+        // GUI.Window like title, windowid, position and a Run instance which displays the window utilizing Run.OnGUI.
+        // The CTempWindow instance is passed to the delegate and also returned by the CreateGUIWindow function.  
+ * 
+ *************************/
+
+namespace UnifyGithub.General.GeneralConcepts
+{
     
-    
-    Files CoroutineHelper.cs using UnityEngine;
+    using UnityEngine;
     using System.Collections;
     using System.Collections.Generic;
      
@@ -130,9 +138,8 @@ namespace UnifyGithub.General.GeneralConcepts
     				m_OnGUIObjects.RemoveAt(i);
     		}
     	}
-    }Run.cs using UnityEngine;
-    using System.Collections;
-     
+    }
+    
     public class Run
     {
     	public bool isDone;
@@ -351,7 +358,9 @@ namespace UnifyGithub.General.GeneralConcepts
     		tmp.Start();
     		return tmp;
     	}
-    }MonoBehaviourSingleton.cs public class MonoBehaviourSingleton< TSelfType > : MonoBehaviour where TSelfType : MonoBehaviour
+    }
+
+    public class MonoBehaviourSingleton< TSelfType > : MonoBehaviour where TSelfType : MonoBehaviour
     {
     	private static TSelfType m_Instance = null;
     	public static TSelfType Instance
@@ -370,14 +379,18 @@ namespace UnifyGithub.General.GeneralConcepts
     			return m_Instance;
     		}
     	}
-    }GUIHelper.cs public static class GUIHelper
+    }
+
+    public static class GUIHelper
     {
     	private static int m_WinIDCounter = 2000;
     	public static int GetFreeWindowID()
     	{
     		return m_WinIDCounter++;
     	}
-    }SimpleEvent.cs public class SimpleEvent
+    }
+
+    public class SimpleEvent
     {
     	private System.Action m_Delegate = ()=>{};
     	public void Add(System.Action aDelegate)
@@ -392,5 +405,5 @@ namespace UnifyGithub.General.GeneralConcepts
     	{
     		m_Delegate();
     	}
-    }Zip archive Media:CoroutineHelperPack.zip 
+    }
 }
