@@ -3,35 +3,27 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/3d_Math_functions.cs
  * File based on original modification date of: 17 April 2016, at 00:24. 
  *
- * Author 
+ * Author: Bit Barrel Media
  *   
  * Description 
- *   
+ *   This is a collection of generic 3d math functions such as line plane intersection, closest points on two lines, etc. 
  * Usage 
- *   
+ *   Place the Math3d.cs script in the scripts folder. 
+ *   - To call a function from another script, place "Math3d." in front of the function, for example: Math3d.LookRotationExtended() 
+ *   - If you want to use the TransformWithParent() function, you have to call Math3d.Init() first. 
+ *   - Make sure all input vectors are normalized. 
  * Forum 
- *   
+ *   http://forum.unity3d.com/threads/3d-math-functions.126575/ 
  * Performance 
- *   
- * Code 
- *   
- * Categories 
- *   
- * This file has not yet been properly formatted, feel free to contribute!
+ *   This code is not optimized for performance yet. If you need to call one or more of these functions
+ *   thousands of times per frame, follow the the guidelines here: 
+ *   http://www.performancesimulations.com/wp/how-to-get-big-speed-increases-in-unitys-physics-or-any-math-heavy-code/ 
  *
  *************************/
 
 namespace UnifyGithub.General.CodeSnippets
 {
-    AuthorBit Barrel Media 
-    DescriptionThis is a collection of generic 3d math functions such as line plane intersection, closest points on two lines, etc. 
-    Usage-Place the Math3d.cs script in the scripts folder. 
-    -To call a function from another script, place "Math3d." in front of the function, for example: Math3d.LookRotationExtended() 
-    -If you want to use the TransformWithParent() function, you have to call Math3d.Init() first. 
-    -Make sure all input vectors are normalized. 
-    Forumhttp://forum.unity3d.com/threads/3d-math-functions.126575/ 
-    PerformanceThis code is not optimized for performance yet. If you need to call one or more of these functions thousands of times per frame, follow the the guidelines here: http://www.performancesimulations.com/wp/how-to-get-big-speed-increases-in-unitys-physics-or-any-math-heavy-code/ 
-    Codeusing UnityEngine;
+    using UnityEngine;
     using System.Collections;
     using System;
      
@@ -1048,5 +1040,5 @@ namespace UnifyGithub.General.CodeSnippets
      
     		return new Vector3(x / deltaTime, y /deltaTime, z / deltaTime);
     	}
-    }Categories3d Math 
+    }
 }
