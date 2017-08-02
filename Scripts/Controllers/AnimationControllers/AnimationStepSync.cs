@@ -5,19 +5,22 @@
  *
  * Author: Lasse Järvensivu (Statement) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Notes 
+ *   
+ * C# - AnimationStepSync.cs 
+ *   
+ * C# - AnimationStepSync.cs(Edit don't animation clip init) 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.AnimationControllers
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Notes 
-    4 C# - AnimationStepSync.cs 
-    5 C# - AnimationStepSync.cs(Edit don't animation clip init) 
-    
     DescriptionThis script allows animations to move the object to a new location at the end of the animation. 
     This is useful if you perhaps have a jump animation, and want the character to end up standing where the character lands. 
     UsageAttach script to object with animation. 

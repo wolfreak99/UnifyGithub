@@ -5,18 +5,20 @@
  *
  * Author: GameDevGuy 
  *
+ * Description 
+ *   
+ * Requirements 
+ *   
+ * Usage 
+ *   
+ * Script 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Physics.2DPhysics
 {
-    Contents [hide] 
-    1 Description 
-    2 Requirements 
-    3 Usage 
-    4 Script 
-    
     DescriptionThis is a very basic component that will apply constant force to objects within a "zone". Useful for wind, fans, or other scenarios where you need to push an object in the X, Y, or both. Please note both the code and this wiki are both a WIP. Feedback is welcome. 
     RequirementsUnity 4.3 
     Usage 1. Create an empty game object 

@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/ClickCharacterController.cs
  * File based on original modification date of: 10 January 2012, at 20:44. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Code 
+ *   
+ * C#- ClickCharacterController.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,12 +18,6 @@
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
     By: DaveA 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Code 
-    4 C#- ClickCharacterController.cs 
-    
     Description Character controller script to use with the Locomotion system, which will move a character to the point indicted by left mouse click. Rudimentary! Please feel free to expound and expand upon, but please post anything good. 
     Usage Put this script into your project. Follow the Locomotion tutorial to add LegController, LegAnimator, etc. to your character. Use this character controller on your character instead of Platform or AimLook etc. 
     Code C#- ClickCharacterController.cs using UnityEngine;

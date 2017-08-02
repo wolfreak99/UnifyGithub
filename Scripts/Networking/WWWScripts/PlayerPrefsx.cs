@@ -5,6 +5,14 @@
  *
  * Author: StarManta; built on CookieCutter by KeliHlodversson 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Notes 
+ *   
+ * JavaScript - PlayerPrefsx.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -14,12 +22,6 @@ namespace UnifyGithub.Networking.WWWScripts
     Widget Support: Casemon (with thanks to StarManta & Eric5h5) 
     This script has been made obsolete by Unity 2.1; PlayerPrefs now works in Web players. 
     As is, it works with Unity 2.0 Web Players. It has not been tested with 1.x. If it doesn't work, line 24 is probably the line that would need to be changed. 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Notes 
-    4 JavaScript - PlayerPrefsx.js 
-    
     DescriptionCookieCutter is a utility script for accessing the browser cookies from the web player. PlayerPrefsx takes that base, and adds functions so that, to make your game web-game-save compatible, you can simply find and replace PlayerPrefs with PlayerPrefsx. PlayerPrefsx will automatically determine whether to use CookieCutter code or PlayerPrefs code so your game can always save. 
     For Dashboard widgets, use exactly like you would with webplayers. PlayerPrefsx with Dashboard players will create a single widget preferenceKey (in your game's widget plist in ~/Library/Preferences) that contains all of your prefs. Recommend against saving prefs every frame, otherwise you'll notice a slow down (especially in widgets). 
     UsagePlace this script on a GameObject. Make sure the GameObject has a unique name. 

@@ -5,18 +5,20 @@
  *
  * Author: Lasse Järvensivu a.k.a. Statement 
  *
+ * What it does 
+ *   
+ * Installation 
+ *   
+ * Usage 
+ *   
+ * C# - ExportVisualStudio.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 What it does 
-    2 Installation 
-    3 Usage 
-    4 C# - ExportVisualStudio.cs 
-    
     What it doesCreates Visual Studio projects (2005, 2008, 2010 CTP) to allow Unity3D coders to benefit from intellisense. 
     Automatic documentation download for missing documentation (all you need to do is extract the contents). 
     Launches Visual Studio project for you. 

@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/TextureFilter.cs
  * File based on original modification date of: 29 September 2014, at 09:57. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Todo 
+ *   
+ * C# 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,12 +18,6 @@
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
     Author : Berenger 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Todo 
-    4 C# 
-    
     Description This static class contains a set of methods to modify a texture 2d. This isn't meant to replace the pro features of post process though. 
     Available filters : 
     - Grayscale

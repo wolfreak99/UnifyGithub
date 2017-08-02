@@ -5,20 +5,24 @@
  *
  * C# Author: Jeremy Hollingsworth (jeremyace) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - NoteEditor.cs 
+ *   
+ * C# - Note.cs 
+ *   
+ * JS - NoteEditor.js 
+ *   
+ * JS - Note.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - NoteEditor.cs 
-    4 C# - Note.cs 
-    5 JS - NoteEditor.js 
-    6 JS - Note.js 
-    
     Description Allows you to add a custom note field to any GameObject. 
     Usage Place NoteEditor in the Editor folder in your assets folder. 
     Place Note in your chosen script folder. 

@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/MinimapCamera.cs
  * File based on original modification date of: 10 January 2012, at 20:52. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Bugs 
+ *   
+ * JavaScript - MinimapCamera.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CameraControls
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Bugs 
-    4 JavaScript - MinimapCamera.js 
-    
     Description This script can be attached to a camera to provide some basic minimap functionality such as zooming and a full-screen toggle. It should be noted that this was developed to work in combination with a standard TPS view and AI pathfinder, so if you wish to use it in other contexts, it will require some tweaking. 
     Developed by stringbot. Feel free to update/improve/fix the code and add yourself to this line. 
     Usage This script should be attached to a Camera GameObject. After this, the correct values need to be set in the inspector. You'll also need to configure two inputs: a "MinimapToggle" button and a "Mouse Wheel" axis. 

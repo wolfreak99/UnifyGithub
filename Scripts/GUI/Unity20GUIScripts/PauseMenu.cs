@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/Unity20GUIScripts/PauseMenu.cs
  * File based on original modification date of: 21 November 2015, at 00:53. 
  *
+ * Overview 
+ *   
+ * Setup 
+ *   
+ * How It Works 
+ *   
+ * Javascript Version 
+ *   
+ * C# version 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.Unity20GUIScripts
 {
-    Contents [hide] 
-    1 Overview 
-    2 Setup 
-    3 How It Works 
-    4 Javascript Version 
-    5 C# version 
-    
     Overview A pause menu with multiple screens for credits and options (audio and visual, system info, stats). Doubles as the start menu and is invoked when ESC is hit. This was used for all my Unity web and widget minigames on Fugu Games. This was not originally run on iOS - if you get the type of errors that you also get from adding #pragma strict then add type declarations where necessary - referring to the C# version (added by another contributor) may help. Also, the C# may run better on iOS (and Android). A sample project with the Javascript version is on the Asset Store (currently, $2) and another version is on github. 
     Setup Attach this to the main camera 
     If a SepiaToneFilter is attached to the main camera, it will be activated on pause. 

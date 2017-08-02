@@ -5,19 +5,22 @@
  *
  * Author: Aras Pranckevicius 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * The package 
+ *   
+ * Behind the scenes 
+ *   
+ * History 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 The package 
-    4 Behind the scenes 
-    5 History 
-    
     Description 
     Character Shadows in actionThis package enables casting shadows from a single object. Good ole' projected shadows, for use on the important characters. Requires Unity Pro as it uses render textures. 
     Note that in Unity 2.0 and up there are easier to use built-in shadows. But this technique still works if you want projected shadows. 

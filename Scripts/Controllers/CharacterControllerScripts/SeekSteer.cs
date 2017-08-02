@@ -5,18 +5,20 @@
  *
  * Author: Matthew Hughes (he wears an argyle lab coat nowadays) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - SeekSteer.cs 
+ *   
+ * Javascript - SeekSteer.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - SeekSteer.cs 
-    4 Javascript - SeekSteer.js 
-    
     DescriptionThis script will allow you to set multiple waypoints, and have an object follow them loosely, turning smoothing to get to the next one. The resulting effect is like a missile seeking out targets and getting 'close enough' then moving on to the next target. 
     UsageAssign this behavior to the GameObject you want to see follow the waypoints. Set the size of the waypoint array to the number of waypoints required and attach each waypoint GameObject to its respective location in the array. 
     C# - SeekSteer.cs// SeekSteer.cs

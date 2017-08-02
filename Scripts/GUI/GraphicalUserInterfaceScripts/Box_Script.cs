@@ -5,21 +5,26 @@
  *
  * Author: Forest (yoggy) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - Aspect.js 
+ *   
+ * JavaScript - Box.js 
+ *   
+ * JavaScript - Button.js 
+ *   
+ * JavaScript - ButtonAction.js 
+ *   
+ * JavaScript - MenuStyle.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - Aspect.js 
-    4 JavaScript - Box.js 
-    5 JavaScript - Button.js 
-    6 JavaScript - ButtonAction.js 
-    7 JavaScript - MenuStyle.js 
     
     DescriptionA system with multiple scripts I set up to handle GUI boxes with different content and buttons with varying effects. You can set up the box border, font and other things once in the MenuStyle and then use it all over on any scale. This makes simple GUI objects less of a pain so you can get started quick. 
     A nice example unity project using this script can be found Here 

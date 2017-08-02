@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/DrawGizmoGrid.cs
  * File based on original modification date of: 17 January 2016, at 06:25. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * UnityScript - DrawGizmoGrid.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 Usage 
-    4 UnityScript - DrawGizmoGrid.cs 
-    
     AuthorHayden Scott-Baron (@docky) - http://twitter.com/docky 
     DescriptionThis adds a handy reference grid to the scene. 
      

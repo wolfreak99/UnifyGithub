@@ -5,18 +5,20 @@
  *
  * Author: user:AnomalousUnderdog 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - MeleeWeaponTrail.cs 
+ *   
+ * C# - SwooshTest.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - MeleeWeaponTrail.cs 
-    4 C# - SwooshTest.cs 
     
     Description A smoothed TrailRenderer meant for melee weapons of animated 3d models. Based on TimeBasedTrailRenderer by Forest Johnson (Yoggy) and xyber. 
      

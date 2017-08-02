@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/IsoFrame.cs
  * File based on original modification date of: 2 November 2012, at 15:57. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * UnityScript - IsoFrame.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorGUIScripts
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 Usage 
-    4 UnityScript - IsoFrame.cs 
-    
     AuthorHayden Scott-Baron (Dock) - http://starfruitgames.com 
     DescriptionThis adds an isometric frame visible in the editor. 
     UsageDrag this onto a gameObject, and adjust the public variables. Add multiple aspect ratios to show different sizes. 

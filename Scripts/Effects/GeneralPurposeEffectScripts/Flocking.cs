@@ -3,23 +3,30 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/Flocking.cs
  * File based on original modification date of: 21 October 2013, at 08:56. 
  *
+ * Information 
+ *   
+ * Download Package 
+ *   
+ * JavaScript - BoidController.js 
+ *   
+ * JavaScript - BoidFlocking.js 
+ *   
+ * JavaScript - BoidWatcher.js 
+ *   
+ * C# edition 
+ *   
+ * C# - BoidController.cs 
+ *   
+ * C# - BoidFlocking.cs 
+ *   
+ * C# - BoidWatcher.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Information 
-    2 Download Package 
-    3 JavaScript - BoidController.js 
-    4 JavaScript - BoidFlocking.js 
-    5 JavaScript - BoidWatcher.js 
-    6 C# edition 
-    7 C# - BoidController.cs 
-    8 C# - BoidFlocking.cs 
-    9 C# - BoidWatcher.cs 
-    
     InformationHere's a set of flocking scripts, They will follow a target, have controls for min speed, max speed, randomness. 
     Uses the physics engine and oversized sphere colliders to keep the boids apart. 
     Use the example scene in the unityPackage to figure out how to hook it all together. 

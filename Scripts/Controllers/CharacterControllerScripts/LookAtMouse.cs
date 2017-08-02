@@ -5,18 +5,20 @@
  *
  * Author: capnbishop 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - LookAtMouse.js 
+ *   
+ * C# - LookAtMouse.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - LookAtMouse.js 
-    4 C# - LookAtMouse.cs 
-    
     DescriptionThis script will cause an object to rotate towards the mouse cursor along it's y axis. 
     This action could be good for third person games where objects need to point to the cursor but remain parallel with the ground. For instance, a sentry gun located in the center of the screen that rotates toward the mouse to target oncoming enemies. 
     UsageDrop this script onto a GameObject to have it look toward the cursor. Change the speed value to alter how quickly the object rotates. 

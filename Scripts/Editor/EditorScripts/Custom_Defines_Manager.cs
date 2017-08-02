@@ -5,19 +5,22 @@
  *
  * 	Author: Jon Kenkel (nonathaj)
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Usage for Assets 
+ *   
+ * Note about deleting the manager file 
+ *   
+ * C# Script - AssetDefineManager.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Usage for Assets 
-    4 Note about deleting the manager file 
-    5 C# Script - AssetDefineManager.cs 
-    
     Description Script for adding/removing #define's in Unity that are dependent on a file. When that file exists, this script will create the desired defines for it. When that file is removed, those defines will be removed. 
     Unity does not support standard #define's, but they can be added to each build type's player settings using editor scripts (http://docs.unity3d.com/Manual/PlatformDependentCompilation.html) to allow #if and #elif preprocessor directives for platform dependent code. Of course it is often more useful to create your own, so this script simplifies that process, especially for imported assets. 
     Usage Simply add a new AssetDefine object to the list of CustomDefines that the manager uses in your project. The AssetDefine requires a file to be dependent on, and at least 1 define for that dependency. You may define as many additional defines as you wish. Optionally, you may replace the null, with a list of the platforms you wish your define to work for 

@@ -5,20 +5,24 @@
  *
  * Author: Hayden Scott-Baron (Dock) : twitter: @docky 
  *
+ * Info 
+ *   
+ * Usage 
+ *   
+ * Known Issues 
+ *   
+ * LoadSettings.cs 
+ *   
+ * SetMyClassValues.cs 
+ *   
+ * settings.txt 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.Serialization
 {
-    
-    Contents [hide] 
-    1 Info 
-    2 Usage 
-    3 Known Issues 
-    4 LoadSettings.cs 
-    5 SetMyClassValues.cs 
-    6 settings.txt 
     
     Info This is a handy script for grabbing a bunch of values from a text file, and storing the values. You can then create small scripts that load the values into your existing components. 
     Usage Put LoadSettings.cs anywhere. If you're using JS, you may need to put this from the Plugins folder. 

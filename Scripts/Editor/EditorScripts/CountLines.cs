@@ -5,18 +5,20 @@
  *
  * Author: Scrat 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - CountLines.cs 
+ *   
+ * C# - CountLines.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - CountLines.cs 
-    4 C# - CountLines.cs 
-    
     Description Count all the files and lines in your project. 
     Usage Place it inside the Editor folder. Then, you can click "Custom/Stats/Count Lines" 
     C# - CountLines.cs EditorWindow-derived version for Unity 3.5. 

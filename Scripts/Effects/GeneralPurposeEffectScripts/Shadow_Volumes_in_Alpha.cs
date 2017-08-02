@@ -5,21 +5,26 @@
  *
  * Author: Aras Pranckevicius 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * The package 
+ *   
+ * Behind the scenes 
+ *   
+ * History 
+ *   
+ * JavaScript - RenderShadowVolume.js 
+ *   
+ * ShaderLab - ShadowVolumeExtrusion.shader 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 The package 
-    4 Behind the scenes 
-    5 History 
-    6 JavaScript - RenderShadowVolume.js 
-    7 ShaderLab - ShadowVolumeExtrusion.shader 
-    
     Description 
     Shadow Volume in actionThis package implements very basic shadows using shadow volume algorithm. Like all shadow volume based shadows, it's very fillrate hungry, and this script only implements very basic functionality, but on the plus side it should work on pretty much all graphics cards and performance might be enough for simple cases. Requires Unity Pro as it uses GL class. (note: as of Unity 4.0, it works with Unity Basic as well) 
     Note that in Unity 2.0 and up there are easier to use built-in shadows based on shadow mapping algorithm. But this technique still works if you want shadow volumes. 

@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Blender_Camera_Controls.cs
  * File based on original modification date of: 27 January 2014, at 15:15. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * UnityScript - BlenderCameraControls.cs 
+ *   
+ * Back to editor scripts 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 Usage 
-    4 UnityScript - BlenderCameraControls.cs 
-    5 Back to editor scripts 
-    
     AuthorMarc Kusters (Nighteyes) 
     DescriptionThis adds the default Blender numpad camera controls to Unity. Initial idea from [1]. 
     Note 1: Just so you know, this script changes the Transform inspector to show rotation in quaternions instead of Euler offsets. 

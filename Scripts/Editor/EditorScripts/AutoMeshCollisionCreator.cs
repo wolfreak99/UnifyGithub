@@ -5,18 +5,20 @@
  *
  * Author: Sean Watson of JackalBorn (Jackalborn) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - BoundingBoxAdder.cs 
+ *   
+ * Credit 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - BoundingBoxAdder.cs 
-    4 Credit 
-    
     Description Allows the creation of a Mesh Collider inside your 3D Package(3DMax tested) to be automatically added as an non rendering Mesh Collider to your main object upon import into Unity. 
     Usage Setup includes creating 2 folders in your main Asset folder of your project, 1 called "Editor" and 1 called "environment" (the second can be changed in the script if needed). 
     Place BoundingBoxAdder.cs inside the "Editor". 

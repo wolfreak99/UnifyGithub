@@ -5,18 +5,20 @@
  *
  * Author: Yoggy 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - New FPS Controller.js 
+ *   
+ * C Sharp 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - New FPS Controller.js 
-    4 C Sharp 
-    
     DescriptionSomeone on the forum was struggling to do a really simple thing: make a rotating bridge that an FPS Walker can stand on and be carried around in a circle. 
     The FPS Walker / Character Controller that UT provides will not do this so I made a script that works by physics and therefore gets friction information from other objects. 
     UsageAssign this script to a rigid body with a collider and it will be able to run, jump and ride on moving platforms etc. 

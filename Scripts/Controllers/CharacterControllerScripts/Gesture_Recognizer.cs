@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/Gesture_Recognizer.cs
  * File based on original modification date of: 10 January 2012, at 20:52. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - gesture.js 
+ *   
+ * JavaScript - gestureRecognizer.js 
+ *   
+ * JavaScript - gestureTemplates.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - gesture.js 
-    4 JavaScript - gestureRecognizer.js 
-    5 JavaScript - gestureTemplates.js 
-    
     DescriptionI developed a Gesture Recognizer script with the purpose of creating a new interaction method for a game at viezel studios [1] and now release for the community. It is completely a math based recognizer concept including tweakable parameters to adjust the CPU usage vs recognizer accuracy. 
     The gesture recognizer consists of three script files: 
     - gesture.js 

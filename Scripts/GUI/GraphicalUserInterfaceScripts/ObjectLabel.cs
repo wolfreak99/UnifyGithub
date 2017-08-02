@@ -5,19 +5,22 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - ObjectLabel.js 
+ *   
+ * Description 
+ *   
+ * C# - ObjectLabel.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - ObjectLabel.js 
-    4 Description 
-    5 C# - ObjectLabel.cs 
     
     DescriptionMakes a GUIText label follow an object in 3D space. Useful for things like having name tags over players' heads. 
     UsageAttach this script to a GUIText object, and drag the object it should follow into the Target slot. For best results, the anchor of the GUIText should probably be set to lower center, depending on what you're doing. Offset is used to position the label somewhere relative to the actual target's position. The default of (0, 1, 0) is useful for having the label appear above the object, rather than appearing right on top of it. If ClampToScreen is on, the label will never disappear even if the target is off the screen, but will attempt to follow as best it can (for example, if the target is off to the left of the camera out of sight, the label will still be visible on the left). ClampBorderSize sets how much space will be left at the borders if the label is being clamped to the screen, to help ensure that the label is still readable and not partially cut off. This is in viewport space, so the default .05 is 5% of the screen's size. If UseMainCamera is checked, the first camera in the scene tagged MainCamera will be used. If it's not checked, you should drag the desired camera onto the CameraToUse slot, which is otherwise unused if UseMainCamera is true. 

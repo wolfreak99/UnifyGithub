@@ -3,6 +3,16 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/GenericMenuExtensions.cs
  * File based on original modification date of: 11 March 2015, at 18:14. 
  *
+ * Description 
+ *   
+ * Building a GenericMenu WITH these extensions 
+ *   
+ * Building a GenericMenu WITHOUT these extensions 
+ *   
+ * Assets/Editor/GenericMenuExtensions.cs 
+ *   
+ * License 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,13 +20,6 @@
 namespace UnifyGithub.Editor.EditorGUIScripts
 {
     
-    
-    Contents [hide] 
-    1 Description 
-    2 Building a GenericMenu WITH these extensions 
-    3 Building a GenericMenu WITHOUT these extensions 
-    4 Assets/Editor/GenericMenuExtensions.cs 
-    5 License 
     
     Description This editor script defines extension methods for Unity's GenericMenu class which aim to reduce the amount of code clutter when building menus. 
     The source code on this page is released under the MIT license. 

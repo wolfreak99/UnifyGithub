@@ -5,20 +5,24 @@
  *
  * Author: Spencer Evans 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Notes 
+ *   
+ * Code 
+ *   
+ * Sample Usage 
+ *   
+ * Possible Changes? 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Development.DebuggingScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Notes 
-    4 Code 
-    5 Sample Usage 
-    6 Possible Changes? 
-    
     Description DebugLine.cs provides 2 useful functions for debugging : DrawLine() and DrawRay(). These functions are almost identical to those provided in the Unity 3D engine Debug class, except in the following ways: 
     The lines are drawn in the Game window using the lineRenderer component. 
     A "width" option is provided - allowing the user to choose the width in pixels of the line drawn. 

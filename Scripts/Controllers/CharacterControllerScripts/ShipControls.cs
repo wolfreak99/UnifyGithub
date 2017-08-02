@@ -5,19 +5,22 @@
  *
  * Author: Jonathan Czeck (aarku) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - ShipControls.cs 
+ *   
+ * Boo - ShipControls.boo 
+ *   
+ * JavaScript - ShipControls.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - ShipControls.cs 
-    4 Boo - ShipControls.boo 
-    5 JavaScript - ShipControls.js 
-    
     Description This script performs 2D spaceship controls like OverWhelmed Arena that you can tweak to your heart's content. The input to the script, player or bot, is abstracted. This means you can have a Bot script in conjunction with this one that will drive the ship. 
     Usage Place this script on a GameObject with a RigidBody component on it. 
     C# - ShipControls.cs // Removed two depreciated functions.  Used Deg2Rad and back again because I don't know what I'm doing.  Anyone is welcome to clean this up properly.  -WarpZone

@@ -5,19 +5,22 @@
  *
  * Author: Daniel 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Javascript - AutoType.js 
+ *   
+ * C# - AutoType.cs 
+ *   
+ * JavaScript: Rich Text per character 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Javascript - AutoType.js 
-    4 C# - AutoType.cs 
-    5 JavaScript: Rich Text per character 
-    
     Description Automatically types a string of text typewriter style. 
     Usage Place this script onto a GUIText. The text in the GUIText object's Text field will be used. 
     Javascript - AutoType.js var letterPause = 0.2;

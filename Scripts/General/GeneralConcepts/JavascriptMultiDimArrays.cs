@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Jagged Arrays 
+ *   
+ * C# - MultiDim.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.GeneralConcepts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Jagged Arrays 
-    4 C# - MultiDim.cs 
     
     Description NOTE: This is largely obsolete in Unity 3.2, since multidimensional arrays can be declared directly in JS now. Please upgrade if you haven't already! However, the syntax for directly declaring the type of jagged multi-dimensional arrays is still missing in JS, so if you need those, this script can still be useful (though you can delete the rectangular array functions and just leave the jagged array functions). 
     Multi-dimensional (AKA rectangular) arrays in Javascript are a bit of a conundrum, prior to Unity 3.2. Ideally it should be possible to write something like "var foo = new int[5,6];". Alas, this results in a compiler error. However, it is possible to write this: 

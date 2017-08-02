@@ -5,20 +5,24 @@
  *
  * Author: Matthew Miner (matthew@matthewminer.com) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - Marquee.cs 
+ *   
+ * AdvancedMarquee Description 
+ *   
+ * AdvancedMarquee Usage 
+ *   
+ * C# - AdvancedMarquee.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.Unity20GUIScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - Marquee.cs 
-    4 AdvancedMarquee Description 
-    5 AdvancedMarquee Usage 
-    6 C# - AdvancedMarquee.cs 
-    
     Description Creates a scrolling label that moves across the screen horizontally left-to-right, looping back once it reaches the edge of the screen. 
     Usage Attach the script to a game object and change the message and scrollSpeed fields in the inspector. 
     C# - Marquee.cs using UnityEngine;

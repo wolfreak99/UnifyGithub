@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * SaveFontTexture.js 
+ *   
+ * SaveFontTexture.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 SaveFontTexture.js 
-    4 SaveFontTexture.cs 
-    
     DescriptionIf you've ever wanted to get at the auto-generated font bitmap that Unity creates when importing vector fonts, now's your chance. SaveFontTexture saves that bitmap as a .png file so you can edit it, add whatever whizbang effects you want to it, and then use it as a colored font, using the TexturedFont shader and a GUIText object. 
     Note: this script isn't necessary in Unity 4, since in that case you can click on the font and choose "Create Editable Copy" in the gear menu in the inspector. 
     Usage Script Setup 

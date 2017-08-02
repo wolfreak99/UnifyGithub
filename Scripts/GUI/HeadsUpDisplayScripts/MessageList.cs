@@ -5,21 +5,26 @@
  *
  * Author: capnbishop 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Javascript - MessageList.js 
+ *   
+ * Javascript - TimedFadeText.js 
+ *   
+ * Javascript - TimedFadeTextMESH.js 
+ *   
+ * C# - MessageList.cs 
+ *   
+ * C# - TimedFadeText.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.HeadsUpDisplayScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Javascript - MessageList.js 
-    4 Javascript - TimedFadeText.js 
-    5 Javascript - TimedFadeTextMESH.js 
-    6 C# - MessageList.cs 
-    7 C# - TimedFadeText.cs 
-    
     DescriptionThese two scripts can be used to create a list of automatic self-destroying messages that fade away. Each added message is put at the top or bottom of a list, moving the rest down or up (respectively) depending on the direction. The message will last for a designated period of time, then fade away and destroy itself. 
     UsageUse MessageList.js on an empty game object in the scene. Use the TimedFadeText.js script on a GUIText prefab, then assign that prefab to MessageList. Call AddMessage() on MessageList to create a message and have it added to the list. New messages will be instantiated at the pixel coordinate position specified in startPos (origin at the bottom left corner), and existing messages will be moved a set number of pixels along the y axis by the lineSize property. The duration of the life of the message and fading period can be set in TimedFadeText. 
     Included at the end is the modified code for the use on a TextMESH rather than a GUIText object. Use this code if you need to use a 3D Text Mesh rather than a 2D GUI Text Object. This code is called "TimedFadeTextMESH.js". 

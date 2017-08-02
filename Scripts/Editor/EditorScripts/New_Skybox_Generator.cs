@@ -5,18 +5,20 @@
  *
  * Author: ReJ aka Renaldas Zioma 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - NewSkyBoxGenerator.js 
+ *   
+ * CSharp - NewSkyBoxGenerator.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - NewSkyBoxGenerator.js 
-    4 CSharp - NewSkyBoxGenerator.cs 
-    
     Description Generates Skybox by rendering 6 images and combining them with skybox material. Select multiple scene objects to render Skyboxes from multiple locations. 
     Usage You must place the script in a folder named "Editor" in your project's Assets folder for it to work properly. 
     Select one or more scene objects which you want to use as the origin point(s) for the Skybox(es), then choose "Custom/Render Skybox" menu item and wait for a few seconds. Generated skybox images will appear under folder named "Skyboxes". You will find Skybox material in the same directory. Such Skybox material can be used in "Edit/Render Settings". 

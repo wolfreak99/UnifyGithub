@@ -5,18 +5,20 @@
  *
  * Author: KeliHlodversson 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * ObjExporter.cs 
+ *   
+ * EditorObjExporter.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MeshHelpers
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 ObjExporter.cs 
-    4 EditorObjExporter.cs 
-    
     DescriptionThis is a simple utility class for generating basic obj files from a mesh object. The obj file format was gleaned from various sites found through google like this one 
     Usage Either call ObjExporter.MeshToString() to generate a text string containing the obj file or ObjExporter.MeshToFile() to save it directly to a file. 
     ObjExporter.cs using UnityEngine;

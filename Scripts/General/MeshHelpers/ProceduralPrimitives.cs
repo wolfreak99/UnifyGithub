@@ -5,24 +5,32 @@
  *
  * Author: Bérenger. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - Plane 
+ *   
+ * C# - Box 
+ *   
+ * C# - Cone 
+ *   
+ * C# - Tube 
+ *   
+ * C# - Torus 
+ *   
+ * C# - Sphere 
+ *   
+ * C# - IcoSphere 
+ *   
+ * Tips 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MeshHelpers
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - Plane 
-    4 C# - Box 
-    5 C# - Cone 
-    6 C# - Tube 
-    7 C# - Torus 
-    8 C# - Sphere 
-    9 C# - IcoSphere 
-    10 Tips 
-    
     Description Use those scripts to procedurally create primitive meshes, with custom parameters. More to come later. If anyone has the code for a teapot, that'd be great. I guess it's a tiny bit more complicated though. 
     Usage The entry point of those script must be a reference to a meshfilter's mesh. The return value is that mesh filled up. 
     

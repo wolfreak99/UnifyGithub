@@ -5,18 +5,20 @@
  *
  * Author: Kiyaku 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - mousePointer.cs 
+ *   
+ * C# - mousePointer.cs - with default and for colliders 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - mousePointer.cs 
-    4 C# - mousePointer.cs - with default and for colliders 
-    
     DescriptionIf you want a custom image for your mouse pointer but still have it in front of the OnGUI() elements, use this little script. 
     UsageAttach this script to any gameObject you want, preferable a new empty one. Assign your custom Texture to the script. 
     C# - mousePointer.csusing UnityEngine;

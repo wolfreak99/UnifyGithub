@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/TextureColor/HSBColor.cs
  * File based on original modification date of: 3 September 2015, at 20:56. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - HSBColor.cs 
+ *   
+ * JS - HSV2RGB2HSV.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -13,12 +21,6 @@ namespace UnifyGithub.General.TextureColor
     CS Version A: Jonathan Czeck (aarku) 
     JS Version B: Antony Stewart (ohh bertie) 
     
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - HSBColor.cs 
-    4 JS - HSV2RGB2HSV.js 
     
     DescriptionVersion A provides a Hue/Saturation/Brightness/Alpha color model in addition to Unity's built in Red/Green/Blue/Alpha colors. It is useful for interpolating between colors in a more pleasing fashion. 
     Version B in .JS, Is the same probably, one difference is it has backwards and forwards conversion to and from HSV. i haven't compared them, the maths is different. I have tested it though and it converts fine, the algorithm is better in 32 bit depth CPU than in GPU by a visible amount. doesnt have a lerp fct. 

@@ -5,19 +5,22 @@
  *
  * Author: Hayden Scott-Baron (Dock) 
  *
+ * Description 
+ *   
+ * Updated 
+ *   
+ * Usage 
+ *   
+ * Technical Discussion 
+ *   
+ * C# - FadeObjectInOut.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Updated 
-    3 Usage 
-    4 Technical Discussion 
-    5 C# - FadeObjectInOut.cs 
-    
     DescriptionThis allows you to easily fade an object and its children. If an object is already partially faded it will continue from there. If you choose a different speed, it will use the new speed. 
     It's especially useful for GUI style objects, but can be used on 3D objects in the scene as well. 
     UpdatedUpdated 7th March 2013 with the option of pausing before the fade occurs, and a bunch of fixes to 'Fade In On Start'. 

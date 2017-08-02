@@ -5,18 +5,20 @@
  *
  * Author: Jonathan Czeck (aarku) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Advanced Usage 
+ *   
+ * C# - DraggableGUIElement.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Advanced Usage 
-    4 C# - DraggableGUIElement.cs 
-    
     DescriptionThis script uses OnMouseDrag() to easily implement draggable GUI elements. 
     UsageAdd this script to any GameObject with a GUITexture or GUIText element. Set the border property to be the minimum and maximum values in viewport space that the object can inhabit. In case you don't remember what viewport space is, the coordinates 0,0 are the lower left of the game view, and 1,1 is the upper right. 
     Advanced UsageArrange a dialog box using GUITexture and GUIText elements, probably using Button and ToggleButton to handle the buttons. Assign ForwardAllMouseEvents to individual GUITexture elements of your dialog box that you want to be draggable. A good choice would be a GUITexture that represents the title bar of the window. On each of these GUITextures to be draggable, assign the ForwardAllMouseEvents script. Set the target of each ForwardAllMouseEvents script to the parent GameObject of which all the dialog box elements are children of. 

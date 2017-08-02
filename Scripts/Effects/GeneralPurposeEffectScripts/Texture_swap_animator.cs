@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * TextureSwapAnimator.js 
+ *   
+ * TextureSwapAnimator2.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 TextureSwapAnimator.js 
-    4 TextureSwapAnimator2.js 
-    
     DescriptionThis script animates a texture on an object by using a series of frames. You can give it a framerate to determine the speed of the animation. 
     Usage Attach this script to an object, then set the size of the Frames array and drag all the frames of the animation onto the appropriate slots. (Note that you can click the lock icon in the inspector and drag all the frames at once, rather than one at a time.) Set FramesPerSecond to the desired framerate. 
     TextureSwapAnimator.js var frames : Texture2D[];

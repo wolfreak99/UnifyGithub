@@ -5,18 +5,20 @@
  *
  * Author: Jonathan Czeck (aarku) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - Force2D.js 
+ *   
+ * CShapr - Force2D.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - Force2D.js 
-    4 CShapr - Force2D.cs 
-    
     DescriptionThis script will allow you to constrain Unity's physics engine to two dimensions. It works best for rigidbodies that are not connected by physics joints. 
     Technically, this script constrains the GameObject to the Y-Z plane with rotations only allowed on the X axis. 
     UsageAssign this behavior to any GameObject. Do not assign this to RigidBodies that are linked together with joints if you want to keep the physics engine more stable. 

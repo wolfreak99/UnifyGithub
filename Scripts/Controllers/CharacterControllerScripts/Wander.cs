@@ -5,18 +5,20 @@
  *
  * Author: Matthew Miner (matthew@matthewminer.com) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - Wander.cs 
+ *   
+ * JavaScript Version Wander.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - Wander.cs 
-    4 JavaScript Version Wander.js 
-    
     Description Creates a wandering behaviour for NPCs. 
     Usage Attach the script to your NPC, ensuring a CharacterController component is also attached. Tweak the inspector variables to get the desired behaviour. 
     C# - Wander.cs using UnityEngine;

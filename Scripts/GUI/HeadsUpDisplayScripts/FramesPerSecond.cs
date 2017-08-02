@@ -5,6 +5,22 @@
  *
  * FPSDisplay.cs Author: Dave Hampson 
  *
+ * FPSDisplay.cs 
+ *   
+ * Description 
+ *   
+ * JavaScript - FramesPerSecond.js 
+ *   
+ * CSharp HUDFPS.cs 
+ *   
+ * Boo FPS_Display.boo 
+ *   
+ * Other CSharp HUDFPS.cs 
+ *   
+ * Other UnityScript HUDFPS.js 
+ *   
+ * FPSCounter.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,16 +28,6 @@
 namespace UnifyGithub.GUI.HeadsUpDisplayScripts
 {
     
-    
-    Contents [hide] 
-    1 FPSDisplay.cs 
-    2 Description 
-    3 JavaScript - FramesPerSecond.js 
-    4 CSharp HUDFPS.cs 
-    5 Boo FPS_Display.boo 
-    6 Other CSharp HUDFPS.cs 
-    7 Other UnityScript HUDFPS.js 
-    8 FPSCounter.cs 
     
     Here is a FPS Display script I created. It doesn't require a GUIText element and it also shows milliseconds, so just drop it into a GameObject and you should be ready to go. 
     Hope someone finds it useful! 

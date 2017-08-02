@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/DebugX.cs
  * File based on original modification date of: 8 February 2013, at 22:28. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * DebugX.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorGUIScripts
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 Usage 
-    4 DebugX.cs 
-    
     AuthorHayden Scott-Baron (Dock) - http://starfruitgames.com 
     DescriptionAdds a number of useful Debug Draw features, useful for drawing gizmos. 
     UsageDebugX.DrawPoint(transform.position. Color.red, float 1.0f); 

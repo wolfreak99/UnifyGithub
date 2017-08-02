@@ -5,20 +5,24 @@
  *
  * Author: Matthew Miner (matthew@matthewminer.com) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * To Do 
+ *   
+ * C# - CreatePrefabFromSelected.cs 
+ *   
+ * C# - Updated CreatePrefabFromSelected.cs 
+ *   
+ * C# - CreatePrefabFromSelected.cs Procedural Mesh Version 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 To Do 
-    4 C# - CreatePrefabFromSelected.cs 
-    5 C# - Updated CreatePrefabFromSelected.cs 
-    6 C# - CreatePrefabFromSelected.cs Procedural Mesh Version 
-    
     Description Creates a prefab containing the contents of the currently selected game object. 
     Usage Place the script inside the Editor folder. Select a GameObject and choose 'GameObject > Create Prefab From Selection'. A new prefab will be created in the root directory bearing the same name as the GameObject. 
     Faults: 

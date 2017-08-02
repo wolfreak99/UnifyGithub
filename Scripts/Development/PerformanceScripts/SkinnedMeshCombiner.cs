@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/PerformanceScripts/SkinnedMeshCombiner.cs
  * File based on original modification date of: 12 December 2012, at 21:26. 
  *
+ * Description 
+ *   
+ * Use 
+ *   
+ * Requirements 
+ *   
+ * SkinnedMeshCombiner.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Development.PerformanceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Use 
-    3 Requirements 
-    4 SkinnedMeshCombiner.cs 
-    
     DescriptionThis script will combine skinned meshes whilst retaining their animation and texture properties. Currently it's not tested with multiple materials, as that was not required for what we needed it for. 
     UseAdd this script to a master GO, with numerous skinned mesh child GOs. Run scene. Profit. 
     RequirementsYour child GOs must have the skinned mesh, on a separate GO, for example the hierarchy should look like this: GO - This script on here. 

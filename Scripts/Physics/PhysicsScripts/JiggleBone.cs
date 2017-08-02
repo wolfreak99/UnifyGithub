@@ -5,6 +5,16 @@
  *
  * Author: Michael Cook (Fishypants)
  *
+ * Description 
+ *   
+ * Notes 
+ *   
+ * How it works 
+ *   
+ * C# - JiggleBone.cs 
+ *   
+ * End 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -15,13 +25,6 @@ namespace UnifyGithub.Physics.PhysicsScripts
     Date: 9-25-2011
     
     
-    
-    Contents [hide] 
-    1 Description 
-    2 Notes 
-    3 How it works 
-    4 C# - JiggleBone.cs 
-    5 End 
     
     Description
     This script will add a secondary jiggle motion to bones. (bouncy breast dynamics, hair, etc) It uses a very crude physics model to approximate the rotation of the bones, with optional squash and stretch. I modified Pegorari's Rubber Simulation Script [1] as the basis for the dynamics. 

@@ -5,19 +5,22 @@
  *
  * Author: Jonathan Czeck (aarku) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - GuiRatioFixer.cs 
+ *   
+ * Boo - GuiRatioFixer.boo 
+ *   
+ * JavaScript - GuiRatioFixer.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - GuiRatioFixer.cs 
-    4 Boo - GuiRatioFixer.boo 
-    5 JavaScript - GuiRatioFixer.js 
-    
     DescriptionThis script will adjust the aspect ratio of a GUIText or GUITexture object by scaling it horizontally to fit the proportions. 
     It does not know how to align groups of GUI objects after it adjusts their aspect ratio. 
     UsagePlace this script on a GameObject with a GUIText and/or GUITexture component. Then scale the object to the correct screen size in a Game View that has aspect set to 4:3. When you run the game, the object's scale will be changed to match the actual screen ratio. 

@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - RaiseHeightmap.js 
+ *   
+ * C# - AdjustHeights.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - RaiseHeightmap.js 
-    4 C# - AdjustHeights.cs 
     
     Description Raises or lowers the terrain. Normally terrains are created near the lowest level possible, which in effect prevents you from digging valleys or trenches below that height. A work-around is to use Flatten Terrain from the Terrain menu before you start working on it to set the base terrain level to a greater height, which gives you "leg room" to dig down. But if you didn't do this, you're basically stuck unless you export the heightmap to an image editor and brighten it. This will effectively raise the terrain, but can be problematic. Fortunately, now you don't have to worry about that, since you can just use RaiseTerrain to raise or lower the entire terrain at any time. 
     Requires Unity 2.1 or later, but is slightly nicer with Unity 2.5. 

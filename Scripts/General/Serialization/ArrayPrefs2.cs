@@ -5,24 +5,32 @@
  *
  * Author: Eric Haines 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Vector2, Vector3, Quaternion, Color, Bool 
+ *   
+ * Arrays 
+ *   
+ * ShowArrayType 
+ *   
+ * Usage Note 
+ *   
+ * How it Works 
+ *   
+ * EditorPrefsX 
+ *   
+ * JavaScript - PlayerPrefsX.js 
+ *   
+ * C# - PlayerPrefsX.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.Serialization
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Vector2, Vector3, Quaternion, Color, Bool 
-    4 Arrays 
-    5 ShowArrayType 
-    6 Usage Note 
-    7 How it Works 
-    8 EditorPrefsX 
-    9 JavaScript - PlayerPrefsX.js 
-    10 C# - PlayerPrefsX.cs 
-    
     DescriptionProvides a way to save and load arrays of various types from PlayerPrefs, plus Vector2, Vector3, Quaternion, and Color. Also integrates boolean saving from BoolPrefs, with a bit of spiffing up. ArrayPrefs2 supersedes the original ArrayPrefs because it's generally faster, more robust, and usually takes less space when saving. (Except string arrays, but they're still more robust anyway.) Note that preferences saved with ArrayPrefs are not compatible with ArrayPrefs2. Requires Unity 3.0. 
     Usage Have this script somewhere in your project. Ideally it should be in the Standard Assets folder; this way it can be called from C# and Boo scripts. Call it PlayerPrefsX, and then you can use the following functions: 
     PlayerPrefsX.SetBool 

@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * History 
+ *   
+ * JavaScript - ScreenWipe.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CameraControls
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 History 
-    4 JavaScript - ScreenWipe.js 
     
     DescriptionMakes various animated screen wipes: cross-fade (two versions, for Unity and Unity Pro), rectangular zoom (in or out), arbitrary shape zoom and spin, a squish scroll (four directions), and a wavy "dream" wipe (requires Unity Pro). Requires Unity 2.6 or later. 
     UsageSee CrossFade, CrossFadePro, DreamWipe, RectangleWipe, ShapeWipe, and SquishWipe for usage directions. This is the base script that contains the functions for all the wipes. It must be attached to some object in the scene in order for it to work, and should be located in your Standard Assets folder (if you don't have one, make one), so it can be used easily by C# and Boo scripts. It has a static variable called "use" that points to this script, so getting a reference isn't necessary. For example, CrossFade would be called like this: 

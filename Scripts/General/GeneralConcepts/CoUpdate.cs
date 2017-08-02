@@ -5,19 +5,22 @@
  *
  * Author: Lasse Järvensivu (Statement) 
  *
+ * Summary 
+ *   
+ * Problem 
+ *   
+ * Solution 
+ *   
+ * Script skeleton (JS) 
+ *   
+ * Example usage (JS) 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.GeneralConcepts
 {
-    Contents [hide] 
-    1 Summary 
-    2 Problem 
-    3 Solution 
-    4 Script skeleton (JS) 
-    5 Example usage (JS) 
-    
     Summary Provides an alternative to Update method that support yield instructions. 
     Problem The Update method in Unity3D can't be a Coroutine. In some cases it can be beneficial to allow yielding in Update to allow step-wise logic to be executed. For example waiting for a key stroke and then play an animation that must finish before remaining code is executed. 
     Solution In Start method, start a new Coroutine called CoStart which handles an internal loop. This internal loop in turn call upon the CoUpdate Coroutine which then can be treated as Update but with added yield instruction support. 

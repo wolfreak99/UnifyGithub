@@ -5,18 +5,20 @@
  *
  * Author: David O'Donoghue (Trooper) 
  *
+ * Description 
+ *   
+ * Changes 
+ *   
+ * Usage 
+ *   
+ * Code 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MessagingSystems
 {
-    Contents [hide] 
-    1 Description 
-    2 Changes 
-    3 Usage 
-    4 Code 
-    
     Description DelayedDelegates is a centralised way of calling a function at a specific time whilst passing through a parameter. 
     This gets rid of the messy practice of storing a global variable when using Invoke(). 
     Changes 29/05/2012 

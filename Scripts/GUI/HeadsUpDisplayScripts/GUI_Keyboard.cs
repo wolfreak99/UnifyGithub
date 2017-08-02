@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/HeadsUpDisplayScripts/GUI_Keyboard.cs
  * File based on original modification date of: 11 December 2012, at 22:53. 
  *
+ * Authors 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Download 
+ *   
+ * C# Source Code 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.HeadsUpDisplayScripts
 {
-    Contents [hide] 
-    1 Authors 
-    2 Description 
-    3 Usage 
-    4 Download 
-    5 C# Source Code 
-    
     AuthorsOriginal Author : james barrett -- james 170482
     Edited: CorrodedSoul [March,03,2011] 
     DescriptionThis creates a scrolling GUI keyboard. 

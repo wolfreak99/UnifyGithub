@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/ReallySimpleScripts/SecondsToText.cs
  * File based on original modification date of: 10 January 2012, at 20:52. 
  *
+ * Summary 
+ *   
+ * Script (Javascript) 
+ *   
+ * Script (CSharp) 
+ *   
+ * Usage 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.ReallySimpleScripts
 {
-    Contents [hide] 
-    1 Summary 
-    2 Script (Javascript) 
-    3 Script (CSharp) 
-    4 Usage 
-    
     Summary This is a simple script which can be used to convert a time value in seconds into a readable text string. e.g. 15 => 15 seconds, or 3601 => 1 hour etc... 
     Script (Javascript) function textTime (seconds : int)
     {

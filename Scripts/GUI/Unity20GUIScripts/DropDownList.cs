@@ -5,18 +5,20 @@
  *
  * Author: rkite 
  *
+ * Description 
+ *   
+ * Functionality 
+ *   
+ * Usage 
+ *   
+ * C# - DropDownList.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.Unity20GUIScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Functionality 
-    3 Usage 
-    4 C# - DropDownList.cs 
-    
     DescriptionCreates a GUI Dropdown list that looks and works like the Hierarchy window in Unity, using a heirercy basied on the parent/child releastionship of the objects transforms. 
     FunctionalityThe script finds objects that start with whatever text is typed in the text field and updates the dropdown list to show only matching items. If the text field is blank it expands the whole list. 
     

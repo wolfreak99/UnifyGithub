@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * TextureDraw.js 
+ *   
+ * TextureDraw.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.TextureColor
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 TextureDraw.js 
-    4 TextureDraw.cs 
-    
     DescriptionDraws single-pixel-wide, non-anti-aliased lines inside a texture. This isn't for drawing lines on the screen (unless the texture fills the entire screen, of course). Line drawing code adapted from some example code in another web page somewhere on teh intarnets. 
      
     Usage Have this script somewhere in your project. Call the function by the name of the script ("TextureDraw" in this case) plus ".Line". The arguments are: 

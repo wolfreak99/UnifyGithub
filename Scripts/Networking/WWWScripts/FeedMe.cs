@@ -5,19 +5,22 @@
  *
  * Author: Corrupted Heart : I thought I should put some of my scripts on here since it provides a more centralized area for them than on a blog who knows where. 
  *
+ * Info 
+ *   
+ * PHP Editor Script 
+ *   
+ * FeedMe.cs 
+ *   
+ * WriteFeed.cs 
+ *   
+ * XML Structure 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Networking.WWWScripts
 {
-    Contents [hide] 
-    1 Info 
-    2 PHP Editor Script 
-    3 FeedMe.cs 
-    4 WriteFeed.cs 
-    5 XML Structure 
-    
     Info FeedMe is a simple XML displayer that utilizes TinyXmlReader to parse the document which is downloaded from a server. The current version (0.7) package offers the read and write scripts as prefabs for easy entry into a game. 
      
     PHP Editor Script I was going to post the php script however it seems to be causes errors for the wiki so you can find the script at my blog: http://www.corruptedheart.co.cc/2010/07/serve-and-feed-me.html 

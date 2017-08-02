@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/Serialization/MetadataSystem.cs
  * File based on original modification date of: 10 January 2012, at 20:52. 
  *
+ * Features 
+ *   
+ * Get the Code 
+ *   
+ * Key use cases 
+ *   
+ * Usage 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.Serialization
 {
-    Contents [hide] 
-    1 Features 
-    2 Get the Code 
-    3 Key use cases 
-    4 Usage 
-    
     Features A mechanism for storing preferences that compresses and (weakly) encrypts them, to make tampering more difficult. (NOTE: This is NOT an exceptionally strong mechanism, and will only make it harder to tamper with individual properties; the user can still simply delete the registry entries / .plist file to reset all the preferences at once...) 
     A system for declaratively specifying properties that can be "patched" at runtime via data stored in the ciphered preferences, and which can be looked up by objects at runtime easily, even from early-lifecycle events such as Awake() or OnEnable(). 
     Get the Code File:MetadataSystem.zip 

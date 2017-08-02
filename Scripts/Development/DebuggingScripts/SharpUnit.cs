@@ -3,6 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/DebuggingScripts/SharpUnit.cs
  * File based on original modification date of: 15 April 2012, at 16:58. 
  *
+ * Get SharpUnit 
+ *   
+ * Why SharpUnit? 
+ *   
+ * Getting Started: 
+ *   
+ * Integrate with Unity3D Using a DLL: 
+ *   
+ * Integrate with Unity3D Using the Scripts: 
+ *   
+ * Running Tests in Unity3D: 
+ *   
+ * Extending SharpUnit: 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -11,15 +25,6 @@ namespace UnifyGithub.Development.DebuggingScripts
 {
     SharpUnit is a unit testing framework written in C# specifically for Unity3D. It was inspired by and adapted from UUnit, which is written in Boo. It is my hope that SharpUnit will help Unity3D developers write and maintain solid code. Enjoy! 
     Mark Gants | mgants[at]bigpoint[dot]net 
-    Contents [hide] 
-    1 Get SharpUnit 
-    2 Why SharpUnit? 
-    3 Getting Started: 
-    4 Integrate with Unity3D Using a DLL: 
-    5 Integrate with Unity3D Using the Scripts: 
-    6 Running Tests in Unity3D: 
-    7 Extending SharpUnit: 
-    
     Get SharpUnitSharpUnit has been added to GitHub (finally!). Get it here: 
     https://github.com/mgants4/SharpUnit 
     Each version of SharpUnit has been committed sequentially to GitHub to maintain the revision history. Feel free to contribute improvements. 

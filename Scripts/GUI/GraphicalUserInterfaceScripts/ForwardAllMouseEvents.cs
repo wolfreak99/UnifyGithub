@@ -5,18 +5,20 @@
  *
  * Author: Jonathan Czeck (aarku) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Advanced Usage 
+ *   
+ * C# - ForwardAllMouseEvents.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Advanced Usage 
-    4 C# - ForwardAllMouseEvents.cs 
-    
     DescriptionThis script will send mouse events to a target GameObject. 
     UsageAssign this script to an object with a Collider, GUITexture, or GUIText. Then set the target property to the GameObject you want the mouse events forwarded to. 
     Advanced UsageSee DraggableGUIElement. 

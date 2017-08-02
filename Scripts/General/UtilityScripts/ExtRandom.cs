@@ -5,6 +5,16 @@
  *
  * Article Original Author: Dreamblur 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Methods 
+ *   
+ * ExtRandom.cs 
+ *   
+ * Testing 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,13 +22,6 @@
 namespace UnifyGithub.General.UtilityScripts
 {
     ExtRandom.cs v.1.0 Original Script Author: Dreamblur 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Methods 
-    4 ExtRandom.cs 
-    5 Testing 
-    
     Description ExtRandom is an extension of the Unity class Random. Its main purpose is to automate the common operations which implement the Random class. 
     Usage Place the ExtRandom script in your project's Standard Assets folder. 
     Methods RandomizeSeed() 

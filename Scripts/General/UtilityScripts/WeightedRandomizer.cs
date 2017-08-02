@@ -5,18 +5,20 @@
  *
  * Author: Edgar Neto 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Limitations 
+ *   
+ * Code 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Limitations 
-    4 Code 
     
     DescriptionThis class provides a way to retrieve a random element from a collection, where elements have different weights (different chances of being spawned) 
     UsageExample: 

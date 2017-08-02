@@ -5,20 +5,24 @@
  *
  * Author: Divinux 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Usage Example 
+ *   
+ * xkcdColorReader.cs 
+ *   
+ * xkcdColors.txt 
+ *   
+ * History 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.TextureColor
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Usage Example 
-    4 xkcdColorReader.cs 
-    5 xkcdColors.txt 
-    6 History 
-    
     Description Modified version of XKCDColors. More information there. This variation still uses the same color data, but is accessible by index rather than by name. This gives you the ability to get a random color instead of having to call it by name beforehand. 
     Usage  
     Drop the xkcdcolors.txt into your Assets folder. Get it from the original source (and delete the first line) OR use the copy below. Then attach xkcdColorReader.cs to any GameObject. You can now call GenerateColor(int) to get a random vColor object that contains a name, hex value, and unity color object. 

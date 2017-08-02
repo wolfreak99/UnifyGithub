@@ -5,19 +5,22 @@
  *
  * Author: Martin Schultz (MartinSchultz) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Screenshot 
+ *   
+ * C# - ChangeTextureImportSettings.cs 
+ *   
+ * C# - ChangeTextureImportSettings.cs for Unity 3 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Screenshot 
-    4 C# - ChangeTextureImportSettings.cs 
-    5 C# - ChangeTextureImportSettings.cs for Unity 3 
-    
     Description Adds under the menu Custom→iPhone a way to change for multiple selected textures the import settings in one step. Idea was to have the same choices for multiple texture files as you would have if you open the import settings of a single texture. Currently the most often used import settings are editable: Texture Format (same amount and order as in Unity), enable/disable MipMap and changing the maximum texture size. 
     Usage You must place the script in a folder named Editor in your project's Assets folder for it to work properly. 
     Select some textures in the project window and select from the Custom→iPhone menu the modification you want to apply to the selected textures. 

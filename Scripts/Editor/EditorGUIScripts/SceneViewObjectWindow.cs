@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/SceneViewObjectWindow.cs
  * File based on original modification date of: 5 December 2012, at 05:16. 
  *
+ * Description 
+ *   
+ * Install 
+ *   
+ * Usage 
+ *   
+ * Code 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorGUIScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Install 
-    3 Usage 
-    4 Code 
-    
     DescriptionThis is a tool window which allows you to pick objects in the sceneview and provide a drag-source for drag&drop operations 
      
     InstallPlace the script in "Assets/editor/" and name the file "SceneViewObjectWindow.cs". 

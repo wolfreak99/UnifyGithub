@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/Unity20GUIScripts/ImprovedSelectionList.cs
  * File based on original modification date of: 10 January 2012, at 20:45. 
  *
+ * Fix: Double click fix 
+ *   
+ * Description 
+ *   
+ * Component code 
+ *   
+ * Usage 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,12 +18,6 @@
 namespace UnifyGithub.GUI.Unity20GUIScripts
 {
     By Daniel Brauer, inspired by AngryAnt 
-    Contents [hide] 
-    1 Fix: Double click fix 
-    2 Description 
-    3 Component code 
-    4 Usage 
-    
     Fix: Double click fix By Pablo Bollansée (The Oddler) Using Unity 3.4.0f5 
     I noticed a small bug while using this, namely that the double clicking did not work. I was able to fix this by changing a few things: 
     if (hover && Event.current.type == EventType.MouseDown && Event.current.clickCount == 1) // added " && Event.current.clickCount == 1"

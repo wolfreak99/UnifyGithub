@@ -5,18 +5,20 @@
  *
  * Author: Markus Davey 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * CSharp weaponScript.cs 
+ *   
+ * CSharp projectileScript.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 CSharp weaponScript.cs 
-    4 CSharp projectileScript.cs 
     
     DescriptionThis script lets a weapon spawn bullets and propel them forward. It supports ballistic bullets and straight bullets. It supports random scatter of bullets. But have no off switch! Its a very early draft that was submitted to the forums. I felt that it would be a shame if it got lost in the swamp of forum posts. 
     UsageAttach this script to a weapon. 

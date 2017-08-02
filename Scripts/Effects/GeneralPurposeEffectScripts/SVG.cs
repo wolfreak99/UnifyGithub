@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/SVG.cs
  * File based on original modification date of: 10 January 2012, at 20:52. 
  *
+ * Description 
+ *   
+ * Example File 
+ *   
+ * Usage 
+ *   
+ * Limitations 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Example File 
-    3 Usage 
-    4 Limitations 
-    
     Description This package is used render SVG Files. If you have an SVG file and want to get its texture, this SVG will help you do this. Input is an SVG File and Output is a Texture2D of it. 
     Example File  
     Usage Quick start: 

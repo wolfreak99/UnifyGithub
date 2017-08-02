@@ -5,18 +5,20 @@
  *
  * Author: Hayden Scott-Baron (Dock) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Technical Discussion 
+ *   
+ * C# - DelayedMessage.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MessagingSystems
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Technical Discussion 
-    4 C# - DelayedMessage.cs 
-    
     DescriptionA simple script to call a message on an object after a while. 
     UsagePlace this script on the gameobject you wish to have call a function later on. Useful for Destroying an old object, for example, or for allowing objects to repeatedly fade in/out using the FadeObjectInOut script. 
     Technical DiscussionSet the initial time to negative to reduce the initial wait. 

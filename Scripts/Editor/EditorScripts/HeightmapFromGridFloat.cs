@@ -5,18 +5,20 @@
  *
  * Author: Jeff Craighead (jeffcraighead) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Sample 
+ *   
+ * JavaScript - HeightmapFromGridFloat.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Sample 
-    4 JavaScript - HeightmapFromGridFloat.js 
     
     Description Uses a USGS GridFloat topo file as the heightmap for the terrain. The GridFloat files for at least the US, maybe elsewhere are available on the USGS seamless map server. Updated Link: The National Map Viewer GridFloat files are just a sequence of 4-byte floating point numbers. There is a header file that must accompany the file with the extension .hdr. In the header file there should be at least 2 fields nrows and ncols. 
     Usage You must place the script in a folder named Editor in your project's Assets folder for it to work properly. 

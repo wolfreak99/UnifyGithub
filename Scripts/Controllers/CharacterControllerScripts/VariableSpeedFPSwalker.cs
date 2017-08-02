@@ -5,18 +5,20 @@
  *
  * Author: (Mr. Animator) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - VariableSpeedFPSwalker.js 
+ *   
+ * C# - VariableSpeedFPSwalker.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - VariableSpeedFPSwalker.js 
-    4 C# - VariableSpeedFPSwalker.cs 
-    
     Description1: Script allows you to have different speeds for walking forward, strafing, and backpeddling (I hate shooters that let you RUN backwards) 
     2: Because it uses rigidbody.velocity instead of rigidbody.AddRelativeForce, it's more directly tied to the settings you choose for the Horizontal/Vertical axes, and your speed plateaus nice and dependably. I found the default FPS walker to be a little too loosey goosey 
     3: To keep you from magically gaining extra speed for walking forward and strafing at the same time (a little side-effect from my method of doing things) there's a semi-sloppy math solution in there that "rounds off" the corners. So if you're moving on a 45 degree angle, it properly adjusts your forward and lateral movement so that they don't add up to more than you would get for just walking forward. 

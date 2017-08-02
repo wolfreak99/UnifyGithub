@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/TerrainObjExporter.cs
  * File based on original modification date of: 17 August 2014, at 04:32. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * ExportTerrain.js 
+ *   
+ * ExportTerrain.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -15,12 +23,6 @@ namespace UnifyGithub.Editor.EditorScripts
     Yun Kyu Choi: C# conversion.
     Bit Barrel media: progress bar fix. 
     
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 ExportTerrain.js 
-    4 ExportTerrain.cs 
     
     DescriptionExports a Unity terrain object as an .obj file that can be loaded into various 3D apps. Requires Unity 2.5 or later. (See also Object2Terrain, which converts a mesh object to a Unity terrain.) 
     Usage You must place the script in a folder named Editor in your project's Assets folder for it to work properly. Also it must be called "ExportTerrain" or it won't run. 

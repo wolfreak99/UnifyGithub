@@ -5,19 +5,22 @@
  *
  * Author: Jonathan Czeck (aarku) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - Button.js 
+ *   
+ * C# - Button.cs 
+ *   
+ * C# - Button.cs (iPhone Compatible) 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - Button.js 
-    4 C# - Button.cs 
-    5 C# - Button.cs (iPhone Compatible) 
-    
     DescriptionThis script uses a GUITexture and Unity mouse events to implement a regular push button that behaves properly like Mac OS X. 
     Warning: As of Unity 3.0.0, this script does not work on iOS devices, as OnMouseUp functions and the like do not work on iOS devices. Use the iPhone compatible version further below. 
     UsageAttach this script to a GUITexture object. Add a ButtonPressed function to the object pointed to by the messagee variable to catch when the button has been pressed. (You can change the name of the function by changing the message variable.) 

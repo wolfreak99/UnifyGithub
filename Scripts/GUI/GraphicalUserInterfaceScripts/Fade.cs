@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Examples 
+ *   
+ * JavaScript - Fade.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Examples 
-    4 JavaScript - Fade.js 
-    
     Description Fade GUITextures or anything that has a material (including GUIText objects) at any time with these simple coroutines that can be called from anywhere. Fade alpha values in and out, or fade from one color to another, with optional ease in/out. You can also use an array of colors. 
     Usage These functions are coroutines, so you normally don't use them in Update (which always runs once every frame and is therefore not suitable for scheduling events). The exception is if you're just launching a Fade routine once at a specific time; see below for an example of making a GUIText fade when hitting a key. Normally you'd use Fade functions from a coroutine. 
     Put this script in your Standard Assets/Scripts folder or Plugins folder; this way it can be easily used from C# or Boo. It should be named "Fade". The script must be attached to some object in the scene, such as an empty object used for game manager scripts. If you don't feel like reading a bunch of text, see below for some examples. Otherwise keep reading for all the technical details.... 

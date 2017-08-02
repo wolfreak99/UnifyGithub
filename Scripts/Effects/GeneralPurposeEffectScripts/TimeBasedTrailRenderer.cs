@@ -5,6 +5,16 @@
  *
  * Author: Forest Johnson (Yoggy) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - TimeTrail.js 
+ *   
+ * JavaScript - iPhoneTimeTrail.js 
+ *   
+ * C# - TimeTrail.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -14,13 +24,6 @@ namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
     
     iPhone version by Niels Vanspauwen (nvsp) 
     C# version by xyber from Unity Forums 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - TimeTrail.js 
-    4 JavaScript - iPhoneTimeTrail.js 
-    5 C# - TimeTrail.cs 
-    
     Description I created this time based line renderer because I don't like how Unity's built in one works. As well as being time based instead of position based it also has some other features, like arbitrarily and independently sized color and scale fades, built in time out if it is needed, the ability to start and stop emitting at any time, and more optimization features so the line only has exactly as many segments as you want it to have or only as many as it needs to look good. 
     No doubt this is less WSIWYG and probably slower than the trail renderer or even line renderer but it generates better results in game. 
     Usage Attach the script to any object that moves and should have a trail behind it. 

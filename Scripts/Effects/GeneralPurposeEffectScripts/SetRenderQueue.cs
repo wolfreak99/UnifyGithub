@@ -5,18 +5,20 @@
  *
  * Author: Alex Schwartz (GTJuggler) and Daniel Brauer 
  *
+ * Description 
+ *   
+ * C# (By Daniel Brauer) 
+ *   
+ * License 
+ *   
+ * JS (By Alex Schwartz) 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 C# (By Daniel Brauer) 
-    3 License 
-    4 JS (By Alex Schwartz) 
-    
     DescriptionAllows you to set the render order for objects to avoid transparent sort issues. JS version has been extended to allow an option to affect all children of a GameObject but removes the option to affect materials other than sharedMaterial, as that was not necessary in my project. Feel free to modify. 
     Notes 
     The default transparent queue is 3000. 

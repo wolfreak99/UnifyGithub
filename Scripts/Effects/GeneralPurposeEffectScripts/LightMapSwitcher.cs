@@ -5,19 +5,22 @@
  *
  * Author: Kspr 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * LightMapSwitcher 
+ *   
+ * NaturalSortComparer 
+ *   
+ * Notes 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 LightMapSwitcher 
-    4 NaturalSortComparer 
-    5 Notes 
-    
     Description This is a MonoBehavior that takes four arrays of LightMaps, and allows you to switch them at runtime. It allows you to blindly drag-and drop the file list into the array, as the code will sort it by name of the file. 
     Usage In this example, LightMapSwitcher is a MonoBehavior which should be attached to a GameObject in the scene. 
     LightMapSwitcherusing UnityEngine;

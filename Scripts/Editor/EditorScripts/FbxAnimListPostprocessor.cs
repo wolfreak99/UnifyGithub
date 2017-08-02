@@ -5,6 +5,14 @@
  *
  * Author: Pat AfterMoon
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - FbxAnimListPostprocessor.cs 
+ *   
+ * Alternative for Multiple Models Using Same Animation List 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,12 +20,6 @@
 namespace UnifyGithub.Editor.EditorScripts
 {
     With the help of resources from the Unity wiki, forum and IRC channel. 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - FbxAnimListPostprocessor.cs 
-    4 Alternative for Multiple Models Using Same Animation List 
-    
     DescriptionThis script use an external text file to import a list of splitted animations for FBX 3D models.
     When Importing or Reimporting a FBX file, the script will search a text file with the same name and the ".txt" extension. 
     File format: one line per animation clip "firstFrame-lastFrame loopFlag animationName" The keyworks "loop" or "noloop" are optional.

@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * TextureScale.js 
+ *   
+ * TextureScale.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.TextureColor
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 TextureScale.js 
-    4 TextureScale.cs 
-    
     DescriptionIf you've used Texture2D.Resize, you may have been disappointed to find that it only resizes the texture; it doesn't scale the contents. Using TextureScale, however, you can in fact do just that, using either bilinear or point (nearest neighbor) filtering. It also uses multi-threading to speed up the process on CPUs with more than one core. (Although SetPixels() and Apply() cause a pretty big hit, so the multi-threading is perhaps limited in usefulness, but it can still be nice for large textures, and in any case it's faster than not having it.) 
     Usage Name this script TextureScale and have it somewhere in your project, preferably in a folder such as Standard Assets that compiles before other folders, so you can call it from C# or Boo. You can then call TextureScale.Bilinear to use bilinear scaling, and TextureScale.Point to use point scaling. The arguments are: 
     function Bilinear (texture : Texture2D, newWidth : int, newHeight : int) : void 

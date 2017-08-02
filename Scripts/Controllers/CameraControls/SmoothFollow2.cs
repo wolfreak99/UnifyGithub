@@ -5,6 +5,16 @@
  *
  * Author: Daniel 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - SmoothFollow2.js 
+ *   
+ * C# - SmoothFollow2.cs 
+ *   
+ * C# - SmoothFollow2.cs (Improved) 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -13,13 +23,6 @@ namespace UnifyGithub.Controllers.CameraControls
 {
     Improved Version 
     Author: Vasilis Christopoulos & Daniel Toliaferro 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - SmoothFollow2.js 
-    4 C# - SmoothFollow2.cs 
-    5 C# - SmoothFollow2.cs (Improved) 
-    
     Description This is designed to make a camera smoothly follow a ship in space. 
     Usage Place this script onto a camera. 
     JavaScript - SmoothFollow2.js var target : Transform;

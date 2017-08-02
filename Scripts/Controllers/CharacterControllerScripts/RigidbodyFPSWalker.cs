@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CharacterControllerScripts/RigidbodyFPSWalker.cs
  * File based on original modification date of: 7 May 2012, at 10:25. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - RigidbodyFPSController.js 
+ *   
+ * C# - RigidbodyFPSController.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - RigidbodyFPSController.js 
-    4 C# - RigidbodyFPSController.cs 
-    
     DescriptionThis is a rigidbody based first person controller. Traditionally first person controllers are done using the character controller and this is the recommended way, but sometimes you want it to use real physics. So forces automatically affect the rigidbody, and joints can be used to eg. make a rope swinging game. 
     The script works by adding a force in the direction of desired movement, it subtracts the current velocity from it, thus when letting go of all keys the character will stop. A maximum velocity change can be specified which will make the character come to reset slower faster and in effect apply more or less force to object the character runs into. 
     UsageYou can download a sample project with the complete setup here: 

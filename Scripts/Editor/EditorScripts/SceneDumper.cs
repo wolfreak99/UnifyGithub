@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/SceneDumper.cs
  * File based on original modification date of: 10 January 2012, at 20:45. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Future Work 
+ *   
+ * C# Script - SceneDumper.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Future Work 
-    4 C# Script - SceneDumper.cs 
-    
     Description This script dumps the scene hierarchy to a text file. It dumps all game object recursively, starting with the selected objects. The text dump contains object names, hierarchy, and the names of all components. 
     This is useful for things like: 
     quick review of your scene structure 

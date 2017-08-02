@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/Unity20GUIScripts/ImprovedFileBrowser.cs
  * File based on original modification date of: 10 January 2012, at 20:45. 
  *
+ * Description 
+ *   
+ * Component code 
+ *   
+ * Fix: Root Directory 
+ *   
+ * Usage 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,12 +18,6 @@
 namespace UnifyGithub.GUI.Unity20GUIScripts
 {
     By Daniel Brauer, inspired by AngryAnt's original FileBrowser. 
-    Contents [hide] 
-    1 Description 
-    2 Component code 
-    3 Fix: Root Directory 
-    4 Usage 
-    
     Description Implements a decent file browser GUILayout. This file browser allows you to have the user search for a file or folder, optionally matching a specific pattern. Note: This code uses the ImprovedSelectionList script, and assumes your GUISkin has a "List Item" custom style. 
     This is how the browser looks using the MetalGUISkin from Extra GUI Skins: 
      

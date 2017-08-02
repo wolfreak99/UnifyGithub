@@ -5,6 +5,14 @@
  *
  * Author: Inventor2010 
  *
+ * Description 
+ *   
+ * Setup 
+ *   
+ * Usage 
+ *   
+ * C# - Browser.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,12 +20,6 @@
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
      
-    Screen Shot of the browser when Opening a fileContents [hide] 
-    1 Description 
-    2 Setup 
-    3 Usage 
-    4 C# - Browser.cs 
-    
     Description A single window file browser for opening and saving files at runtime. The user can move the window by dragging the bar at the top, resize it by dragging the handle at the bottom right or resize any column individually for easy viewing. 
     It can't yet move files or folders already there, but it allows the user to browse a directory that you specify (and all subdirectories in it). They can also create a new folder and name it how they see fit. 
     Note: If the user picks a name that conflicts with something already at the directory they choose, it will be overwritten without warning. 

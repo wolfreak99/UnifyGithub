@@ -3,6 +3,18 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/MeshSmoother.cs
  * File based on original modification date of: 10 January 2012, at 20:52. 
  *
+ * Introduction 
+ *   
+ * Basic Theory 
+ *   
+ * General Discussion 
+ *   
+ * TestSmoothFilter.cs 
+ *   
+ * SmoothFilter.cs 
+ *   
+ * MeshUtils.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,14 +22,6 @@
 namespace UnifyGithub.General.MeshHelpers
 {
     Author : MarkGX, Jan 2011 
-    Contents [hide] 
-    1 Introduction 
-    2 Basic Theory 
-    3 General Discussion 
-    4 TestSmoothFilter.cs 
-    5 SmoothFilter.cs 
-    6 MeshUtils.cs 
-    
     Introduction This c# code demonstrates how to deformate a mesh at runtime using smoothing algorithms. To solve this problem in a reasonable computational time a good algorithm is needed to solve the adjacent vertex problem. Unity lacks mesh manipulation utilities and some manual effort is required to achieve this. 
     
      

@@ -3,21 +3,26 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/MathGeometryUtilities/Distance_from_a_point_to_a_rectangle.cs
  * File based on original modification date of: 30 March 2013, at 01:48. 
  *
+ * Function 
+ *   
+ * Background 
+ *   
+ * Usage 
+ *   
+ * Operation 
+ *   
+ * Original Author 
+ *   
+ * Code 
+ *   
+ * License 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Physics.MathGeometryUtilities
 {
-    Contents [hide] 
-    1 Function 
-    2 Background 
-    3 Usage 
-    4 Operation 
-    5 Original Author 
-    6 Code 
-    7 License 
-    
     Function This script computes the distance between a point and a rectangle. It's a 2D computation so it's assumed that the point and rectangle lie in a plane. If the point is inside the rectangle, the distance returned is 0. 
     Background This is part of a larger framework I worked on called the Cygnet Engine. It's a math function, so I put it in a class called CygnetMath. I may release other parts of Cygnet in the future, but for now, this is the only part. 
     Usage The class is designed for use in Unity's GUI coordinates. With this coordinate system, the origin is at the top left of the screen, x values increase from left to right, and y values increase as you go DOWN the screen. If you do some careful coordinate transformations, you probably should be able to use the code with an arbitrary coordinate system, but this was not the usage I designed it for, so beware. 

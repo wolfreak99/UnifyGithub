@@ -5,18 +5,20 @@
  *
  * Author: Bérenger (The idea is not from me, but I can't remember the source) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - ShadowAndOutline.cs 
+ *   
+ * JS - ShadowAndOutline.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - ShadowAndOutline.cs 
-    4 JS - ShadowAndOutline.js 
-    
     Description Draw a label several times in several direction, creating shadows or outlines. 
     Usage Simply call it as you would call the GUI functions. The gui is drawn twice for shadows, four times for outlines. You can choose the distance at which they are drawn, and the color. 
     C# - ShadowAndOutline.cs using UnityEngine;

@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/TakeScreenshot.cs
  * File based on original modification date of: 10 January 2012, at 20:47. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - TakeScreenshot.cs 
+ *   
+ * C# - Screenshot.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - TakeScreenshot.cs 
-    4 C# - Screenshot.cs 
-    
     DescriptionCaptures sequentially numbered screenshots when a function key is pressed. Existing screenshots are not overwritten. 
     UsageJust attach this script to an empty game object. 
     C# - TakeScreenshot.cs// TODO:

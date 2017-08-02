@@ -1,0 +1,420 @@
+When I automated moving the contents to the header, I made an algorithm that relied on finding a
+string with "Contents [hide]", taking everything from there up to the next blank line, and verifying that each
+line in between the "Contents [hide]" and the blank line began with a digit (relative to line).
+
+The following are files that did not get placeholder contents into the header, likely
+because they either had no line with "Contents [hide]", or had a table of contents that 
+used decimal numbers (as i wanted to keep it simple, so i didn't include handling for decimal numbers)
+
+No contents existing for ...\GitHub\UnifyGithub\Scripts\Scripts.csproj
+Contents not valid format for ...\Scripts\Controllers\AnimationControllers\AniMate.cs
+No contents existing for ...\Scripts\Controllers\AnimationControllers\Tween.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\Camera_Target_Swap.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\CarSmoothFollow.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\CrossFade.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\CrossFadePro.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\DetectTouchMovement.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\DreamWipe.cs
+Contents not valid format for ...\Scripts\Controllers\CameraControls\FadeInOut.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\FlyCam_Extended.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\FlyThrough.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\FollowTrackingCamera.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\Headbobber.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\KeyboardCameraControl.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\KeyboardOrbit.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\MouseCameraControl.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\MouseLookPlus.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\MouseLookPlus2.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\MouseOrbitInfiteRotateZoom.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\MouseOrbitZoom.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\MouseTorque.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\MultipleCameraSwitcher.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\MultipleCameraSwitcher2.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\OffsetVanishingPoint.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\RectangleWipe.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\ShapeWipe.cs
+Contents not valid format for ...\Scripts\Controllers\CameraControls\SmoothFollowAdvanced.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\SmoothLookAt_CS.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\SmoothMouseLook.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\SquishWipe.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\StaticBackground.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\TouchLook.cs
+No contents existing for ...\Scripts\Controllers\CameraControls\TrackballCamera.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\AimDownSights.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\Biped_Parts_Finder.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\Click_To_Move_C.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\DoubleJumpController.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\FootstepHandler.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\GravityFPSWalker.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\JCar.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\KeyCombo.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\Pathfinding.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\RigidbodyPlayer.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\SimpleTankController.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\Tap_to_Move_Drag_to_Look_iPhone.cs
+Contents not valid format for ...\Scripts\Controllers\CharacterControllerScripts\VWheelCollider.cs
+Contents not valid format for ...\Scripts\Controllers\CharacterControllerScripts\WalkOnSphere.cs
+No contents existing for ...\Scripts\Controllers\CharacterControllerScripts\WaypointMaster.cs
+No contents existing for ...\Scripts\Development\DebuggingScripts\DebugConsole.cs
+No contents existing for ...\Scripts\Development\DebuggingScripts\DebuggerX.cs
+No contents existing for ...\Scripts\Development\DebuggingScripts\DrawArrow.cs
+No contents existing for ...\Scripts\Development\DebuggingScripts\GetTotalMemoryTest.cs
+No contents existing for ...\Scripts\Development\DebuggingScripts\NUnit.cs
+Contents not valid format for ...\Scripts\Development\DebuggingScripts\Profiler.cs
+No contents existing for ...\Scripts\Development\DebuggingScripts\Reporter.cs
+Contents not valid format for ...\Scripts\Development\DebuggingScripts\UUnit.cs
+No contents existing for ...\Scripts\Development\PerformanceScripts\CombineSkinnedMeshes.cs
+No contents existing for ...\Scripts\Development\PerformanceScripts\SkinMeshCombineUtility.cs
+Contents not valid format for ...\Scripts\Development\PerformanceScripts\SpriteManager.cs
+No contents existing for ...\Scripts\Development\PerformanceScripts\StaticPerformanceOptimization.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\Custom_Inspector_Inspector.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\EditorGraphWindow.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\EditorGUIExtension.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\EditorWindowCycler.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\Element_Table_Representation.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\EnumFlagPropertyDrawer.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\GLDraw.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\Handles_DrawWireCube.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\ImmediateWindow.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\Lightmapping_Extended.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\Object_Lock_Window.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\ScriptableObjectWindow.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\Textmeshextension.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\TransformInspector.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\TransformInspectorWithSize.cs
+No contents existing for ...\Scripts\Editor\EditorGUIScripts\WithProgressBar.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\AddComponentRecursively.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\AddParent.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\AddRemoveComponentRecursively.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\AnimationShortcuts.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\AnimationToPNG.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\AssetMover.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\AssetPathPrinter.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\AutoBuilder.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Bake_Material_to_Texture.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\BatchActiveToggle.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Blender_Camera_Controls_Window.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\BoxColliderUtilities.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\BuildAssetBundlesFromDirectory.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\CameraViewer.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\ColliderCopier.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\CopyComponents.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\CopyTransform.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\CopyVariables.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\CreateGameObjectLocal.cs
+Contents not valid format for ...\Scripts\Editor\EditorScripts\CreateScriptableObjectAsset.cs
+Contents not valid format for ...\Scripts\Editor\EditorScripts\CreateScriptableObjectAsset2.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\CreateTerrainBaseboards.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Create_project_directories.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\CustomTerrainLightmap.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Custom_terrain_lightmap_For_Windows_Based_Systems.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\DeleteComponentsInChildren.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\DeleteMyPlayerPrefs.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Dynamic_Code_Compiler.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\EncloseTerrain.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\ExportLightMapFromTerrain.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\ExportNormalmap.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\ExportOBJ.cs
+Contents not valid format for ...\Scripts\Editor\EditorScripts\Expose_properties_in_inspector.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\FindObjects.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\FindReferencesInPrefabs.cs
+Contents not valid format for ...\Scripts\Editor\EditorScripts\FindSceneObjectsWithTag.cs
+Contents not valid format for ...\Scripts\Editor\EditorScripts\FixBlenderImportRotation.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\GetBBox.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\GetSize.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\HeightmapFromTexture.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\HierarchyFastHide.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\HierarchySelectObject.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\InsertParent.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\InvertSelection.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\LabelManager.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Layer_Search.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\LoadAssetBundle.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\LoadSceneAdditive.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Macros.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\MassMaterialEditor.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\MassSetMaterials.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\MaterialAnalyzer.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\MaterialReplacer.cs
+Contents not valid format for ...\Scripts\Editor\EditorScripts\Mesh2Collider.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\ModelImporterPresetManager.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\MoveToOrigin.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\MultipleObjectsToLayer.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Normalize.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\OpenInFileBrowser.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\OpenScenesFromMenu.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\OpenVisualStudioProject.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\PixelLightMapper.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\PolyLineEditor.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\PopulateField.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\REPL.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\ReplaceSelection.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\SaveOnPlay.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\SceneViewCameraFollower.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\SceneViewWindow.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\SelectByComponent.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\SelectByMouseScroll.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\SelectObjectsIteratively.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\SetGOFlags.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\SKUManager.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\Skybox_Generator.cs
+Contents not valid format for ...\Scripts\Editor\EditorScripts\SpecialFolderEditor.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\TerrainImporter.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\TerrainPerlinNoise.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\TileManager.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\TimeSinceOpened.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\TransformContextMenu.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\TransformUtilities.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\UnityAssetXrefs.cs
+No contents existing for ...\Scripts\Editor\EditorScripts\UPPEditor.cs
+Contents not valid format for ...\Scripts\Editor\EditorScripts\UUniCG.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Animated_Color_Procedural_Texture.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\ArcBall.cs
+Contents not valid format for ...\Scripts\Effects\GeneralPurposeEffectScripts\CameraRenderSettings.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Cubemap_Generator.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\DoFAutoFocus.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Flare_Creator.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Flickering_Light.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Flickering_Light2.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Fog_Layer.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\GlowImposter_Script.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\LightBehavior.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\LookAtCameraYonly.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\MeshMorpher.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\MetaBalls.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\MorphTargets.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Noise_Library.cs
+Contents not valid format for ...\Scripts\Effects\GeneralPurposeEffectScripts\OptimizedTrailRenderer.cs
+Contents not valid format for ...\Scripts\Effects\GeneralPurposeEffectScripts\Particle_Spiral_Effect.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Perlin_Noise.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\PlayMovieTexture.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\RenderTexture_Free.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\ReverseNormals.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Scrolling_UVs.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Skinned_Morph_Targets.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Slideshow.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\SoftBodies.cs
+Contents not valid format for ...\Scripts\Effects\GeneralPurposeEffectScripts\Spline_Controller.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\StopEmittingAfterDelay.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\TextureFromCamera.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\TextureMask.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\Tileable_Noise.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\TrailRendererWith2DCollider.cs
+Contents not valid format for ...\Scripts\Effects\GeneralPurposeEffectScripts\Trail_Arc_Renderer.cs
+No contents existing for ...\Scripts\Effects\GeneralPurposeEffectScripts\TubeRenderer.cs
+No contents existing for ...\Scripts\Effects\ImagePostprocessingEffects\BloomEffect.cs
+No contents existing for ...\Scripts\Effects\ImagePostprocessingEffects\BoostColors.cs
+No contents existing for ...\Scripts\Effects\ImagePostprocessingEffects\InvertCamera.cs
+No contents existing for ...\Scripts\General\CodeSnippets\AbortableEnumerator.cs
+No contents existing for ...\Scripts\General\CodeSnippets\Accessing_number_of_drawcalls_from_script.cs
+No contents existing for ...\Scripts\General\CodeSnippets\Averaging_Quaternions_and_Vectors.cs
+No contents existing for ...\Scripts\General\CodeSnippets\Calculating_Lead_For_Projectiles.cs
+No contents existing for ...\Scripts\General\CodeSnippets\Load_Data_from_Excel_2003.cs
+No contents existing for ...\Scripts\General\CodeSnippets\Low_Pass_Filter.cs
+No contents existing for ...\Scripts\General\CodeSnippets\Save_and_Load_from_XML.cs
+No contents existing for ...\Scripts\General\CodeSnippets\Save_and_Load_from_XML_U3_Collections.cs
+No contents existing for ...\Scripts\General\CodeSnippets\ScaleTransform.cs
+Contents not valid format for ...\Scripts\General\CodeSnippets\SingletonLauncher.cs
+No contents existing for ...\Scripts\General\CodeSnippets\Windows_Saved_Game_Directory.cs
+Contents not valid format for ...\Scripts\General\DataStructureUtils\ArrayTools.cs
+No contents existing for ...\Scripts\General\DataStructureUtils\DeepCopy.cs
+No contents existing for ...\Scripts\General\DataStructureUtils\ObjectCopier.cs
+Contents not valid format for ...\Scripts\General\DataStructureUtils\ReflectedObject.cs
+No contents existing for ...\Scripts\General\DataStructureUtils\Set.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\AStarHelper.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\BasicDataStructures.cs
+No contents existing for ...\Scripts\General\GeneralConcepts\ClassTypeReference.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\CoroutineHelper.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\CoroutineScheduler.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\EnumeratedDelegate.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\Executors_Framework.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\ExpressionParser.cs
+No contents existing for ...\Scripts\General\GeneralConcepts\FakeGizmoDemo.cs
+No contents existing for ...\Scripts\General\GeneralConcepts\FindingClosestObject.cs
+No contents existing for ...\Scripts\General\GeneralConcepts\Lipis_Runtime_Gizmo.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\Secure_UnitySingleton.cs
+No contents existing for ...\Scripts\General\GeneralConcepts\SimpleRegex.cs
+Contents not valid format for ...\Scripts\General\GeneralConcepts\SQLite.cs
+No contents existing for ...\Scripts\General\GeneralConcepts\ToggleGravity.cs
+Contents not valid format for ...\Scripts\General\MathHelpers\Angle.cs
+No contents existing for ...\Scripts\General\MathHelpers\DirectionFinder.cs
+No contents existing for ...\Scripts\General\MathHelpers\HexConverter.cs
+Contents not valid format for ...\Scripts\General\MathHelpers\Interpolate.cs
+No contents existing for ...\Scripts\General\MathHelpers\PolyContainsPoint.cs
+No contents existing for ...\Scripts\General\MathHelpers\SphericalCoordinates.cs
+No contents existing for ...\Scripts\General\MathHelpers\UnitSphere.cs
+Contents not valid format for ...\Scripts\General\MeshHelpers\FastObjImporter.cs
+No contents existing for ...\Scripts\General\MeshHelpers\MeshCreationGrid.cs
+No contents existing for ...\Scripts\General\MeshHelpers\MeshCreationHelper.cs
+No contents existing for ...\Scripts\General\MeshHelpers\MeshMerger.cs
+Contents not valid format for ...\Scripts\General\MeshHelpers\MeshSubdivision.cs
+No contents existing for ...\Scripts\General\MeshHelpers\MetaMorph.cs
+No contents existing for ...\Scripts\General\MeshHelpers\ObjExporterColorUvs.cs
+No contents existing for ...\Scripts\General\MeshHelpers\ObjImporter.cs
+No contents existing for ...\Scripts\General\MeshHelpers\PrintPolyCount.cs
+No contents existing for ...\Scripts\General\MeshHelpers\SkinnedMeshTools.cs
+No contents existing for ...\Scripts\General\MeshHelpers\UVTransfer.cs
+No contents existing for ...\Scripts\General\MeshHelpers\VertexInfo.cs
+Contents not valid format for ...\Scripts\General\MessagingSystems\Advanced_CSharp_Messenger.cs
+Contents not valid format for ...\Scripts\General\MessagingSystems\BooMessenger.cs
+Contents not valid format for ...\Scripts\General\MessagingSystems\BroadcasterMessenger.cs
+No contents existing for ...\Scripts\General\MessagingSystems\CSharpEventManager.cs
+Contents not valid format for ...\Scripts\General\MessagingSystems\CSharpMessenger.cs
+Contents not valid format for ...\Scripts\General\MessagingSystems\CSharpMessenger_Extended.cs
+No contents existing for ...\Scripts\General\MessagingSystems\CSharpNotificationCenter.cs
+Contents not valid format for ...\Scripts\General\MessagingSystems\CustomFixedUpdate.cs
+Contents not valid format for ...\Scripts\General\MessagingSystems\MessageRouter.cs
+No contents existing for ...\Scripts\General\MessagingSystems\NotificationCenter.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\3DMenu.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\CameraFog.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\ConstantVelocity.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\Cubescape.cs
+Contents not valid format for ...\Scripts\General\ReallySimpleScripts\Flag.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\Flashlight.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\GameObjectLock.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\OldSchoolSteering.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\OnCollideExplode.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\OnCollideSound.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\OnExplosionEffect.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\OnMouseDown.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\PointerManager.cs
+Contents not valid format for ...\Scripts\General\ReallySimpleScripts\SimpleTimer.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\Teleporter.cs
+Contents not valid format for ...\Scripts\General\ReallySimpleScripts\TimeOfDay.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\TransformRotation2D.cs
+No contents existing for ...\Scripts\General\ReallySimpleScripts\UpdatePump.cs
+No contents existing for ...\Scripts\General\Serialization\PlayerPrefsX2.cs
+No contents existing for ...\Scripts\General\Serialization\PlayerSave.cs
+No contents existing for ...\Scripts\General\Serialization\PropertyListSerializer.cs
+No contents existing for ...\Scripts\General\Serialization\SimpleDictionary.cs
+No contents existing for ...\Scripts\General\Serialization\TinyXmlReader.cs
+No contents existing for ...\Scripts\General\TextureColor\LABColor.cs
+No contents existing for ...\Scripts\General\TextureColor\MaxRectsBinPack.cs
+No contents existing for ...\Scripts\General\TextureColor\MiniEXR.cs
+No contents existing for ...\Scripts\General\TextureColor\TextureDrawCircle.cs
+No contents existing for ...\Scripts\General\TextureColor\TextureFloodFill.cs
+No contents existing for ...\Scripts\General\TextureColor\TextureUtils.cs
+No contents existing for ...\Scripts\General\TextureColor\UnityPaint.cs
+No contents existing for ...\Scripts\General\TextureColor\XKCDColors.cs
+No contents existing for ...\Scripts\General\UtilityScripts\AddChild.cs
+No contents existing for ...\Scripts\General\UtilityScripts\Anchor_Multi_Resolution.cs
+No contents existing for ...\Scripts\General\UtilityScripts\Autorun.cs
+No contents existing for ...\Scripts\General\UtilityScripts\BoneDebug.cs
+Contents not valid format for ...\Scripts\General\UtilityScripts\Bresenham3D.cs
+Contents not valid format for ...\Scripts\General\UtilityScripts\ComponentInstantiationUtility.cs
+No contents existing for ...\Scripts\General\UtilityScripts\CustomRandom.cs
+No contents existing for ...\Scripts\General\UtilityScripts\DeepSearch.cs
+Contents not valid format for ...\Scripts\General\UtilityScripts\ExpandoObject.cs
+No contents existing for ...\Scripts\General\UtilityScripts\FingerManager.cs
+No contents existing for ...\Scripts\General\UtilityScripts\GeneralTimer.cs
+No contents existing for ...\Scripts\General\UtilityScripts\Google_Analytics.cs
+No contents existing for ...\Scripts\General\UtilityScripts\GuiTextOverParent.cs
+No contents existing for ...\Scripts\General\UtilityScripts\Interface_Finder.cs
+No contents existing for ...\Scripts\General\UtilityScripts\IPhoneDeviceModel.cs
+No contents existing for ...\Scripts\General\UtilityScripts\IPhoneToMouse.cs
+No contents existing for ...\Scripts\General\UtilityScripts\IPhone_Build_Utility_Script.cs
+Contents not valid format for ...\Scripts\General\UtilityScripts\JobQueue.cs
+No contents existing for ...\Scripts\General\UtilityScripts\LanguageFilter.cs
+No contents existing for ...\Scripts\General\UtilityScripts\Layers.cs
+No contents existing for ...\Scripts\General\UtilityScripts\MazeGenerator.cs
+Contents not valid format for ...\Scripts\General\UtilityScripts\MD5.cs
+Contents not valid format for ...\Scripts\General\UtilityScripts\MixupGO.cs
+No contents existing for ...\Scripts\General\UtilityScripts\PlaySoundAtInterval.cs
+Contents not valid format for ...\Scripts\General\UtilityScripts\PrintExtended.cs
+No contents existing for ...\Scripts\General\UtilityScripts\QuickTimer.cs
+No contents existing for ...\Scripts\General\UtilityScripts\RayCastWithoutPhysics.cs
+No contents existing for ...\Scripts\General\UtilityScripts\ScrollingBG.cs
+No contents existing for ...\Scripts\General\UtilityScripts\Shell.cs
+No contents existing for ...\Scripts\General\UtilityScripts\Simple_LOD_Manager.cs
+No contents existing for ...\Scripts\General\UtilityScripts\StringToValue.cs
+No contents existing for ...\Scripts\General\UtilityScripts\StringUtil.cs
+No contents existing for ...\Scripts\General\UtilityScripts\TextScanner.cs
+Contents not valid format for ...\Scripts\General\UtilityScripts\TileSelector.cs
+No contents existing for ...\Scripts\General\UtilityScripts\TitleSafeAreaDisplay.cs
+No contents existing for ...\Scripts\General\UtilityScripts\ToggleCapsLock.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\AdvancedButton.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\AdvancedRepeatButton.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\AnimatedText.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\CheckableButtonTreeControl.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\Console_System.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\CustomScrollView.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\Custom_2D_Pointer.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\DMGInput.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\FadeIn.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\GetTimeString.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\GUIFly.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\GUIHelpers.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\GuiRatioFixer2.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\GUIScaler.cs
+Contents not valid format for ...\Scripts\GUI\GraphicalUserInterfaceScripts\GUITextField.cs
+Contents not valid format for ...\Scripts\GUI\GraphicalUserInterfaceScripts\GUIUtils.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\Joystick.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\MainMenu.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\ScreenCapture.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\ScreenShotMovie.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\Selection-Grid.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\SplashScreen.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\Timer.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\ToggleButton.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\ToolbarWrapped.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceScripts\WrapTextMesh.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceSkins\ControlP5.cs
+No contents existing for ...\Scripts\GUI\GraphicalUserInterfaceSkins\SCP5.cs
+No contents existing for ...\Scripts\GUI\HeadsUpDisplayScripts\LarsonScanner.cs
+Contents not valid format for ...\Scripts\GUI\HeadsUpDisplayScripts\Radar.cs
+No contents existing for ...\Scripts\GUI\HeadsUpDisplayScripts\UserInterfaceTrackBody.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\CustomGetMouseButtonDown.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\FileBrowser.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\GUICam.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\GUIExtensions.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\GUIx.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\IOSTextField.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\PasswordField.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\Position_To_Rect.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\SelectList.cs
+No contents existing for ...\Scripts\GUI\Unity20GUIScripts\WithPrefs.cs
+Contents not valid format for ...\Scripts\Networking\Networking\NetworkSerializationHelpers.cs
+No contents existing for ...\Scripts\Networking\Networking\WebAsync.cs
+No contents existing for ...\Scripts\Networking\Unity1xNetworkingScripts\Sender.cs
+No contents existing for ...\Scripts\Networking\Unity1xNetworkingScripts\Server.cs
+No contents existing for ...\Scripts\Networking\WWWScripts\Easy_MySQL_Submission.cs
+No contents existing for ...\Scripts\Networking\WWWScripts\GetXMLHack.cs
+Contents not valid format for ...\Scripts\Networking\WWWScripts\Json.cs
+Contents not valid format for ...\Scripts\Networking\WWWScripts\JSONUtils.cs
+Contents not valid format for ...\Scripts\Networking\WWWScripts\MeshSerializer.cs
+Contents not valid format for ...\Scripts\Networking\WWWScripts\MeshSerializer2.cs
+Contents not valid format for ...\Scripts\Networking\WWWScripts\MoreJSONScripts.cs
+Contents not valid format for ...\Scripts\Networking\WWWScripts\Server_Side_Highscores.cs
+Contents not valid format for ...\Scripts\Networking\WWWScripts\SimpleJSON.cs
+No contents existing for ...\Scripts\Networking\WWWScripts\TextureBogusExtensions.cs
+No contents existing for ...\Scripts\Networking\WWWScripts\TinyXmlReader.cs
+No contents existing for ...\Scripts\Networking\WWWScripts\UnityLitJSON.cs
+No contents existing for ...\Scripts\Networking\WWWScripts\UnityObject.cs
+No contents existing for ...\Scripts\Networking\WWWScripts\VersionCheck.cs
+No contents existing for ...\Scripts\obj\Debug\CoreCompileInputs.cache
+No contents existing for ...\Scripts\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+No contents existing for ...\Scripts\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+No contents existing for ...\Scripts\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+No contents existing for ...\Scripts\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+No contents existing for ...\Scripts\Physics\MathGeometryUtilities\Mesh_simplification_(for_MeshCollider,_lossless).cs
+No contents existing for ...\Scripts\Physics\PhysicsScripts\ComplicatedRigidbodyControl.cs
+No contents existing for ...\Scripts\Physics\PhysicsScripts\Drag%26Throw.cs
+No contents existing for ...\Scripts\Physics\PhysicsScripts\MovingPlatform.cs
+No contents existing for ...\Scripts\Physics\PhysicsScripts\TorqueLookRotation.cs
+No contents existing for ...\Scripts\Physics\PhysicsScripts\TorqueStabilizer.cs
+No contents existing for ...\Scripts\Physics\SimulationScripts\Compass.cs
+Contents not valid format for ...\Scripts\Physics\SimulationScripts\DayNightController.cs
+No contents existing for ...\Scripts\Physics\SimulationScripts\GameTime.cs
+No contents existing for ...\Scripts\Physics\SimulationScripts\GPS_Global_Positioning_System.cs
+No contents existing for ...\Scripts\Physics\SimulationScripts\Gravity.cs
+No contents existing for ...\Scripts\Physics\SimulationScripts\IMU_Inertial_Measurement_Unit.cs
+No contents existing for ...\Scripts\Physics\SimulationScripts\SICK_Laser_Scanner.cs
+No contents existing for ...\Scripts\Physics\SimulationScripts\SunLight.cs
+Contents not valid format for ...\Scripts\Physics\SimulationScripts\VWheelCollider.cs
+No contents existing for ...\Scripts\Physics\SimulationScripts\WheelColliderSource.cs
+No contents existing for ...\Scripts\Sound\Sound\Fading_Audio_Source.cs
+No contents existing for ...\Scripts\Sound\Sound\JukeboxController.cs
+No contents existing for ...\Scripts\Sound\Sound\Loudness.cs
+No contents existing for ...\Scripts\Sound\Sound\Mic_Input.cs
+No contents existing for ...\Scripts\Sound\Sound\Volume_Slider.cs
+No contents existing for ...\Networking\Unity1xNetworkingScripts\Simple_TCP\IP_Client_-_Server.cs

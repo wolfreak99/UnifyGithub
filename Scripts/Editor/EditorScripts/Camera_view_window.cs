@@ -5,18 +5,20 @@
  *
  * Original Author: Luis Correa (Ratamorph) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Javascript - SelectedCameraViewScene.js 
+ *   
+ * Javascript - SelectedCameraView.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Javascript - SelectedCameraViewScene.js 
-    4 Javascript - SelectedCameraView.js 
     
     DescriptionSometimes you have multiple cameras in your scene each looking at a different place, toggling between those cameras is a bit tedious. This is where this set of scripts come in handy. You can look at the rendered image of any selected camera that has the SelectedCameraView script. 
     Usage1.Place the SelectedCameraViewScene script in YourProject/Assets/Editor. 2.Place the SelectedCameraView script on any camera you want to view. 

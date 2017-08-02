@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/Startup_Manager.cs
  * File based on original modification date of: 15 October 2012, at 11:45. 
  *
+ * Basic Usage 
+ *   
+ * C# - StartupManager.cs 
+ *   
+ * C# - BaseBehaviour.cs 
+ *   
+ * C# - TestClass.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -13,12 +21,6 @@ namespace UnifyGithub.General.UtilityScripts
     The startup manager is a singleton class that calls an initialization function on participating objects created in the last frame (or at startup) in the order dictated by their priority variable. Participating classes must be derived from the provided BaseBehaviour class (which in turn derives from MonoBehaviour as per usual). This class registers with the startup manager singleton in Start() which then calls Initialize() on it at the begining of the next frame (again, in the appropriate order). 
     The BaseBehaviour.priority member is a float. This was a design decision to allow for plenty of tweaking. 
     BaseBehaviour derived objects which do not find the StartManager instance (e.g. because it is not present in the scene) will call Initialize themselves in Start() 
-    Contents [hide] 
-    1 Basic Usage 
-    2 C# - StartupManager.cs 
-    3 C# - BaseBehaviour.cs 
-    4 C# - TestClass.cs 
-    
     Basic Usage 1. Put StartupManager on a game object in your scene somewhere 
     2. Derive your scripts (or at least the ones which you need to control the order they start in) from BaseBehaviour instead of MonoBehaviour 
     3. Profit 

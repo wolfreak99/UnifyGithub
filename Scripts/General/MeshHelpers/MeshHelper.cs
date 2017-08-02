@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MeshHelpers/MeshHelper.cs
  * File based on original modification date of: 29 May 2012, at 22:52. 
  *
+ * Description 
+ *   
+ * Install 
+ *   
+ * Usage 
+ *   
+ * Code 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MeshHelpers
 {
-    Contents [hide] 
-    1 Description 
-    2 Install 
-    3 Usage 
-    4 Code 
-    
     DescriptionThis is a utility class that contains some functions to manipulate a Mesh: 
     - void Subdivide4(Mesh mesh);
         Subdivides all triangles in the Mesh. Each triangle get replaced by 4 triangles.

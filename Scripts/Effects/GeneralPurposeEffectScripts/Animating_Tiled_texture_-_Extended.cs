@@ -5,20 +5,24 @@
  *
  * Author: Joachim Ante - Extended by TomLong74 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Example 
+ *   
+ * JavaScript - AnimatedTextureExtendedUV.js 
+ *   
+ * CSharp - AnimatedTextureExtendedUV.cs 
+ *   
+ * Boo - AnimatedTextureExtendedUV.boo 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Example 
-    4 JavaScript - AnimatedTextureExtendedUV.js 
-    5 CSharp - AnimatedTextureExtendedUV.cs 
-    6 Boo - AnimatedTextureExtendedUV.boo 
-    
     Description This script extends the capabilities of the original AnimatedTexureUV.js. This allows many animation skins or animation states to be stored in the same texture. They can be updated at run time to play the new skin or new animation state via SetSpriteAnimation(); 
     Usage Attach this script to the object that has a material with the animation cell-sheet texture. From your other script call this script's SetSpriteAnimation() function with the new parameters: 
     colCount: the total number of columns in the animation cell-sheet; 

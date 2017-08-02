@@ -5,6 +5,16 @@
  *
  * Article Original Author: Dreamblur 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Functionality 
+ *   
+ * Limitation 
+ *   
+ * EdgeAlignerToolEditorWindow.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,13 +22,6 @@
 namespace UnifyGithub.Editor.EditorScripts
 {
     EdgeAlignerToolEditorWindow.cs v.1.0 Original Script Author: Dreamblur 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Functionality 
-    4 Limitation 
-    5 EdgeAlignerToolEditorWindow.cs 
-    
     Description EdgeAlignerTool is a tool which aligns one or more edges of the AABB of a selected game object to those of the AABB of another selected game object. It is similar to the Align tool found in 3ds Max. 
     Usage Place the EdgeAlignerToolEditorWindow script in your project's Editor folder. A new sub-menu named Specialized Tools will appear in Unity's menu bar. The Edge Aligner Tool may be accessed from within this sub-menu. 
     Functionality This tool aligns a point in the AABB of one game object with a point in the AABB of another game object. Grouped objects (parented game objects) can be aligned and be aligned with. In such cases, the AABB of the group is derived from the combined AABB of the parent object and all its children. 

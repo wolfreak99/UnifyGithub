@@ -5,19 +5,22 @@
  *
  * Author: Nick Tziamihas 
  *
+ * Summary 
+ *   
+ * Integration 
+ *   
+ * Usage 
+ *   
+ * Notes 
+ *   
+ * Javascript- ScaledRect.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Summary 
-    2 Integration 
-    3 Usage 
-    4 Notes 
-    5 Javascript- ScaledRect.js 
-    
     Summary OnGUI elements require Rectangle Structure coordinates (x, y, width, height) in order to display anything on the screen, which forces applications to be designed with only 1 resolution in mind. This static class allows the user to hard-code his coordinates for a single resolution without worrying about rescaling them. 
     Integration Choose your default resolution, and set the Editor's Game Tab to that resolution. Preferably, choose a big resolution (such as 1920x1080), with the option to scale down from that, so you don't loose texture quality. Create a Javascript file called ScaledRect and paste the code beneath in it. Edit the customWidth and customHeight variables in the script to the values that you've decided to use in the Editor. ScaledRect.js is not a MonoBehaviour script and therefore does not need to be attached to an object in the hierarchy to work. It works straight from the Project tab. 
     Usage Use the OnGUI functions (like GUI.DrawTexture or GUI.Button) normally. However instead of Rect, now type ScaledRect.scaledRect. 

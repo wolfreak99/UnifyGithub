@@ -5,18 +5,20 @@
  *
  * Author: Berenger 
  *
+ * Remark 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * CSharp - TinyXmlReaderWeb.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.Serialization
 {
-    Contents [hide] 
-    1 Remark 
-    2 Description 
-    3 Usage 
-    4 CSharp - TinyXmlReaderWeb.cs 
-    
     Remark That script is an extension of http://www.unifycommunity.com/wiki/index.php?title=TinyXmlReader. 
     Description OP's description : 
     "You can use Mono's System.Xml for handling XML files but this requires including the System.Xml dll into your Unity program which increases its file size by about 1 MB. Not to mention the lack of documentation for using System.Xml on UnityScript. 

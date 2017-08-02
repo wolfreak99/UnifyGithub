@@ -5,6 +5,16 @@
  *
  * Author: Daniel Moore (Firedan1176) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - CameraShake.cs 
+ *   
+ * Notes 
+ *   
+ * Special Controller 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,13 +22,6 @@
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
     
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - CameraShake.cs 
-    4 Notes 
-    5 Special Controller 
     
     DescriptionThis script offers a simple Camera Shake effect with a given time and amount. The script does not affect the transform of the main Camera (or any Camera), so this script should work with any Character Controller, even with Unity 5's. 
     UsagePlace this script on a parent gameobject of the main camera, or any camera. The shake effect can be triggered at any point with the preset values, or you can pass in an amount and a duration, which will be added to the current. To pass values via another script, use: 

@@ -5,18 +5,20 @@
  *
  * Author: SimTex with slight tweaks by Clement 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - FindMissingScripts.cs 
+ *   
+ * C# - FindMissingScriptsRecursively.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Development.DebuggingScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - FindMissingScripts.cs 
-    4 C# - FindMissingScriptsRecursively.cs 
-    
     Description Allows you to add a search a project for all instances of missing mono script. 
     Usage In the editor, a script that has been assigned to an object, but subsequently deleted has the string "Missing (Mono Script)" where the script class/filename should be. 
     It is possible to search a project to find all missing scripts using this editor script. To use it, save the file as "assets/editor/FindMissingScripts.cs". Note that it is important to save it into the editor directory. 

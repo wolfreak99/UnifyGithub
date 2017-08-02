@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/ControlPoint.cs
  * File based on original modification date of: 1 November 2012, at 11:48. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * UnityScript - ControlPoint.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorGUIScripts
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 Usage 
-    4 UnityScript - ControlPoint.js 
-    
     AuthorHayden Scott-Baron (Dock) - http://starfruitgames.com 
     DescriptionThis adds a handle to GameObjects which helps show the position and orientation in the Editor. Also allows clicking on invisible objects. 
     UsagePlace this script anywhere in your project, and drag it onto any gameobject. Change the size, and the size of the centre sphere. 

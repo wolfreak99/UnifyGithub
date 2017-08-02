@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/2DPhysics/MoveSpriteFacingMovementDirection.cs
  * File based on original modification date of: 22 May 2015, at 05:30. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Script C# 
+ *   
+ * Category 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Physics.2DPhysics
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 Usage 
-    4 Script C# 
-    5 Category 
-    
     Author    Ahmad Sami
     
     

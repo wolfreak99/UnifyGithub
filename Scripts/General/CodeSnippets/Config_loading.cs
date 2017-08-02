@@ -5,18 +5,20 @@
  *
  * Author: Fredrik Ludvigsen (Steinbitglis) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * ConfigAsset.cs 
+ *   
+ * PlaymodeConfigLoader.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.CodeSnippets
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 ConfigAsset.cs 
-    4 PlaymodeConfigLoader.cs 
-    
     DescriptionUsing the pattern means that you can have a global object, that is always loaded in playmode, but not otherwise. 
     You should also put your asset in PlayerSettings.preloadedAssets, to get the same behaviour in builds. 
     This is the best way to load global data, because they are loaded effectively, and before anything else. 

@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/CurveEditorTools.cs
  * File based on original modification date of: 15 February 2013, at 01:39. 
  *
+ * Description 
+ *   
+ * Setup 
+ *   
+ * Usage 
+ *   
+ * Code (CurveEditorTools.cs) 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,12 +18,6 @@
 namespace UnifyGithub.Editor.EditorScripts
 {
     
-    
-    Contents [hide] 
-    1 Description 
-    2 Setup 
-    3 Usage 
-    4 Code (CurveEditorTools.cs) 
     
     Description A tool window that allows to replace the presets list in Unity's animation curve editor. It was just written as a quick an dirty solution but is already quite polished. 
     

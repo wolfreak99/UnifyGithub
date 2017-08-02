@@ -5,19 +5,22 @@
  *
  * Author: KeliHlodversson 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Notes 
+ *   
+ * JavaScript - CookieCutter.js 
+ *   
+ * Example - CookieTest.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Networking.WWWScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Notes 
-    4 JavaScript - CookieCutter.js 
-    5 Example - CookieTest.js 
-    
     DescriptionThis is a utility script for accessing the browser cookies from the web player 
     UsagePlace this script on a GameObject. Make sure the GameObject has a unique name. 
     After the game has started, cookies can be read by calling CookieCutter.GetCookie(name) and set using CookieCutter.SetCookie(name, value, days), where name is the name of the cookie key, value is the string value to be stored and days is the number of days until the browser will delete the cookie. 

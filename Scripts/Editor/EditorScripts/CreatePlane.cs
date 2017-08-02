@@ -5,6 +5,14 @@
  *
  * Author: Michael Garforth.
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - CreatePlane.cs 
+ *   
+ * C# - CreateHexLattice.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,12 +20,6 @@
 namespace UnifyGithub.Editor.EditorScripts
 {
     Extended by Juan Manuel Palacios to include the Anchor parameter for diverse plane pivoting. Extended by Frogsbo to make hexagon lattice planes. Extended by Jason MacRae to add the two-sided plane option. 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - CreatePlane.cs 
-    4 C# - CreateHexLattice.cs 
-    
     DescriptionThis editor script creates a plane with the specified orientation, pivot point, number of segments for width & length, among others. 
     There is a second create plane script to make hexagon planes: 
     /\/\/\ 

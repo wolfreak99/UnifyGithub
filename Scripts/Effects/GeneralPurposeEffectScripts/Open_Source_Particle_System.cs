@@ -5,23 +5,30 @@
  *
  * Author: Nick Tziamihas, Michael Moiropoulos 
  *
+ * Summary 
+ *   
+ * Features 
+ *   
+ * Integration 
+ *   
+ * Notes 
+ *   
+ * Disclaimer 
+ *   
+ * Javascript- OSParticleEmitter.js 
+ *   
+ * Javascript- OSParticleController.js 
+ *   
+ * C#- OSParticleEmitter.cs 
+ *   
+ * C#- OSParticleController.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Summary 
-    2 Features 
-    3 Integration 
-    4 Notes 
-    5 Disclaimer 
-    6 Javascript- OSParticleEmitter.js 
-    7 Javascript- OSParticleController.js 
-    8 C#- OSParticleEmitter.cs 
-    9 C#- OSParticleController.cs 
-    
     Summary The particle system integrated in Unity3D, although conclusive, does not expose every variable and method tied to particle generarion and animation. This makes particle system modifications difficult and some times impossible. In this project, we create our own particle system from scratch, and expose all of its aspects to the developer. 
      
      

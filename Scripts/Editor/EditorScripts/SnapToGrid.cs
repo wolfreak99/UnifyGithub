@@ -5,18 +5,20 @@
  *
  * Author: Hayden Peake (Hayden) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - SnapToGrid.cs 
+ *   
+ * Javascript - SnapToGrid.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - SnapToGrid.cs 
-    4 Javascript - SnapToGrid.js 
-    
     Description Snaps objects to a grid in 3 dimensions. The grid spacing may be different for each axis. 
     Usage You must place the script in a folder named Editor in your project's Assets folder for it to work properly. 
     Select some objects in the Scene view or Hierarchy window, then choose GameObject→Snap to Grid from the menu (or press control G). Each selected object will be independently snapped to a unit grid. 

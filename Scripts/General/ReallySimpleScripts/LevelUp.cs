@@ -5,20 +5,24 @@
  *
  * Author: Divinux 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# Experience.cs 
+ *   
+ * JavaScript Experience.js 
+ *   
+ * Credit 
+ *   
+ * History 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.ReallySimpleScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# Experience.cs 
-    4 JavaScript Experience.js 
-    5 Credit 
-    6 History 
-    
     Description Provides the basic formula for leveling up characters based on experience points. 
     Usage Just drop the script onto your character or a manager GameObject. Now, how you implement it depends on your game. Just call GainExp(int) from whatever object/action you want to reward your player for. Dying enemy, found item, destroyed building, you get the idea. 
     Once the player has accumulated enough experience, LvlUp() is called automatically. Add whatever cool stuff should happen on level up here. You know, trumpet sounds, sparkly particles, increase player strength,... 

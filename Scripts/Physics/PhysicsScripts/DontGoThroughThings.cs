@@ -5,20 +5,24 @@
  *
  * Author: Daniel Brauer, Adrian 
  *
+ * Description 
+ *   
+ * Changes 
+ *   
+ * Usage 
+ *   
+ * JavaScript - DontGoThroughThings.js 
+ *   
+ * Boo - DontGoThroughThings.boo 
+ *   
+ * C# - DontGoThroughThings.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Physics.PhysicsScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Changes 
-    3 Usage 
-    4 JavaScript - DontGoThroughThings.js 
-    5 Boo - DontGoThroughThings.boo 
-    6 C# - DontGoThroughThings.cs 
-    
     DescriptionThis script uses raycasting to avoid the physics engine letting fast-moving objects go through other objects (particularly meshes). 
     Changesv1.1 (Boo): 
     Added "Switch To Layer" convenience option to move the game object to a given layer and remove that layer from the layer mask (the original layer is restored if used together with "Time to Live"). 

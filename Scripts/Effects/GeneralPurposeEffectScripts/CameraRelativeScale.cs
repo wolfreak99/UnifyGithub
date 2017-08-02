@@ -5,18 +5,20 @@
  *
  * Author: Hayden Scott-Baron (Dock) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Technical Discussion 
+ *   
+ * C# - ScaleRelativeToCamera.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Technical Discussion 
-    4 C# - ScaleRelativeToCamera.cs 
-    
     DescriptionThis script scales an object relative to a camera's distance. This gives the appearance of the object size being the same. Useful for GUI objects that appear within the game scene. Often useful when combined with CameraFacingBillboard. 
     UsagePlace this script on the gameobject you wish to keep a constant size. 
     Technical DiscussionThis measures the distance from the Camera plane, rather than the camera itself, and uses the initial scale as a basis. Use the public objectScale variable to adjust the object size. 

@@ -5,18 +5,20 @@
  *
  * Author: Berenger 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Example 
+ *   
+ * C# - iTweenX.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.AnimationControllers
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Example 
-    4 C# - iTweenX.cs 
     
     Description Bunch of variables to use with iTween instead of searching the keywords every times. Here is a usefull link to preview the easetypes : http://www.robertpenner.com/easing/easing_demo.html 
     Usage Put this script in your Standard Assets/Scripts folder; this way it can be easily used from javascript or Boo. If you declare a public var of type EaseType, you can easily pick the right easetype from the inspector. 

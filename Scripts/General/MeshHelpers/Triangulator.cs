@@ -5,20 +5,24 @@
  *
  * Author: runevision 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Troubleshooting 
+ *   
+ * C#- Triangulator.cs 
+ *   
+ * Javascript Triangulator Code 
+ *   
+ * javascript - Triangulator.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MeshHelpers
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Troubleshooting 
-    4 C#- Triangulator.cs 
-    5 Javascript Triangulator Code 
-    6 javascript - Triangulator.js 
-    
     DescriptionThis script can be used to split a 2D polygon into triangles. The algorithm supports concave polygons, but not polygons with holes, or multiple polygons at once. 
     Note: This is a naive triangulation implementation. For more well-distributed triangles, consider using Delaunay triangulation, such as with the script here [1] 
     UsageCreate a new Triangulator object with a array of Vector2 points as the constructor parameter. Then get the indices by calling the Triangulate method on the Triangulator. You can now use the points and the indices to construct a mesh. Example use (attach this script to a game object): 

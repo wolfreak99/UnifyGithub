@@ -5,21 +5,26 @@
  *
  * Author: (Joachim Ante) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - NetworkCursor.js 
+ *   
+ * JavaScript - SendNetworkCursor.js 
+ *   
+ * C# - Plugins/Client.cs 
+ *   
+ * C# - Plugins/Server.cs 
+ *   
+ * C# - Plugins/MessageData.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Networking.Unity1xNetworkingScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - NetworkCursor.js 
-    4 JavaScript - SendNetworkCursor.js 
-    5 C# - Plugins/Client.cs 
-    6 C# - Plugins/Server.cs 
-    7 C# - Plugins/MessageData.cs 
-    
     DescriptionA set of scripts to make one Unity instance control another. This example takes mouse input one one Unity instance and sends it to control a cursor on another. This code could be developed further into a good networking implementation for many types of games. 
     UsageDownload this project: Networking Example Project 
     JavaScript - NetworkCursor.jsfunction Update () {

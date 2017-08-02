@@ -3,6 +3,16 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Object2Terrain.cs
  * File based on original modification date of: 17 August 2014, at 04:34. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Settings (C# only) 
+ *   
+ * C# - Object2Terrain.cs 
+ *   
+ * JavaScript - Object2Terrain.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -14,13 +24,6 @@ namespace UnifyGithub.Editor.EditorScripts
     Eric Haines (Eric5h5): original.
     Jessy: C# conversion.
     Bit Barrel Media: added functionality. 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Settings (C# only) 
-    4 C# - Object2Terrain.cs 
-    5 JavaScript - Object2Terrain.js 
-    
     Description Converts an object mesh to a heightmap. This way you can create terrain meshes in a standard 3D app such as Blender or Maya and convert it to a Unity terrain. It uses raycasting instead of file conversion, so it works with any object which has a mesh.
     
     See also TerrainObjExporter, which saves a Unity terrain as an .obj file. 

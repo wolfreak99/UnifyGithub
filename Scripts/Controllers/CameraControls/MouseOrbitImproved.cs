@@ -5,18 +5,20 @@
  *
  * Author: Veli V Author Boo: [highway900] 
  *
+ * Description 
+ *   
+ * Code Javascript 
+ *   
+ * Code C# 
+ *   
+ * Code Boo 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CameraControls
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Code Javascript 
-    3 Code C# 
-    4 Code Boo 
     
     DescriptionImproved version of the original MouseOrbit script. Zooms with the mousewheel and uses linecast to make sure that object isn't behind anything. 
     Feel free to improve it further! 

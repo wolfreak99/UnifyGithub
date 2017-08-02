@@ -5,6 +5,16 @@
  *
  * Author: Michael Garforth 
  *
+ * Overview 
+ *   
+ * Use 
+ *   
+ * Example - TestRendered.cs 
+ *   
+ * C# - RendererExtensions.cs 
+ *   
+ * UnityScript - RendererHelpers.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,13 +22,6 @@
 namespace UnifyGithub.General.UtilityScripts
 {
     
-    
-    Contents [hide] 
-    1 Overview 
-    2 Use 
-    3 Example - TestRendered.cs 
-    4 C# - RendererExtensions.cs 
-    5 UnityScript - RendererHelpers.js 
     
     OverviewThis C# class gives simple extension access to checking if an Renderer is rendered by a specific Camera. 
     Due to the way UnityScript/javascript compiles extension methods, it's not accessible in the same way, so another javascript specific class is added below it 

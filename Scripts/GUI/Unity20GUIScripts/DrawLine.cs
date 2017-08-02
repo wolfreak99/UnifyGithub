@@ -5,19 +5,22 @@
  *
  * Author: capnbishop 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - DrawLine.js 
+ *   
+ * JavaScript - DrawLine.js - Editor version 
+ *   
+ * C# - DrawLine.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.Unity20GUIScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - DrawLine.js 
-    4 JavaScript - DrawLine.js - Editor version 
-    5 C# - DrawLine.cs 
-    
     DescriptionThis script allows you to draw a line between two points in the GUI system. 
     UsageRender a line in the GUI system by calling DrawLine and passing it a set of Vector2's for point A and point B of the line. 
     Optionally, you can pass DrawLine a color and width for the line, as well as using a Rect instead of Vector2's. If you do not pass a width, the line will have a width of 1. If you do not pass a color, the line will be rendered with the GUI.contentColor. 

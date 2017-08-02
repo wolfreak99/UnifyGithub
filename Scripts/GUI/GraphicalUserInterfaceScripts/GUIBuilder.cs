@@ -5,19 +5,22 @@
  *
  * Author: Shaun Lelacheur-Sales (shaunls) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Example Screenshots 
+ *   
+ * C# - GenericGUIMethods.cs 
+ *   
+ * C# - GenericTextFieldMethods.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Example Screenshots 
-    4 C# - GenericGUIMethods.cs 
-    5 C# - GenericTextFieldMethods.cs 
     
     DescriptionThe following scripts can be added to GUITextures/Texts to automate some of the simple Win/OSX common UI controls. 
     There are 2 main scripts used for different functions: 

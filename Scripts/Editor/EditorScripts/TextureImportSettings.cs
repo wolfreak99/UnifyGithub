@@ -5,19 +5,22 @@
  *
  * Author: Martin Schultz (MartinSchultz) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Screenshot 
+ *   
+ * C# - ChangeTextureImportSettings.cs 
+ *   
+ * C# - ChangeTextureImportSettingsUnity3.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Screenshot 
-    4 C# - ChangeTextureImportSettings.cs 
-    5 C# - ChangeTextureImportSettingsUnity3.cs 
-    
     Description Adds under the menu Custom→Texture a way to change for multiple selected textures the import settings in one step. Idea was to have the same choices for multiple texture files as you would have if you open the import settings of a single texture. Currently the most often used import settings are editable: Texture Format (same amount and order as in Unity), enable/disable MipMap and changing the maximum texture size. 
     NOTE: This is obsolete as Unity now supports it by default: 
     -Select a number of textures. 

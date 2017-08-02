@@ -5,6 +5,14 @@
  *
  * Author: Bit Barrel Media 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - StoredEditorData.cs 
+ *   
+ * C# - GameWindowSize.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,12 +20,6 @@
 namespace UnifyGithub.Editor.EditorScripts
 {
     Credits: jspease 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - StoredEditorData.cs 
-    4 C# - GameWindowSize.cs 
-    
     DescriptionThis script undocks the Game window and sets it to a size which matches the physical size of the mobile device targeted. This way you can test for example if the size of text is not too small on HD devices. 
     Usage-Place the GameWindowSize.cs script in YourProject/Assets/Editor. 
     -Place the StoredEditorData.cs in YourProject/Assets/Scripts. 

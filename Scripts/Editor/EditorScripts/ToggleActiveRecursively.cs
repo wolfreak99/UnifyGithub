@@ -5,6 +5,14 @@
  *
  * Original Author: Jonathan Czeck (aarku) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - ToggleActiveRecursively.cs 
+ *   
+ * Javascript - ToggleActiveRecursively.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,12 +20,6 @@
 namespace UnifyGithub.Editor.EditorScripts
 {
     Javascript version: Daniel Brauer 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - ToggleActiveRecursively.cs 
-    4 Javascript - ToggleActiveRecursively.js 
-    
     DescriptionThis editor script takes the current object selected in your hierarchy and toggles whether or not it is active. Then it sets the activeness of all its children to this. 
     UsagePlace this script in YourProject/Assets/Editor and a menu item will automatically appear in the Custom menu after it is compiled.
     

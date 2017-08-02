@@ -5,20 +5,24 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * New Functions 
+ *   
+ * Unclamped Variations 
+ *   
+ * Benchmarks 
+ *   
+ * C# - MathS.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MathHelpers
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 New Functions 
-    4 Unclamped Variations 
-    5 Benchmarks 
-    6 C# - MathS.cs 
-    
     DescriptionIn Unity 2.6, several functions, namely Vector3.Lerp, Vector4.Lerp, and Color.Lerp, were sped up a fair amount compared to the previous versions of Unity. Unfortunately, they—along with other Lerp functions—still aren't as fast as they could be. Perhaps this will be changed in the future, but as of Unity 3.5, replacing these with user-made functions results in a noticeable speed increase. 
     "Noticeable" is relative, though...in general usage, it's unlikely to be worth the bother of using this script. On the other hand, if you're running routines that operate on large datasets and/or typically loop hundreds of thousands of times or more, then it can be worthwhile. Basically, any time you really want to squeeze more speed out of your code. 
     This also adds two new functions: Vector2Lerp and SuperLerp. (Vector2.Lerp was added in Unity 3.0, but this implementation is a little faster.) 

@@ -5,18 +5,20 @@
  *
  * Author: Martin Schultz (MartinSchultz) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Screenshot 
+ *   
+ * JavaScript - ToggleActiveAllSelectedGO.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Screenshot 
-    4 JavaScript - ToggleActiveAllSelectedGO.js 
-    
     Description This little helper scripts toggles the active status of all selected game objects to the opposite and does as well for any linked children of the selected game objects, so a full recursive active toggle for all selected GOs. 
     The script can be found under the menu Custom→Toggle Active All Active Selected GO's. 
     Usage You must place the script in a folder named Editor in your project's Assets folder for it to work properly. 

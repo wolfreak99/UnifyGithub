@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Physics/SimulationScripts/Simple_planetary_orbits.cs
  * File based on original modification date of: 10 January 2012, at 20:52. 
  *
+ * Orbiter.js 
+ *   
+ * OrbitRenderer.js 
+ *   
+ * OrbitalEllipse.js 
+ *   
+ * OrbitState.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,12 +20,6 @@ namespace UnifyGithub.Physics.SimulationScripts
     These scripts are designed for quickly setting up basic rigidbody-driven 2D orbital physics. 
     Included are two Monobehaviours (Orbiter and OrbitRenderer) and two supporting classes (OrbitalEllipse and OrbitState). Attach Orbiter.js to the object that you would like to put into orbit. Optionally add the OrbitRenderer component for visual feedback while adjusting Orbiter properties. All objects must lie on the same x/y plane. 
     
-    
-    Contents [hide] 
-    1 Orbiter.js 
-    2 OrbitRenderer.js 
-    3 OrbitalEllipse.js 
-    4 OrbitState.js 
     
     Orbiter.js #pragma strict
     @script RequireComponent(Rigidbody)

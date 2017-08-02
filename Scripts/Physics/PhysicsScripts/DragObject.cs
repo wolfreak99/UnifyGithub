@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - DragObject.js 
+ *   
+ * C# - Dragable.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Physics.PhysicsScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - DragObject.js 
-    4 C# - Dragable.cs 
-    
     DescriptionThis is similar to DragRigidbody, but much more stable and with more direct control. In its current form, it's intended for use with a camera looking down on the X/Z plane and dragging objects on a flat planar surface, but it could be adapted to be more flexible if desired. See here for a demo scene. 
     Usage Attach this script to the object you want to drag. The object should be a non-kinematic rigidbody. Gravity can be on or off; Freeze Rotation can also be on or off. Mass, drag, and angular drag generally don't matter, although mass matters somewhat when dragging into other non-kinematic rigidbodies. There are some public variables: 
     Normal Collision Count: This is an important variable, since how well the script works depends on this being correct. If the object is normally resting on the ground while being dragged, set this variable to 1. If it's not in contact with the ground while being dragged (or if there is no ground at all), then set this variable to 0. 

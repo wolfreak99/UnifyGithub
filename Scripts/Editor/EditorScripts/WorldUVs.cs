@@ -5,6 +5,14 @@
  *
  * Author: Aubrey Falconer (Robur) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - WorldUV.js 
+ *   
+ * JavaScript - WorldUVAdvanced.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,12 +20,6 @@
 namespace UnifyGithub.Editor.EditorScripts
 {
     Special recognition: Mike_Mac, Azupko 
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - WorldUV.js 
-    4 JavaScript - WorldUVAdvanced.js 
-    
     Description  
     Cubes UV mapped in world spaceRecursively generates UV maps for mesh faces so that they all line up with each other in world space. Want to create a world out of scaled and rotated cubes, then add a seamless texture to them all? This script is what you need! 
     Usage You must place the script in a folder named Editor in your project's Assets folder for it to work properly. 

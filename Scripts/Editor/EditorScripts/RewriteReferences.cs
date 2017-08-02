@@ -5,18 +5,20 @@
  *
  * Author: Fredrik Ludvigsen (Steinbitglis) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Example 
+ *   
+ * C# - ReferenceUtil.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Example 
-    4 C# - ReferenceUtil.cs 
-    
     Description This script creates a command which rewrites a reference throughout a whole project. 
     Usage GetRewriteCommand() creates a command, based on git, xargs and sed, which can effortlessly rewrite references in a Unity project. 
     This saves a lot of pain associated with having to open scenes, reconnecting references and saving the scenes again. 

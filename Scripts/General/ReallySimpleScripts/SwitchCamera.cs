@@ -5,21 +5,26 @@
  *
  * Author: JakeH 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript- SwitchCamera.js 
+ *   
+ * CSharp- SwitchCamera.cs 
+ *   
+ * More cameras 
+ *   
+ * CSharp - SwitchCameras.cs 
+ *   
+ * Javascript - SwitchCameras.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.ReallySimpleScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript- SwitchCamera.js 
-    4 CSharp- SwitchCamera.cs 
-    5 More cameras 
-    6 CSharp - SwitchCameras.cs 
-    7 Javascript - SwitchCameras.js 
     
     DescriptionThis script lets you switch between two cameras in your scene. 
     UsageAttach the script to amy GameObject and define the variables. 

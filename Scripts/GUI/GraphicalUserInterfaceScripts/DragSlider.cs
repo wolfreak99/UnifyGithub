@@ -5,18 +5,20 @@
  *
  * Author: Spaniard 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - MoveSlider.cs 
+ *   
+ * JS - MoveSlider.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - MoveSlider.cs 
-    4 JS - MoveSlider.js 
-    
     DescriptionThis script uses OnMouseDrag() to create a draggable GUI slider element. 
     UsageAttach this script to the GUITexture that you want to be the sider widget (the little ball or box that people click on and drag around). You will need a second GUITexture that is the slider bar. Set the min, max and current values for the slider in the inspector and enjoy! 
     When positioning the two GUITextures, they both must have the same transform, as the pixel insets for the slider widget will be set based on the pixel insets from the slider bar. 

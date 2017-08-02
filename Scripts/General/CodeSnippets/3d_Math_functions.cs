@@ -3,21 +3,26 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/CodeSnippets/3d_Math_functions.cs
  * File based on original modification date of: 17 April 2016, at 00:24. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Forum 
+ *   
+ * Performance 
+ *   
+ * Code 
+ *   
+ * Categories 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.CodeSnippets
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 Usage 
-    4 Forum 
-    5 Performance 
-    6 Code 
-    7 Categories 
-    
     AuthorBit Barrel Media 
     DescriptionThis is a collection of generic 3d math functions such as line plane intersection, closest points on two lines, etc. 
     Usage-Place the Math3d.cs script in the scripts folder. 

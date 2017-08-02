@@ -5,19 +5,22 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript Version (FPSWalkerEnhanced.js) 
+ *   
+ * C# Version 
+ *   
+ * Boo Version 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript Version (FPSWalkerEnhanced.js) 
-    4 C# Version 
-    5 Boo Version 
-    
     Description This is an enhanced version of the FPSWalker script found in Standard Assets. It allows for both walking and running (either by toggle or by holding down a run key), the capability of detecting falling distances, optionally sliding down slopes (both those above the Slope Limit and/or objects specifically tagged "Slide"), optional air control, optional anti-bunny hopping control, and special patented* Anti-Bump™ code that eliminates that irritating "bumpity bumpity bumpa bump" you get when trying to walk down moderately inclined slopes when using the default script. 
     *It's not really patented...it's just a small change actually. 
     Note that the new first-person controller prefab in Unity 3 handles most of this, as well as having other functionality. 

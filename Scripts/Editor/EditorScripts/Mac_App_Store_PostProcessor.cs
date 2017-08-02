@@ -5,18 +5,20 @@
  *
  * Author: Martin Schultz / Decane 
  *
+ * Update 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Assets/Editor/PostprocessBuildPlayer.sh 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Update 
-    2 Description 
-    3 Usage 
-    4 Assets/Editor/PostprocessBuildPlayer.sh 
-    
     Update An in-editor version is now available and should be used instead of manual scripting: http://u3d.as/content/jemast-software/mac-app-store-toolset/4TN 
     A simplified version of the tool is also available for free: http://jemast.com/unity/unity-entitlements-tool 
     DescriptionThis PostprocessBuildPlayer script takes your Mac binary and auto-signs and auto-packages it for uploading it to the Mac App Store. No need anymore for manually opening the terminal app to sign your game and then create a package out of it to be able to upload it to the Mac App Store - this script does the hard work for you - automatically! 

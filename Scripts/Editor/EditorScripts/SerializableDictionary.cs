@@ -5,23 +5,30 @@
  *
  * Author: Fredrik Ludvigsen (Steinbitglis) 
  *
+ * Description 
+ *   
+ * All files as a unitypackage 
+ *   
+ * Usage 
+ *   
+ * C# - Example.cs 
+ *   
+ * C# - SerializableDictionaryImplementations.cs 
+ *   
+ * C# - SerializableDictionaryDrawerImplementations.cs 
+ *   
+ * C# - SerializableDictionary.cs 
+ *   
+ * C# - SerializableDictionaryDrawer.cs 
+ *   
+ * C# - SerializedPropertyExtension.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 All files as a unitypackage 
-    3 Usage 
-    4 C# - Example.cs 
-    5 C# - SerializableDictionaryImplementations.cs 
-    6 C# - SerializableDictionaryDrawerImplementations.cs 
-    7 C# - SerializableDictionary.cs 
-    8 C# - SerializableDictionaryDrawer.cs 
-    9 C# - SerializedPropertyExtension.cs 
-    
     Description  
     This script lets you use serializable dictionaries in Unity with little boilerplate per new type. 
     You can also choose if you want to add a property drawer for the type very easily. 

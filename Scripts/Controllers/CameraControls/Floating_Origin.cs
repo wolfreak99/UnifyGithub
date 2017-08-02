@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/Floating_Origin.cs
  * File based on original modification date of: 8 September 2016, at 16:19. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Notes 
+ *   
+ * C# - FloatingOrigin.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CameraControls
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Notes 
-    4 C# - FloatingOrigin.cs 
-    
     Description This script translates all objects in the world to keep the camera near the origin in order to prevent spatial jittering due to limited floating-point precision. The script detects when the camera is further than 'threshold' units from the origin, at which point it moves everything so that the camera is back at the origin. There is also an option to disable physics beyond a certain point. 
     For background on spatial jitter and how/why floating origin works refer to the PhD by Chris Thorne. 
     Usage Attach this script to the GameObject that has your main camera. 

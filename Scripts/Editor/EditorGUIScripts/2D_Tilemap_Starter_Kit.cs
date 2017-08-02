@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorGUIScripts/2D_Tilemap_Starter_Kit.cs
  * File based on original modification date of: 11 December 2012, at 07:47. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * How to use 
+ *   
+ * Source Code 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorGUIScripts
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 How to use 
-    4 Source Code 
-    
     Author Dean Lunz (aka Created by: X)
     createdbyx@createdbyx.com
     http://www.createdbyx.com/

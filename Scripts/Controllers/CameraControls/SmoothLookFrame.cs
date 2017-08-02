@@ -5,18 +5,20 @@
  *
  * Author: David O'Donoghue (a.k.a Trooper from ODD Games) 
  *
+ * Description 
+ *   
+ * C# Script 
+ *   
+ * C# Script (Smooth Rotate) 
+ *   
+ * Javascript 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CameraControls
 {
-    Contents [hide] 
-    1 Description 
-    2 C# Script 
-    3 C# Script (Smooth Rotate) 
-    4 Javascript 
-    
     Description Looks at a target whilst keeping another target in view. 
     C# Script using UnityEngine;
      

@@ -5,18 +5,20 @@
  *
  * Author: Jonathan Czeck (aarku) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - MessageDisplayer.cs 
+ *   
+ * Javascript - MessageDisplayer.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.HeadsUpDisplayScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - MessageDisplayer.cs 
-    4 Javascript - MessageDisplayer.js 
-    
     DescriptionUse this script on a guiText object to have status messages. Just call messageDisplayerObject.DisplayMessage("hello") and you'll get a line of self disappearing messages. TODO: Make this script more of a singleton. 
     UsageUse this script on a guiText object to have status messages. 
     C# - MessageDisplayer.csusing UnityEngine;

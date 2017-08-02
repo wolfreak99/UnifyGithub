@@ -5,6 +5,14 @@
  *
  * Author: Kieren Wallace (kdw.weebly.com) 
  *
+ * Overview 
+ *   
+ * Usage 
+ *   
+ * Example - RotateObject.cs 
+ *   
+ * Code 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -13,12 +21,6 @@ namespace UnifyGithub.General.MathHelpers
 {
     
     
-    
-    Contents [hide] 
-    1 Overview 
-    2 Usage 
-    3 Example - RotateObject.cs 
-    4 Code 
     
     OverviewThis script provide a few useful extensions to the inbuilt 'Quaternion' struct. The Exponent, Magnitude, and Scalar Multiplication methods are useful for writing specialised Quaternion math functions, and the Power method is used to rotate a given quaternion an exact multiple of iteslf. 
     

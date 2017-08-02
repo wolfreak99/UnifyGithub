@@ -5,20 +5,24 @@
  *
  * Author: Keli Hlodversson (freyr) 
  *
+ * Warning 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - AManager.cs 
+ *   
+ * Boo - AManager.boo 
+ *   
+ * Javascript - AManager.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.GeneralConcepts
 {
-    Contents [hide] 
-    1 Warning 
-    2 Description 
-    3 Usage 
-    4 C# - AManager.cs 
-    5 Boo - AManager.boo 
-    6 Javascript - AManager.js 
-    
     Warning This article is quite dated and missing a bit of explaining. Read in conjunction with Singleton. 
     Description The following snippet shows how to add a static property called instance that will automatically find an instance of the class in the scene and return it. 
     This is useful for managers and other behaviours that only have one instance in the scene and need to be accessed from other classes, as it avoids having each class to keep a reference to the manager object. 

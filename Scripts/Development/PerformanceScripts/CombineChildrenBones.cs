@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Development/PerformanceScripts/CombineChildrenBones.cs
  * File based on original modification date of: 10 January 2012, at 20:45. 
  *
+ * Author 
+ *   
+ * Description 
+ *   
+ * Caveats 
+ *   
+ * CombineChildrenBones 
+ *   
+ * MeshCombineBonesUtility 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Development.PerformanceScripts
 {
-    Contents [hide] 
-    1 Author 
-    2 Description 
-    3 Caveats 
-    4 CombineChildrenBones 
-    5 MeshCombineBonesUtility 
-    
     Author Mike Laurence (http://mikelaurence.com), with much of the code extracted from everyone's favorite CombineChildren script. 
     Description This script combines all MeshFilter meshes (e.g., static meshes without bones) in its children into a single SkinnedMeshRenderer. Thereafter, it automatically updates the transforms of the bones to match any changes to the original GameObjects. 
     Caveats This script appears to have very similar functionality to the MeshMerger script, though with much more code. Since I used CombineChildren as the base for this script, I'm not sure how much is really necessary. Perhaps someone can do a comparison between the two (hopefully with benchmarks!) 

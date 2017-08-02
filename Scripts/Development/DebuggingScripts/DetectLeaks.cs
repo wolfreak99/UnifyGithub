@@ -5,19 +5,22 @@
  *
  * Author: Joachim Ante, Berenger, Juha 
  *
+ * Description 
+ *   
+ * C# - DetectLeaks V1.0 
+ *   
+ * C# - DetectLeaks V1.1 
+ *   
+ * C# - DetectLeaks V2 
+ *   
+ * C# - DetectLeaks V3 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Development.DebuggingScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 C# - DetectLeaks V1.0 
-    3 C# - DetectLeaks V1.1 
-    4 C# - DetectLeaks V2 
-    5 C# - DetectLeaks V3 
-    
     Description This script will displays the number of alloctated unity objects by type. This is useful for finding leaks. Knowing the type of object (mesh, texture, sound clip, game object) that is getting leaked is the first step. You could then print the names of all leaked assets of that type. 
     
     

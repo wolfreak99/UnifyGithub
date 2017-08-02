@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - GridMove.js 
+ *   
+ * C# - GridMove.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - GridMove.js 
-    4 C# - GridMove.cs 
     
     Description This is used for controlling characters that need to move on a 2D map, as typically seen in top-down old-school RPG or strategy games. The character moves smoothly rather than jumping from square to square, but is confined to an user-defined grid. 
     Usage Attach this script to the character that should be controlled. The variables are: 

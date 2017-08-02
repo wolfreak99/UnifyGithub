@@ -5,18 +5,20 @@
  *
  * Author: Divinux 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Code ModularConstruction.cs 
+ *   
+ * History 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.ReallySimpleScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Code ModularConstruction.cs 
-    4 History 
-    
     Description This is a really basic version of a modular building system. Rust and Unturned use this kind of thing for houses and such, but it can also be used for weapons, corridors, spaceships, vehicles, anything that you can provide "building blocks" for. 
      
     Usage Set up the manager object 

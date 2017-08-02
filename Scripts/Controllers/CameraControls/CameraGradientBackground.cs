@@ -5,18 +5,20 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * GradientBackground.js 
+ *   
+ * GradientBackground.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CameraControls
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 GradientBackground.js 
-    4 GradientBackground.cs 
-    
     DescriptionCreates a background for the camera, which is a simple gradient blend between two colors. 
     Usage Attach this script to your camera, and change the top and bottom colors in the inspector as desired. When run, the clear flags for your camera is set to Depth Only, allowing a newly created background camera to show through. A plane with the gradient colors is created, which only the background camera can see. This is done with GradientLayer, which is the only layer that the background camera sees, and your camera is set to ignore. The default, 7, is a built-in (non-user-editable) layer that's not used for anything as of Unity 3.1. It can be changed as necessary. 
     GradientBackground.js var topColor = Color.blue;

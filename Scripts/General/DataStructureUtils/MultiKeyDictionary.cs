@@ -3,6 +3,16 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/DataStructureUtils/MultiKeyDictionary.cs
  * File based on original modification date of: 26 March 2012, at 15:51. 
  *
+ * Source 
+ *   
+ * OP's Description 
+ *   
+ * Example JS 
+ *   
+ * Example CSharp 
+ *   
+ * MultiKeyDictionary.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,13 +20,6 @@
 namespace UnifyGithub.General.DataStructureUtils
 {
     Author : Berenger, Mars 2012 
-    Contents [hide] 
-    1 Source 
-    2 OP's Description 
-    3 Example JS 
-    4 Example CSharp 
-    5 MultiKeyDictionary.cs 
-    
     Source http://www.codeproject.com/Articles/32894/C-Multi-key-Generic-Dictionary 
     OP's Description MultiKeyDictionary is a C# class that wraps and extends the Generic Dictionary object provided by Microsoft in .NET 2.0 and above. This allows a developer to create a generic dictionary of values and reference the value list through two keys instead of just the one provided by the Microsoft implementation of the Generic Dictionary<T,K>. 
     Example JS 	var test : MultiKeyDictionary.<int, String, String> = new MultiKeyDictionary.<int, String, String>();

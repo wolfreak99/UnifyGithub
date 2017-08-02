@@ -5,19 +5,22 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * VectorLine.js 
+ *   
+ * VectorLine.cs 
+ *   
+ * VectorLines.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 VectorLine.js 
-    4 VectorLine.cs 
-    5 VectorLines.cs 
-    
     DescriptionDraws a vector line on the screen based on normalized viewport coordinates. The line can have an arbitrary width, color, and number of segments, and is defined by an array of Vector2s. Requires Unity Pro, since it uses the GL class. 
      
     Usage Put this script on a camera. The public variables control the number of points in the line, its color, its thickness, and whether the line should be drawn or not (because disabling the script doesn't stop the OnPostRender function from running). The linePoints array is an array of Vector2s in normalized viewport coordinates (i.e. (0, 0) is the lower-left corner of the screen and (1,1) is the upper-right). Currently only one contiguous line is supported, but it would be easy enough to modify it to use an array of Vector2s in order to draw multiple separate lines, if so inclined. A sample routine, which results in the image above: 

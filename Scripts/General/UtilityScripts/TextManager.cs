@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/TextManager.cs
  * File based on original modification date of: 21 January 2012, at 17:04. 
  *
+ * Disclaimer 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * TextManager.cs 
+ *   
+ * TextManager.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    Contents [hide] 
-    1 Disclaimer 
-    2 Description 
-    3 Usage 
-    4 TextManager.cs 
-    5 TextManager.js 
-    
     Disclaimer Basically all credits go to kenlem from the forums: http://forum.unity3d.com/threads/35617-TextManager-Localization-Script 
     Description Uses gettext along the lines of poEdit for translating text the GNU way! 
     The concept is really simple as you can see under Usage and all you need is POT and PO files created by any po editor, or even just use your text editor of choice with the standards in mind. 

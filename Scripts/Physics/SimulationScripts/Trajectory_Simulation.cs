@@ -5,19 +5,22 @@
  *
  * Author: Matt Mechtley 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * BasicTrajectorySimulation.js 
+ *   
+ * C# Version 
+ *   
+ * PlayerFire.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Physics.SimulationScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 BasicTrajectorySimulation.js 
-    4 C# Version 
-    5 PlayerFire.cs 
-    
     DescriptionThere are many cases where it's useful to calculate the trajectory an object will follow -- for instance when firing a ball from a cannon or the like. Perhaps you want to give the player some visual feedback about where their shot might land. The following script represents a very basic trajectory simulation algorithm that I used in the game Splume. It works best for simple spheres, and makes a number of assumptions: 
     The object being fired has 0 drag 
     Any object it bounces off has 0 friction and has friction combine set to Minimum 

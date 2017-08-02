@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/GUI/GraphicalUserInterfaceScripts/ProgressBar.cs
  * File based on original modification date of: 17 February 2014, at 01:17. 
  *
+ * What is it 
+ *   
+ * Demo 
+ *   
+ * Code 
+ *   
+ * Instructions 
+ *   
+ * Resources 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 What is it 
-    2 Demo 
-    3 Code 
-    4 Instructions 
-    5 Resources 
-    
     What is it A simple circular progress bar for 2D Sprites, or on a 3D quad, by Opless. 
     Demo http://www.youtube.com/watch?v=y8RLVuoq0AU 
     Code void Update() {

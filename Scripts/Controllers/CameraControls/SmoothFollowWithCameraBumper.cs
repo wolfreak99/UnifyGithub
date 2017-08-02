@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Controllers/CameraControls/SmoothFollowWithCameraBumper.cs
  * File based on original modification date of: 10 January 2012, at 20:53. 
  *
+ * Description 
+ *   
+ * Contributions 
+ *   
+ * Usage 
+ *   
+ * JavaScript - SmoothFollowWithCameraBumper.js 
+ *   
+ * C# - SmoothFollowWithCameraBumper.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CameraControls
 {
-    Contents [hide] 
-    1 Description 
-    2 Contributions 
-    3 Usage 
-    4 JavaScript - SmoothFollowWithCameraBumper.js 
-    5 C# - SmoothFollowWithCameraBumper.cs 
-    
     Description Designed to prevent the camera from passing through objects while following the target. A ray is cast out the rear of the target and if it collides, the camera will adjust to prevent passage into the object. 
     Contributions (Created CSharp Version) 11/2010: Daniel P. Rossi (DR9885) 
     (Added Check for Ray-casting into User) 11/2010: Daniel P. Rossi (DR9885) 

@@ -5,19 +5,22 @@
  *
  * Abstract Author: Roger Braunstein (rogerimp) 
  *
+ * Abstract 
+ *   
+ * Usage 
+ *   
+ * Creating the CSV file 
+ *   
+ * Contributions Accepted 
+ *   
+ * Code 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MeshHelpers
 {
-    Contents [hide] 
-    1 Abstract 
-    2 Usage 
-    3 Creating the CSV file 
-    4 Contributions Accepted 
-    5 Code 
-    
     Updated: This may be completely unnecessary in Unity 3.5+, please see the "Optimize Mesh" checkbox in import settings. See Manual 
     This editor script will prevent Unity from modifying the polygon ordering in a model upon import. Lore and evidence suggest that mesh optimizations are applied on import (even when the Mesh Compression import setting is Off). 
     In most cases this optimization is a good thing, as Unity seems to create triangle strips that would optimize rendering performance. In some cases, this is a bad thing, such as when you are attempting to render an overlapping discontinuous mesh in a single draw call from bottom-to-top (for instance, drawing a character on the same z-plane in a 2D game using the Unlit/Transparent shader). In this case, the optimizations could reorder your polygons and their carefully-created draw order. 

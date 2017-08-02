@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Effects/GeneralPurposeEffectScripts/MarchingSquares.cs
  * File based on original modification date of: 10 January 2012, at 20:45. 
  *
+ * Description 
+ *   
+ * Related Work 
+ *   
+ * Usage 
+ *   
+ * MarchingSquares.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Related Work 
-    3 Usage 
-    4 MarchingSquares.cs 
-    
     Description This Script renders a arbitrary 2D Mesh out of a Point / Voxel Lattice. It actually computes two Meshes, one for rendering (Purple) and one simple mesh for collisions (Blue). 
      
     Related Work Some of the Code is derived from "Polygonising a scalar field (Marching Cubes)" by Paul Bourke http://local.wasp.uwa.edu.au/~pbourke/geometry/polygonise/ A lot of inspiration of how to use it with Unity by Brian R. Cowan. See some of his Work here: http://www.briancowan.net/unity/fx 

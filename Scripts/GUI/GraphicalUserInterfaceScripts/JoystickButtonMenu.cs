@@ -5,18 +5,20 @@
  *
  * Author: Alex Hackl (AKA Silix) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - JoystickButton.cs 
+ *   
+ * C# - JoystickButtonMenu.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - JoystickButton.cs 
-    4 C# - JoystickButtonMenu.cs 
-    
     Description Unity GUI does not fully support joystick navigation which sucks 
     so here is two custom classes i wrote for just that reason the JoystickButton and JoystickButtonMenu 
     working together they provide functionality to create buttons that can be navigated by either horizontal or vertical movement and joystick button presses 

@@ -3,18 +3,20 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/Editor/EditorScripts/Take3DScreenshot.cs
  * File based on original modification date of: 10 January 2012, at 20:47. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Examples 
+ *   
+ * C# - Take3DScreenshot.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Examples 
-    4 C# - Take3DScreenshot.cs 
-    
     DescriptionThis editor script lets you take "3D Screenshots" of a specified object using the Game View. A 3D Screenshot is special type of movie that gives a "bullet-time" type camera rotation effect around a paused scene. Useful for the creation of QuicktimeVR. 
     UsagePlace this script in YourProject/Assets/Editor and a menu item will automatically appear in the Custom menu after it is compiled. 
     If capturing an action scene, pause your game at the exact moment you want to capture. Make sure the camera is the distance you want it to be from the object during capture. If it isn't, you can usually just move it into position while paused. 

@@ -5,20 +5,24 @@
  *
  * Author: Mark Hessburg (VIC20) 
  *
+ * Description 
+ *   
+ * To do List (please help) 
+ *   
+ * Project download 
+ *   
+ * Thread 
+ *   
+ * Code 
+ *   
+ * Related Links 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Physics.SimulationScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 To do List (please help) 
-    3 Project download 
-    4 Thread 
-    5 Code 
-    6 Related Links 
-    
     Description This is a simple OpenStreetMap script, it requires unity iPhone but should work in simulation mode with the normal unity. It loads OpenStreetMap Tiles based on your current (or while running in the Editor simulated) position. It scrolls the map by following GPS movements (or simulated location updates). You can set the useFAKEDmovement Variable to simulate movement of the iPhone in the Editor. Set Variable OSMZoom for different zoom levels (1-18). Just download the prepared Project, do a quick Build&Run and make a little test drive, it's pretty accurate (after one or two kilometers you might discover a map scrolling bug which still needs a fix.) 
     To do List (please help) Add OSM Icon - REMEMBER: OpenStreetMap license requires to display an OpenStreetMap-Icon when showing the Map 
     Fix Map Scrolling Bug 

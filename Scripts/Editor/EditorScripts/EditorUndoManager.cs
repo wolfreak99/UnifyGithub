@@ -5,19 +5,22 @@
  *
  * Author: Daniele Giardini (Holoville) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - HOEditorUndoManager.cs 
+ *   
+ * C# Example - Inspector with single source 
+ *   
+ * C# Example - Window with multiple sources 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - HOEditorUndoManager.cs 
-    4 C# Example - Inspector with single source 
-    5 C# Example - Window with multiple sources 
-    
     DescriptionThis class allows to manage undo/redo inside any Unity Inspector or Window in an effortless and functional way. It stores undo snapshots only when they're needed (taking into account also TAB field changes and sliders), so that using Unity's undo/redo system correctly undoes/redoes the effective changes that took place. 
     Works also with windows who manage multiple sources (see examples). 
     

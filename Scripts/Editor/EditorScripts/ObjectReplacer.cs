@@ -5,18 +5,20 @@
  *
  * Author: Xadhoom 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Known Issues 
+ *   
+ * C# - ObjectReplacer.cs (Developed for Unity 3.5) 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Editor.EditorScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Known Issues 
-    4 C# - ObjectReplacer.cs (Developed for Unity 3.5) 
-    
     Description Adds a new editor window at menu Custom→Replace Objects. The editor window allows easy replacement of child objects by name by a selected prefab. The editor window expects the object to be dropped in the appropriate object field. A list of transitions can be configured. For each transition its possible to define how the source/replacement transition should be handled. A quick check list on the right side shows which objects will be replaced. The "save"/"load" button manages external transition files which can be saved or loaded here. Finally the Apply button changes replaces the prefab accordingly. 
     Background information can be found here: http://trianglestrip.blogspot.de/2012/07/object-replacer-editor-script.html 
     Usage You must place the script in a folder named Editor in your project's Assets folder for it to work properly. 

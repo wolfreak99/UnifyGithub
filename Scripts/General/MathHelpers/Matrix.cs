@@ -3,20 +3,24 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MathHelpers/Matrix.cs
  * File based on original modification date of: 18 January 2013, at 18:28. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Optimizations 
+ *   
+ * Summary 
+ *   
+ * History 
+ *   
+ * C# - Matrix.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MathHelpers
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Optimizations 
-    4 Summary 
-    5 History 
-    6 C# - Matrix.cs 
-    
     Description This snippet is my matrix class. I use this class when I can't get Unity's internal rotation and 3D math functions to do exactly what I want. It's pretty easy to use and the functions are discrete. 
     Usage Below are some basic usage patterns to get you going and to let you see how the class works. 
     Rotate Around Yaw - Rotate an object around it's Y axis. 

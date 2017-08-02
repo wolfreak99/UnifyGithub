@@ -5,19 +5,22 @@
  *
  * Author: runevision 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Troubleshooting 
+ *   
+ * C# - HeadLookController.cs 
+ *   
+ * JavaScript - HeadLookController.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Troubleshooting 
-    4 C# - HeadLookController.cs 
-    5 JavaScript - HeadLookController.js 
-    
     DescriptionThis script can be used to make a character look towards a specified point in space, smoothly turning towards it with for example the eyes, head, upper body, or whatever is specified. Multiple ranges of bones can be specified, each with different settings for responsiveness, angle constraints etc. 
     UsageDrop this script onto a GameObject; typically the root. In the inspector, set the length of the Segments array and specify the settings for each segment. Optionally a list of joints to not be affected can be specified in the Non Affected Joints array. This is to make certain transforms keep their original orientation even though they are children of transforms specified in one of the segments. For example you can have the upper body bend, but set the joints for the shoulders to not be affected (or to be only affected a little). 
     There is more information and a demo video at the Unity Blog here: http://blogs.unity3d.com/2009/07/10/just-looking-around/ 

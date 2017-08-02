@@ -5,18 +5,20 @@
  *
  * Author: Berenger 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Example 
+ *   
+ * C# - KeyboardEventManager .cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Example 
-    4 C# - KeyboardEventManager .cs 
     
     Description An event based keyboard input mager. You can associate one or several functions with a KeyCode. That way, you can detect several keys at a time. 
     Usage KeyboardEventManager inherit from MonoBehaviour so you need to put it on a game object. It uses a singleton pattern so you can access it's instance from anywhere. To add an event, use the functions RegisterKeyDown or RegisterKeyUp. To remove an event, use the functions UnregisterKeyDown or UnregisterKeyUp. To remove a key completely, use RemoveKey. Remark : Only the keys with a least one event on up or on down are checked with Input.GetKey... 

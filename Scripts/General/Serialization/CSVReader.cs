@@ -5,6 +5,20 @@
  *
  * Author: Dock : This is my first time adding a script the Unity wiki :) 
  *
+ * Info 
+ *   
+ * Usage 
+ *   
+ * Known Issues 
+ *   
+ * CSVReader.cs 
+ *   
+ * ReadDemo.cs 
+ *   
+ * ReadDemo.js 
+ *   
+ * ExampleCSV.txt 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -13,15 +27,6 @@ namespace UnifyGithub.General.Serialization
 {
     
     
-    
-    Contents [hide] 
-    1 Info 
-    2 Usage 
-    3 Known Issues 
-    4 CSVReader.cs 
-    5 ReadDemo.cs 
-    6 ReadDemo.js 
-    7 ExampleCSV.txt 
     
     Info This is just a simple CSVReader for reading 'Comma Separated Value' text output. It should also work with Tab separated values. It uses Regex to do some of the splitting. 
     Usage Just stick it in your plugins folder and you can access it from JS or C#. 

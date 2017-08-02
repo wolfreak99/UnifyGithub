@@ -5,18 +5,20 @@
  *
  * Author: Sakar 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - ClickToMove.js 
+ *   
+ * Behavior 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.CharacterControllerScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - ClickToMove.js 
-    4 Behavior 
-    
     DescriptionThis script will move an object towards the mouse position when the left mouse button is clicked. 
     UsageSimply attach the script towards the object you wish to have move towards the mouse. Change the smooth value to alter the speed at which the object moves. 
     JavaScript - ClickToMove.js// Click To Move script

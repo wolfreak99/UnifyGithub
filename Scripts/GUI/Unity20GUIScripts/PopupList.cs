@@ -5,23 +5,30 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Javascript - PopupListUsageExample.js 
+ *   
+ * C# - Popup.cs 
+ *   
+ * C# - Popup.cs - Updated 
+ *   
+ * C# - Popup.cs - Multi-Instance Support 
+ *   
+ * C# - ComboBox - Update 
+ *   
+ * C# Example Class 
+ *   
+ * C# Example Class 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.Unity20GUIScripts
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Javascript - PopupListUsageExample.js 
-    4 C# - Popup.cs 
-    5 C# - Popup.cs - Updated 
-    6 C# - Popup.cs - Multi-Instance Support 
-    7 C# - ComboBox - Update 
-    8 C# Example Class 
-    9 C# Example Class 
     
     Description Creates a popup list button as an extension to OnGUI. When the button is clicked, a selectable list pops up, and disappears when the mouse button is released. 
      

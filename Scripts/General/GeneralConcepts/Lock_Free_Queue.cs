@@ -5,18 +5,20 @@
  *
  * Author: Fredrik Ludvigsen (Steinbitglis) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Compatibility note 
+ *   
+ * C# - LockFreeQueue.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.GeneralConcepts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Compatibility note 
-    4 C# - LockFreeQueue.cs 
-    
     Description This queue lets you simultaneously enqueue and dequeue items, even from multiple threads. 
     Usage Instantiate a LockFreeQueue<T> for your specific data type, and use the queue to send stuff one way to / from other worker threads etc. 
     Use two queues for two way communication with your custom threads. 

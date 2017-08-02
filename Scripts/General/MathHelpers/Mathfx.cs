@@ -3,19 +3,22 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/MathHelpers/Mathfx.cs
  * File based on original modification date of: 18 June 2016, at 17:10. 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * History 
+ *   
+ * C# - Mathfx.cs 
+ *   
+ * Js - Mathfx.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MathHelpers
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 History 
-    4 C# - Mathfx.cs 
-    5 Js - Mathfx.js 
-    
     Description The following snippet provides short functions for floating point numbers. See the usage section for individualized information. 
     Usage Hermite - This method will interpolate while easing in and out at the limits. 
      

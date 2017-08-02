@@ -5,20 +5,24 @@
  *
  * Author: Neil Carter (NCarter) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Technical Discussion 
+ *   
+ * C# - CameraFacingBillboard.cs 
+ *   
+ * Mods 
+ *   
+ * Alternative Mod 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Effects.GeneralPurposeEffectScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Technical Discussion 
-    4 C# - CameraFacingBillboard.cs 
-    5 Mods 
-    6 Alternative Mod 
-    
     DescriptionThis script makes the object which it is attached to align itself with the camera. This is useful for billboards which should always face the camera and be the same way up as it is. 
     UsagePlace this script on a GameObject that you want to face the camera. Then, with the object selected, use the inspector to select the Camera you want the object to face. 
     You might want to change Vector3.back to Vector3.front, depending on the initial orientation of your object. 

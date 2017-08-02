@@ -5,18 +5,20 @@
  *
  * Author: Joseph Quigley (CPUFreak91) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - BlinkingCursor.js 
+ *   
+ * C# - BlinkingCursor.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.Unity20GUIScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - BlinkingCursor.js 
-    4 C# - BlinkingCursor.cs 
-    
     DescriptionThis script will allow you to display a blinking cursor (which can be any character, but I'm using an underline). 
     UsageAssign this behavior to any GameObject. It was designed to work with the example in the Input String Example in the Unity docs, so you may want to move this code into your input-related scripts. Append the cursorChar variable to the end of your input string. Example: 
     GUI.Label (Rect(400,35, 200, 70), "Type Your Name: " + nameString + cursorChar);JavaScript - BlinkingCursor.js//These are made private so that they don't appear in the Inspector

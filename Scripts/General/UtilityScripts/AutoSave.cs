@@ -5,18 +5,20 @@
  *
  * Author: Melle Heeres 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Update 
+ *   
+ * C# - AutoSave.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Update 
-    4 C# - AutoSave.cs 
-    
     Description This script creates a new window in the editor with a autosave function. It is saving your current scene with an interval from 1 minute to 10 minutes. 
     Usage Create a new script called AutoSave.cs in the folder: Assets/Editor. Activate autosave via window > autosave. 
     This script is tested, but usage is at your own risk. 

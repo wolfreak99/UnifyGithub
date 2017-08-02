@@ -3,6 +3,14 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/DataStructureUtils/ParallelKeyDictionary.cs
  * File based on original modification date of: 26 March 2012, at 20:12. 
  *
+ * Description 
+ *   
+ * Example JS 
+ *   
+ * Example CSharp 
+ *   
+ * ParallelKeyDictionary.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -10,12 +18,6 @@
 namespace UnifyGithub.General.DataStructureUtils
 {
     Author : Berenger, Mars 2012 
-    Contents [hide] 
-    1 Description 
-    2 Example JS 
-    3 Example CSharp 
-    4 ParallelKeyDictionary.cs 
-    
     Description You can use this data structure as a Dictionary. The difference is that you can add the same key several times, then access either the first occurence of that key or a list containing them all. 
     Example JS 	var test : ParallelKeyDictionary.< int, String > = new ParallelKeyDictionary.< int, String >();
     	test.Add(0, "first");

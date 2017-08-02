@@ -5,18 +5,20 @@
  *
  * Author: Tom Vogt (tom@lemuria.org) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * JavaScript - SoundManager.js 
+ *   
+ * JavaScript - MusicTrigger.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Sound.Sound
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 JavaScript - SoundManager.js 
-    4 JavaScript - MusicTrigger.js 
-    
     DescriptionTwo scripts I use to add a bit of dynamic music. The first script takes a list of songs and will play through them, repeating with the first when he reaches the last one. The second script allows interruption of the background music with event-driven clips, after which the background music will continue. 
     
     

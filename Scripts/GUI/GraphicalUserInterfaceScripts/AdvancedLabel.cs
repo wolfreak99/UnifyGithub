@@ -5,18 +5,20 @@
  *
  * Author: Bérenger 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * C# - AdvancedLabel.cs 
+ *   
+ * JS - AdvancedLabel.js 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.GUI.GraphicalUserInterfaceScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 C# - AdvancedLabel.cs 
-    4 JS - AdvancedLabel.js 
-    
     Description Display a label the way you're used to, and add the modifiers you need. You can draw a label with a specific size, color, font, color or alignement (feel free to add new ones), any changes are reversed after the label is drawn. This is a much simpler but less powerfull alternative to fancy labels (http://forum.unity3d.com/threads/9549-FancyLabel-Multicolor-and-Multifont-label/) 
     Usage Just use the static class AdvancedLabel as you would use GUI or GUILayout. The functions are Draw and DrawLayout. 
     Here is an example : 

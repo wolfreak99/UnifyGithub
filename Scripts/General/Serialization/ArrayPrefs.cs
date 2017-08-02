@@ -5,28 +5,40 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Contributions 
+ *   
+ * Description 
+ *   
+ * Usage 
+ *   
+ * SetVector3 
+ *   
+ * GetVector3 
+ *   
+ * SetIntArray 
+ *   
+ * GetIntArray 
+ *   
+ * SetFloatArray 
+ *   
+ * GetFloatArray 
+ *   
+ * SetStringArray 
+ *   
+ * GetStringArray 
+ *   
+ * JavaScript - PlayerPrefsX.js 
+ *   
+ * C# - PlayerPrefsX.cs 
+ *   
+ * C# - EditorPrefsX.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.Serialization
 {
-    Contents [hide] 
-    1 Contributions 
-    2 Description 
-    3 Usage 
-    4 SetVector3 
-    5 GetVector3 
-    6 SetIntArray 
-    7 GetIntArray 
-    8 SetFloatArray 
-    9 GetFloatArray 
-    10 SetStringArray 
-    11 GetStringArray 
-    12 JavaScript - PlayerPrefsX.js 
-    13 C# - PlayerPrefsX.cs 
-    14 C# - EditorPrefsX.cs 
-    
     Contributions (Set/Get Vector3) 03/2010: Mario Madureira Fontes (fontmaster) 
     (Created CSharp Version) 10/2010: Daniel P. Rossi (DR9885) 
     (Inherit PlayerPrefs Functionality) 10/2010: Daniel P. Rossi (DR9885) 

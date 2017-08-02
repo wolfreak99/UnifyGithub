@@ -5,6 +5,14 @@
  *
  * Author: Michael Garforth 
  *
+ * Overview 
+ *   
+ * Use 
+ *   
+ * Example - TestLayers.cs 
+ *   
+ * C# - LayerMaskExtensions.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
@@ -12,12 +20,6 @@
 namespace UnifyGithub.General.UtilityScripts
 {
     
-    
-    Contents [hide] 
-    1 Overview 
-    2 Use 
-    3 Example - TestLayers.cs 
-    4 C# - LayerMaskExtensions.cs 
     
     OverviewThis C# class gives simple extension access to manipulating and debugging LayerMasks. 
     Due to the way UnityScript/Javascript compiles extension methods, it's not accessible in the same way, so you need to call the functions with the class name and the first parameter as the instance, for example LayerMaskExtensions.AddToMask(mask, names) 

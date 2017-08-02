@@ -5,20 +5,24 @@
  *
  * Author: Luka Kotar (LukaKotar) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * AspectRatio.cs 
+ *   
+ * AspectRatio.js 
+ *   
+ * AspectRatioCalculator.cs (Editor Window) 
+ *   
+ * Download as Unity package 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.General.MathHelpers
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 AspectRatio.cs 
-    4 AspectRatio.js 
-    5 AspectRatioCalculator.cs (Editor Window) 
-    6 Download as Unity package 
-    
     DescriptionThis simple class allows you to quickly find out an aspect ratio between two values. Example: if you pass 1280 and 720 (or 1280 x 720 as Vector2) into the function, it will return 16 x 9 as Vector2. 
     Note: Providing a resolution with an invalid aspect ratio will provide incorrect results, or in rare cases even cause your game/Unity to freeze! Setting the aspect ratio in the "Game" view inside the Unity editor will usually work, but it will sometimes provide incorrect results. For example: setting the aspect ratio to 16:9 in the Game view provides a resolution to 1060 x 569, and the result provided by the script is 265:149. If used to calculate the aspect ratio of the user's screen resolution, this script is only useful for fullscreen usage, and windowed with disabled resizing. (Edit > Project Settings > Player > Resizable Window) Also note that the 16:10 aspect ratio will return 8:5. (16/2=8 & 10/2=5, therefore 16:10=8:5) 
     UsageYou do not need to attach the script to any game object. 

@@ -5,18 +5,20 @@
  *
  * Author: Donitz 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Ocean.cs 
+ *   
+ * Floater.cs 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Physics.SimulationScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Ocean.cs 
-    4 Floater.cs 
-    
     DescriptionThe Ocean component simulates an endless scrolling ocean by morphing a water mesh centered on the camera. The water mesh reacts to wave emitters and the movement of the camera, giving it the illusion that the ocean is scrolling. Floater components can be used to provide simple buoyancy physics for boats and other objects. 
     UsageAttach the Ocean component to an object with a MeshFilter and Renderer. The mesh will be automatically created when the game starts. To make the water material scroll as the camera moves around you need to set the texture offset manually in the SetTextureOffset method. 
     Attach the Floaters to empty objects and add them to several points in an object with a RigidBody to give that point lift as it moves beneath the water surface. 

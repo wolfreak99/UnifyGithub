@@ -5,20 +5,24 @@
  *
  * Author: Eric Haines (Eric5h5) 
  *
+ * Description 
+ *   
+ * Usage 
+ *   
+ * Example 
+ *   
+ * JavaScript - MoveObject.js 
+ *   
+ * C# - MoveObject.cs 
+ *   
+ * Usage Example in C# 
+ *   
  * This file has not yet been properly formatted, feel free to contribute!
  *
  *************************/
 
 namespace UnifyGithub.Controllers.AnimationControllers
 {
-    
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Example 
-    4 JavaScript - MoveObject.js 
-    5 C# - MoveObject.cs 
-    6 Usage Example in C# 
     
     Description Simple routines for moving an object from point A to point B (either over a specified time, or at a certain rate) and rotating by a given number of degrees over time. For more advanced animation, try AniMate, Tween, or iTween. 
     Usage READ THIS ENTIRE PARAGRAPH AND DO EVERYTHING IT SAYS! Put this script in your Plugins folder; this way it can be easily used from C# or Boo. The script should be named "MoveObject". The script must be attached to some object in the scene, such as an empty object used for game manager scripts. You then use the coroutines by calling MoveObject.use.Translation or MoveObject.use.Rotation. Since they're coroutines, just call them when needed; no need for Update. 
