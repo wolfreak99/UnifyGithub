@@ -3,26 +3,19 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/DrawGizmoGrid.cs
  * File based on original modification date of: 17 January 2016, at 06:25. 
  *
- * Author 
+ * Author: Hayden Scott-Baron (@docky) - http://twitter.com/docky 
  *   
  * Description 
- *   
+ *   This adds a handy reference grid to the scene. 
  * Usage 
- *   
- * UnityScript - DrawGizmoGrid.cs 
- *   
- * This file has not yet been properly formatted, feel free to contribute!
- *
+ *   Place this script anywhere in your project, then drag it onto a blank gameobject. 
+ *   note: It will automatically rename and centre this gameobject upon first use. 
+ * 
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    AuthorHayden Scott-Baron (@docky) - http://twitter.com/docky 
-    DescriptionThis adds a handy reference grid to the scene. 
-     
-    UsagePlace this script anywhere in your project, then drag it onto a blank gameobject. 
-    note: It will automatically rename and centre this gameobject upon first use. 
-    UnityScript - DrawGizmoGrid.csusing UnityEngine;
+    using UnityEngine;
     using System.Collections;
      
     // DrawGizmoGrid.cs
