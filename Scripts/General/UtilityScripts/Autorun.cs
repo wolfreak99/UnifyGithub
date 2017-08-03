@@ -1,15 +1,17 @@
+
 /*************************
  * Original url: http://wiki.unity3d.com/index.php/Autorun
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/Autorun.cs
  * File based on original modification date of: 10 January 2012, at 20:44. 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * Save this script as Autorun.cs in your Editor folder.
  *
  *************************/
-
+ 
+#if UNITY_EDITOR
 namespace UnifyGithub.General.UtilityScripts
 {
-    Save this script as Autorun.cs in your Editor folder: 
+   
     using UnityEngine;
     using UnityEditor;
     // from the excellent http://answers.unity3d.com/questions/45186/can-i-auto-run-a-script-when-editor-launches-or-a.html
@@ -35,3 +37,4 @@ namespace UnifyGithub.General.UtilityScripts
         }
     }
 }
+#endif
