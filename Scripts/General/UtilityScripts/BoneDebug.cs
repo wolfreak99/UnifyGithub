@@ -5,14 +5,15 @@
  *
  * Author: Jesper Taxbøl 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * Description
+ *   This is a simple C# script I am using when debugging animations. 
+ *   It allows you to see the bones of a character, revealing details that can be hard to see through skinning. 
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    Description This is a simple C# script I am using when debugging animations. 
-    It allows you to see the bones of a character, revealing details that can be hard to see through skinning. 
+    
      using UnityEngine;
      using System.Collections;
      [ExecuteInEditMode]
