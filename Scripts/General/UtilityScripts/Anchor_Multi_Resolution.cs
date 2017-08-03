@@ -96,7 +96,7 @@ namespace UnifyGithub.General.UtilityScripts
     		}
      
     		if (Camera.main != null ){
-                if (Camera.main.isOrthoGraphic ){
+                if (Camera.main.orthographic){
     				mainCamera = Camera.main.transform;
     				orthoSize  = Camera.main.orthographicSize;
     			}
