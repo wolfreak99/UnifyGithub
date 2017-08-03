@@ -13,16 +13,15 @@
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    
-     using UnityEngine;
-     using System.Collections;
-     [ExecuteInEditMode]
-     public class BoneDebug : MonoBehaviour
-     {
+
+    using UnityEngine;
+    using System.Collections;
+    [ExecuteInEditMode]
+    public class BoneDebug : MonoBehaviour
+    {
         void drawbone(Transform t)
         {
-            foreach (Transform child in t)
-            {
+            foreach (Transform child in t) {
                 float len = 0.05f;
                 Vector3 loxalX = new Vector3(len, 0, 0);
                 Vector3 loxalY = new Vector3(0, len, 0);
@@ -41,5 +40,5 @@ namespace UnifyGithub.General.UtilityScripts
         {
             drawbone(transform);
         }
- }
+    }
 }
