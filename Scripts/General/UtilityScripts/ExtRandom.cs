@@ -6,12 +6,77 @@
  * Article Original Author: Dreamblur 
  *
  * Description 
- *   
+ *   ExtRandom is an extension of the Unity class Random. Its main purpose is to automate the common operations which implement the Random class. 
  * Usage 
- *   
+ *   Place the ExtRandom script in your project's Standard Assets folder.
  * Methods 
- *   
- * ExtRandom.cs 
+     RandomizeSeed() 
+     SplitChance() 
+     Chance(int, int) 
+     Choice(T[]) 
+     Choice(List<T>) 
+     WeightedChoice(T[], int[]) 
+     WeightedChoice(List<T>, int[]) 
+     Shuffle(T[]) 
+     Shuffle(List<T>) 
+    
+     ExtRandom<T>.RandomizeSeed() 
+     public static void RandomizeSeed()
+ *     This method sets a random seed for the RNG using 2 convoluted formulas. Using this method at any time other than during downtime is not recommended. This method will never see use 99.9% of the time, but is available in cases where a truly random seed is required. 
+    
+    ExtRandom<T>.SplitChance() 
+    public static bool SplitChance()
+ *    This method returns either true or false with an equal chance. 
+    
+    ExtRandom<T>.Chance(int, int) 
+    public static bool Chance(int nProbabilityFactor, int nProbabilitySpace)
+ *    This method returns either true or false with the chance of the former derived from the parameters passed to the method. 
+    ExtRandom<int>.Chance(1, 10);
+ *    The above code has a 10% chance of returning true. 
+    
+    ExtRandom<T>.Choice(T[]) 
+    public static T Choice(T[] array)
+ *    This method returns a random element chosen from an array of elements. 
+    string[] strArray = new string[3] {"sun", "moon", "star"};
+    ExtRandom<string>.Choice(strArray);
+ *    The above code has a 33.3% chance of returning "sun", a 33.3% chance of returning "moon" and a 33.3% chance of returning "star". 
+    
+    ExtRandom<T>.Choice(List<T>) 
+    public static T Choice(List<T> list)
+ *    This method returns a random element chosen from a list of elements. 
+    List<string> strList = new List<string>(3) {"sun", "moon", "star"};
+    ExtRandom<string>.Choice(strList);
+ *    The above code has a 33.3% chance of returning "sun", a 33.3% chance of returning "moon" and a 33.3% chance of returning "star". 
+    
+    ExtRandom<T>.WeightedChoice(T[], int[]) 
+    public static T WeightedChoice(T[] array, int[] nWeights)
+ *    This method returns a random element chosen from an array of elements based on the respective weights of the elements. 
+    string[] strArray = new string[3] {"sun", "moon", "star"};
+    int[] nWeights = new int[3] {10, 25, 65}
+    ExtRandom<string>.WeightedChoice(strArray, nWeights);
+ *    The above code has a 10% chance of returning "sun", a 25% chance of returning "moon" and a 65% chance of returning "star". 
+    
+    ExtRandom<T>.WeightedChoice(List<T>, int[]) 
+    public static T WeightedChoice(List<T> list, int[] nWeights)
+ *    This method returns a random element chosen from a list of elements based on the respective weights of the elements. 
+    List<string> strList = new List<string>(3) {"sun", "moon", "star"};
+    int[] nWeights = new int[3] {10, 25, 65}
+    ExtRandom<string>.WeightedChoice(strList, nWeights);
+ *    The above code has a 10% chance of returning "sun", a 25% chance of returning "moon" and a 65% chance of returning "star". 
+    
+    ExtRandom<T>.Shuffle(T[]) 
+    public static T[] Shuffle(T[] array)
+ *    This method rearranges the elements of an array randomly and returns the rearranged array. 
+    string[] strArray = new string[3] {"sun", "moon", "star"};
+    ExtRandom<string>.Shuffle(strArray);
+ *    The above code will shuffle the elements of strArray and return the shuffled array. 
+    
+    ExtRandom<T>.Shuffle(List<T>) 
+    public static List<T> Shuffle(List<T> list)
+ *    This method rearranges the elements of a list randomly and returns the rearranged list. 
+    List<string> strList = new List<string>(3) {"sun", "moon", "star"};
+    ExtRandom<string>.Shuffle(strList);
+ *    The above code will shuffle the elements of strList and return the shuffled list. 
  *   
  * Testing 
  *   
@@ -21,65 +86,9 @@
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    ExtRandom.cs v.1.0 Original Script Author: Dreamblur 
-    Description ExtRandom is an extension of the Unity class Random. Its main purpose is to automate the common operations which implement the Random class. 
-    Usage Place the ExtRandom script in your project's Standard Assets folder. 
-    Methods RandomizeSeed() 
-    SplitChance() 
-    Chance(int, int) 
-    Choice(T[]) 
-    Choice(List<T>) 
-    WeightedChoice(T[], int[]) 
-    WeightedChoice(List<T>, int[]) 
-    Shuffle(T[]) 
-    Shuffle(List<T>) 
-    
-    ExtRandom<T>.RandomizeSeed() 
-    public static void RandomizeSeed()This method sets a random seed for the RNG using 2 convoluted formulas. Using this method at any time other than during downtime is not recommended. This method will never see use 99.9% of the time, but is available in cases where a truly random seed is required. 
-    
-    ExtRandom<T>.SplitChance() 
-    public static bool SplitChance()This method returns either true or false with an equal chance. 
-    
-    ExtRandom<T>.Chance(int, int) 
-    public static bool Chance(int nProbabilityFactor, int nProbabilitySpace)This method returns either true or false with the chance of the former derived from the parameters passed to the method. 
-    ExtRandom<int>.Chance(1, 10);The above code has a 10% chance of returning true. 
-    
-    ExtRandom<T>.Choice(T[]) 
-    public static T Choice(T[] array)This method returns a random element chosen from an array of elements. 
-    string[] strArray = new string[3] {"sun", "moon", "star"};
-    ExtRandom<string>.Choice(strArray);The above code has a 33.3% chance of returning "sun", a 33.3% chance of returning "moon" and a 33.3% chance of returning "star". 
-    
-    ExtRandom<T>.Choice(List<T>) 
-    public static T Choice(List<T> list)This method returns a random element chosen from a list of elements. 
-    List<string> strList = new List<string>(3) {"sun", "moon", "star"};
-    ExtRandom<string>.Choice(strList);The above code has a 33.3% chance of returning "sun", a 33.3% chance of returning "moon" and a 33.3% chance of returning "star". 
-    
-    ExtRandom<T>.WeightedChoice(T[], int[]) 
-    public static T WeightedChoice(T[] array, int[] nWeights)This method returns a random element chosen from an array of elements based on the respective weights of the elements. 
-    string[] strArray = new string[3] {"sun", "moon", "star"};
-    int[] nWeights = new int[3] {10, 25, 65}
-    ExtRandom<string>.WeightedChoice(strArray, nWeights);The above code has a 10% chance of returning "sun", a 25% chance of returning "moon" and a 65% chance of returning "star". 
-    
-    ExtRandom<T>.WeightedChoice(List<T>, int[]) 
-    public static T WeightedChoice(List<T> list, int[] nWeights)This method returns a random element chosen from a list of elements based on the respective weights of the elements. 
-    List<string> strList = new List<string>(3) {"sun", "moon", "star"};
-    int[] nWeights = new int[3] {10, 25, 65}
-    ExtRandom<string>.WeightedChoice(strList, nWeights);The above code has a 10% chance of returning "sun", a 25% chance of returning "moon" and a 65% chance of returning "star". 
-    
-    ExtRandom<T>.Shuffle(T[]) 
-    public static T[] Shuffle(T[] array)This method rearranges the elements of an array randomly and returns the rearranged array. 
-    string[] strArray = new string[3] {"sun", "moon", "star"};
-    ExtRandom<string>.Shuffle(strArray);The above code will shuffle the elements of strArray and return the shuffled array. 
-    
-    ExtRandom<T>.Shuffle(List<T>) 
-    public static List<T> Shuffle(List<T> list)This method rearranges the elements of a list randomly and returns the rearranged list. 
-    List<string> strList = new List<string>(3) {"sun", "moon", "star"};
-    ExtRandom<string>.Shuffle(strList);The above code will shuffle the elements of strList and return the shuffled list. 
-    
-    
-    ExtRandom.cs using UnityEngine;
+    using UnityEngine;
     using System.Collections.Generic;
-     
+
     public class ExtRandom<T>
     {
         public static void RandomizeSeed()
@@ -87,105 +96,98 @@ namespace UnifyGithub.General.UtilityScripts
             Random.seed = System.Math.Abs(((int)(System.DateTime.Now.Ticks % 2147483648l) - (int)(Time.realtimeSinceStartup + 2000f)) / ((int)System.DateTime.Now.Day - (int)System.DateTime.Now.DayOfWeek * System.DateTime.Now.DayOfYear));
             Random.seed = System.Math.Abs((int)((Random.value * (float)System.DateTime.Now.Ticks * (float)Random.Range(0, 2)) + (Random.value * Time.realtimeSinceStartup * Random.Range(1f, 3f))) + 1);
         }
-     
+
         public static bool SplitChance()
         {
             return Random.Range(0, 2) == 0 ? true : false;
         }
-     
+
         public static bool Chance(int nProbabilityFactor, int nProbabilitySpace)
         {
             return Random.Range(0, nProbabilitySpace) < nProbabilityFactor ? true : false;
         }
-     
+
         public static T Choice(T[] array)
         {
             return array[Random.Range(0, array.Length)];
         }
-     
+
         public static T Choice(List<T> list)
         {
             return list[Random.Range(0, list.Count)];
         }
-     
+
         public static T WeightedChoice(T[] array, int[] nWeights)
         {
             int nTotalWeight = 0;
-            for(int i = 0; i < array.Length; i++)
-            {
+            for (int i = 0; i < array.Length; i++) {
                 nTotalWeight += nWeights[i];
             }
             int nChoiceIndex = Random.Range(0, nTotalWeight);
-            for(int i = 0; i < array.Length; i++)
-            {
-                if(nChoiceIndex < nWeights[i])
-                {
+            for (int i = 0; i < array.Length; i++) {
+                if (nChoiceIndex < nWeights[i]) {
                     nChoiceIndex = i;
                     break;
                 }
                 nChoiceIndex -= nWeights[i];
             }
-     
+
             return array[nChoiceIndex];
         }
-     
+
         public static T WeightedChoice(List<T> list, int[] nWeights)
         {
             int nTotalWeight = 0;
-            for(int i = 0; i < list.Count; i++)
-            {
+            for (int i = 0; i < list.Count; i++) {
                 nTotalWeight += nWeights[i];
             }
             int nChoiceIndex = Random.Range(0, nTotalWeight);
-            for(int i = 0; i < list.Count; i++)
-            {
-                if(nChoiceIndex < nWeights[i])
-                {
+            for (int i = 0; i < list.Count; i++) {
+                if (nChoiceIndex < nWeights[i]) {
                     nChoiceIndex = i;
                     break;
                 }
                 nChoiceIndex -= nWeights[i];
             }
-     
+
             return list[nChoiceIndex];
         }
-     
+
         public static T[] Shuffle(T[] array)
         {
             T[] shuffledArray = new T[array.Length];
             List<int> elementIndices = new List<int>(0);
-            for(int i = 0; i < array.Length; i++)
-            {
+            for (int i = 0; i < array.Length; i++) {
                 elementIndices.Add(i);
             }
             int nArrayIndex;
-            for(int i = 0; i < array.Length; i++)
-            {
+            for (int i = 0; i < array.Length; i++) {
                 nArrayIndex = elementIndices[Random.Range(0, elementIndices.Count)];
                 shuffledArray[i] = array[nArrayIndex];
                 elementIndices.Remove(nArrayIndex);
             }
-     
+
             return shuffledArray;
         }
-     
+
         public static List<T> Shuffle(List<T> list)
         {
             List<T> shuffledList = new List<T>(0);
             int nListCount = list.Count;
             int nElementIndex;
-            for(int i = 0; i < nListCount; i++)
-            {
+            for (int i = 0; i < nListCount; i++) {
                 nElementIndex = Random.Range(0, list.Count);
                 shuffledList.Add(list[nElementIndex]);
                 list.RemoveAt(nElementIndex);
             }
-     
+
             return shuffledList;
         }
     }
-    
-    Testing The following script can be used to test the statistical accuracy of the methods of the ExtRandom class. This script is not required to use ExtRandom. 
+
+    // Testing 
+    // The following script can be used to test the statistical accuracy of the methods of the ExtRandom class. This script is not required to use ExtRandom. 
+#if EXTRANDOM_EXAMPLE
     using UnityEngine;
     using System.Collections;
     using System.Collections.Generic;
@@ -503,5 +505,6 @@ namespace UnifyGithub.General.UtilityScripts
             List<string> strShuffled = ExtRandom<string>.Shuffle(strChoices);
             Debug.Log("Shuffled: " + strShuffled[0].ToString() + "  ,  " + strShuffled[1].ToString() + "  ,  " + strShuffled[2].ToString() + "  ,  " + strShuffled[3].ToString() + "  ,  " + strShuffled[4].ToString() + "  ,  " + strShuffled[5].ToString());
         }
-}
+    }
+#endif
 }
