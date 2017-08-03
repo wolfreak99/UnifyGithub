@@ -3,28 +3,25 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/ComponentInstantiationUtility.cs
  * File based on original modification date of: 10 January 2012, at 20:45. 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * Description 
+ *   This is a static helper class that will create a new, parented GameObject with a specified component type attached 
+ *   using just one line of code. 
+ * Usage 
+     // Create a new game object with component AIPlayer and set the player's mood using setMood() function within my custom component
+     AIPlayer myNewAIPlayer = Static_Utils.newScriptedGO<AIPlayer>(this);
+     
+     // Static_Utils returns a reference to the component so we can now call our own methods and functions within AIPlayer directly...
+     myNewAIPlayer.setMood("Happy");
+     // and because of inheritance we can set the name of the object easily...
+     myNewAIPlayer.name = "Steve";
+     // and position it
+     myNewAIPlayer.transform.position = new Vector3(0,1,0);Code CSharp - Static_Utils.cs 
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Code 
-    3.1 CSharp - Static_Utils.cs 
-    
-    Description This is a static helper class that will create a new, parented GameObject with a specified component type attached using just one line of code. 
-    Usage // Create a new game object with component AIPlayer and set the player's mood using setMood() function within my custom component
-    AIPlayer myNewAIPlayer = Static_Utils.newScriptedGO<AIPlayer>(this);
-     
-    // Static_Utils returns a reference to the component so we can now call our own methods and functions within AIPlayer directly...
-    myNewAIPlayer.setMood("Happy");
-    // and because of inheritance we can set the name of the object easily...
-    myNewAIPlayer.name = "Steve";
-    // and position it
-    myNewAIPlayer.transform.position = new Vector3(0,1,0);Code CSharp - Static_Utils.cs using UnityEngine;
+    using UnityEngine;
     using System.Collections;
     using System.Collections.Generic;
      
