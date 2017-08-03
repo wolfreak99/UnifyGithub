@@ -27,6 +27,9 @@ namespace UnifyGithub.GUI.Unity20GUIScripts
         private bool cursor = false;
         private string cursorChar = "";
         private int maxStringLength = 24;
+        
+        // TODO UnifyGithub: figure out what "enteredString" was supposed to be. this line was originally missing
+        public string enteredString;
 
         void Update()
         {
