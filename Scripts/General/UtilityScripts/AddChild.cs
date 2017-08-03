@@ -5,21 +5,23 @@
  *
  * Author: Neil Carter (NCarter) 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * Description
+ *   Adds an empty GameObject as a child of each selected object. This may sometimes be preferable to the built-in 
+ *   GameObject→Create Empty command, as it saves you from having to hunt in the hierarchy for the newly created object. 
+ * Usage
+ *   You must place the script in a folder named Editor in your project's Assets folder for it to work properly. 
+ *     Select some objects in the Scene view or Hierarchy window, then choose GameObject→+Add Child from the 
+ *     menu (or press control N). Each selected object will have a new child object added to it. 
+ *   The newly created child objects are named _null to make them sort towards the top of the Hierarchy list. 
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    Description Adds an empty GameObject as a child of each selected object. This may sometimes be preferable to the built-in GameObject→Create Empty command, as it saves you from having to hunt in the hierarchy for the newly created object. 
-    Usage You must place the script in a folder named Editor in your project's Assets folder for it to work properly. 
-    Select some objects in the Scene view or Hierarchy window, then choose GameObject→+Add Child from the menu (or press control N). Each selected object will have a new child object added to it. 
-    The newly created child objects are named _null to make them sort towards the top of the Hierarchy list. 
-    C# - AddChild.cs using UnityEngine;
+    using UnityEngine;
     using UnityEngine;
     using UnityEditor;
     using System.Collections;
-     
      
     public class AddChild : ScriptableObject
     {
