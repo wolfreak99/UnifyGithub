@@ -3,27 +3,31 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/Anchor_Multi_Resolution.cs
  * File based on original modification date of: 19 January 2013, at 15:04. 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * Overview
+ *   This is a simple anchor script that is created initially for implementing a GUI (without using OnGUI()) in 2D, but can 
+ *    also be used to anchor other GameObjects as well. 
+ *   It is currently only limited to orthographic camera (although may not be needed). 
+ *   Feel free to extend it as you see fit. 
+ * Usage
+ *    1. Tag your main camera as "MainCamera" (Unity has that tag by default). 
+ *    2. Remember to reset the GameObject transform to (0,0). You can edit it later in both Unity dimension or pixel wise insets. 
+ *    3. Attach the script to the GameObject and anchors away! 
+ * Optional: 
+ *   Read the somewhat short comments in the script to further personalize them for your usage. 
+ * Notes: 
+ *   You have to press Play first for the script to be able to find the correct screen resolution. 
+ * Changes 
+ *  19 Jan 2013: 
+ *  - Fixed NaN errors occurring during Unity initialization 
+ *  - Minor edit to sections for easier removal 
+ *  17 Jan 2013: 
+ *  - Implemented a boolean to toggle view on update 
+ *  - Fixed the public pixel insets so they should be able to display correctly now 
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    OverviewThis is a simple anchor script that is created initially for implementing a GUI (without using OnGUI()) in 2D, but can also be used to anchor other GameObjects as well. 
-    It is currently only limited to orthographic camera (although may not be needed). 
-    Feel free to extend it as you see fit. 
-    Usage1. Tag your main camera as "MainCamera" (Unity has that tag by default). 
-    2. Remember to reset the GameObject transform to (0,0). You can edit it later in both Unity dimension or pixel wise insets. 
-    3. Attach the script to the GameObject and anchors away! 
-    Optional: Read the somewhat short comments in the script to further personalize them for your usage. 
-    Notes: You have to press Play first for the script to be able to find the correct screen resolution. 
-    
-    
-    
-    
-    
-    
-    AnchorMultiResolution.cs 
     /// <summary>
     /// Multi Resolution Anchor
     /// *************
@@ -33,14 +37,16 @@ namespace UnifyGithub.General.UtilityScripts
     /// Free for any usage, modification, and distribution, which hereby granted by the decree of the Ministry of Magic.
     /// Ravenclaw represent!
     /// 
-    /// Usage: Attach this script to a GameObject. The anchors are called on Start(). Remove the Editor section (line 146 ~157) if you don't need them updating in the SceneView.
+    /// Usage: Attach this script to a GameObject. The anchors are called on Start(). Remove the Editor 
+    ///   section (line 146 ~157) if you don't need them updating in the SceneView.
     /// </summary>
      
     using UnityEngine;
     using System.Collections;
-     
-    [ExecuteInEditMode] // This allow us to store the position in scene view after pressing "Play". Editor class is located in the lower section for reference;
-     
+
+    // This allow us to store the position in scene view after pressing "Play". Editor class is located 
+    // in the lower section for reference;
+    [ExecuteInEditMode] 
      
     public class AnchorMultiResolution : MonoBehaviour
     {
@@ -69,10 +75,12 @@ namespace UnifyGithub.General.UtilityScripts
     	}
      
     	public ScreenAnchor anchor = ScreenAnchor.Center;
-     
-    	public float xTransform = 0; //Use these two to tune the current transform in SceneView. 
-    	public float yTransform = 0; //They are called in setAnchor since Inspector transform is freezed due to the Update() in the editor section at the bottom of this script 
-     
+
+        // Use these two to tune the current transform in SceneView. 
+        public float xTransform = 0; 
+    	// They are called in setAnchor since Inspector transform is freezed due to the Update() 
+        // in the editor section at the bottom of this script 
+        public float yTransform = 0; 
     	private float initX = 0, initY = 0;
      
     	void setAnchor(){
@@ -82,12 +90,13 @@ namespace UnifyGithub.General.UtilityScripts
      
     		// Get Camera section
     		if (Camera.main == null ){
-    			Debug.Log ("Main Camera not found. \n Camera must be TAGGED as \"MainCamera\" unless you want to set the ortho size manually or you prefer to use the default orthoSize as 1");
+    			Debug.Log ("Main Camera not found. \n Camera must be TAGGED as \"MainCamera\" unless you want" +
+                    "to set the ortho size manually or you prefer to use the default orthoSize as 1");
     			Debug.Log ("If you do not want to use the camera, check the script comments for more info.");
     		}
      
     		if (Camera.main != null ){
-    			if (Camera.main.isOrthoGraphic ){
+                if (Camera.main.isOrthoGraphic ){
     				mainCamera = Camera.main.transform;
     				orthoSize  = Camera.main.orthographicSize;
     			}
@@ -194,15 +203,5 @@ namespace UnifyGithub.General.UtilityScripts
     #endif
     /// End section ///
      
-    }--Hachibei (talk) 16:03, 19 January 2013 (CET) 
-    
-    
-    
-    Changes 
-    19 Jan 2013: 
-    - Fixed NaN errors occurring during Unity initialization 
-    - Minor edit to sections for easier removal 
-    17 Jan 2013: 
-    - Implemented a boolean to toggle view on update 
-    - Fixed the public pixel insets so they should be able to display correctly now 
+    } // --Hachibei (talk) 16:03, 19 January 2013 (CET) 
 }
