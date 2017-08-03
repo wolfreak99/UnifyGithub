@@ -3,42 +3,35 @@
  * Github url: https://github.com/wolfreak99/UnifyGithub/blob/master/Scripts/General/UtilityScripts/Bresenham3D.cs
  * File based on original modification date of: 19 May 2013, at 11:11. 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * Description
+ *   This is a simple class that will allow you to enumerate through a line's points in 3D. 
+ *   By default it will only return integral points (default step size of 1) but there is an overloaded method 
+ *     with which you can specify a different step size. 
+ * Usage
+ *   Using the default of 1 unit step size: 
+       Bresenham3D line = new Bresenham3D( new Vector3( 10, 10, 10 ), new Vector3( 25, 17, 5 ) );
+
+       foreach( Vector3 point in line )
+       {
+           Debug.Log( "Point on line: " + point );
+       }
+    
+ *   Specifying a different step size: 
+       Bresenham3D line = new Bresenham3D( new Vector3( 10, 10, 10 ), new Vector3( 25, 17, 5 ), 0.1f );
+     
+       foreach( Vector3 point in line )
+       {
+           Debug.Log( "Point on line at 0.1f intervals: " + point );
+       }
+ * Code
+ *   Please feel free to do what you like with this code. The only thing I ask is that you let me know if you 
+ *     use it for anything interesting :) 
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    Contents [hide] 
-    1 Description 
-    2 Usage 
-    3 Code 
-    3.1 CSharp - Bresenham3D.cs 
-    
-    Description This is a simple class that will allow you to enumerate through a line's points in 3D. 
-    By default it will only return integral points (default step size of 1) but there is an overloaded method with which you can specify a different step size. 
-    
-    
-    Usage Using the default of 1 unit step size: 
-    Bresenham3D line = new Bresenham3D( new Vector3( 10, 10, 10 ), new Vector3( 25, 17, 5 ) );
-     
-    foreach( Vector3 point in line )
-    {
-        Debug.Log( "Point on line: " + point );
-    }
-    
-    Specifying a different step size: 
-    Bresenham3D line = new Bresenham3D( new Vector3( 10, 10, 10 ), new Vector3( 25, 17, 5 ), 0.1f );
-     
-    foreach( Vector3 point in line )
-    {
-        Debug.Log( "Point on line at 0.1f intervals: " + point );
-    }
-    
-    Code Please feel free to do what you like with this code. The only thing I ask is that you let me know if you use it for anything interesting :) 
-    
-    
-    CSharp - Bresenham3D.cs // 3D Bresenham algorithm as an enumerable
+    // 3D Bresenham algorithm as an enumerable
     // Based on the original code from here: http://www.luberth.com/plotter/line3d.c.txt.html
     //
     // I'd love to hear from you if you do anything cool with this or have any suggestions :)
