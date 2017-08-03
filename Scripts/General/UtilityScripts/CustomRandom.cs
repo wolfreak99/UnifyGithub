@@ -5,14 +5,15 @@
  *
  * Overview Author: oPless 
  *
- * This file has not yet been properly formatted, feel free to contribute!
+ * A C# Portable random number generator, cut and pasted from an old library which in itself has been through umpteen 
+ * revisions, converted from java and now uses ISAAC and also has been converted from java. feel free to clean up the code 
+ * and add to it :) 
  *
  *************************/
 
 namespace UnifyGithub.General.UtilityScripts
 {
-    A C# Portable random number generator, cut and pasted from an old library which in itself has been through umpteen revisions, converted from java and now uses ISAAC and also has been converted from java. feel free to clean up the code and add to it :) 
-    C# using System;
+    using System;
     //ISAAC PRNG nabbed from http://www.burtleburtle.net/bob/rand/isaacafa.html
      
             public class CustomRandom //: PhysicalConstants
